@@ -17,11 +17,7 @@ Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility 
   </a>
 </p>
 
-for changes :
-npx quartz sync --no-pull
 
-to deploy on gh pages:
-npx quartz sync 
 
 to run : 
 npx quartz build --serve
