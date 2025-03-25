@@ -9,6 +9,5 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
-".quartz-cache" 
-.content/Work
-content/Work
+".quartz-cache"
+content/private
