@@ -3,23 +3,20 @@ import styles from "../styles/navigation.scss"
 
 export default (() => {
   function Navigation() {
-    // Hardcode the base path based on your GitHub Pages URL
-    const basePath = "/masri-digital/"
-
     return (
       <nav className="navbar">
         <ul className="nav-links">
           <li>
-            <a href={`${basePath}`}>Home</a>
+            <a href="./">Home</a>
           </li>
           <li>
-            <a href={`${basePath}resume/`}>Portfolio</a>
+            <a href="./Resume">Portfolio</a>
           </li>
           <li>
-            <a href={`${basePath}projects/`}>Projects</a>
+            <a href="./Projects">Projects</a>
           </li>
           <li>
-            <a href={`${basePath}services/`}>Services</a>
+            <a href="./Services">Services</a>
           </li>
         </ul>
       </nav>
