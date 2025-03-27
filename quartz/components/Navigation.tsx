@@ -7,16 +7,16 @@ export default (() => {
       <nav className="navbar">
         <ul className="nav-links">
           <li>
-            <a href="/">Home</a>
+            <a href="./">Home</a>
           </li>
           <li>
-            <a href="/resume">Portfolio</a>
+            <a href="./resume">Portfolio</a>
           </li>
           <li>
-            <a href="/projects">Projects</a>
+            <a href="./projects">Projects</a>
           </li>
           <li>
-            <a href="/services">Services</a>
+            <a href="./services">Services</a>
           </li>
         </ul>
       </nav>
