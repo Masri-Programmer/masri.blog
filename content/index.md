@@ -30,7 +30,7 @@ title: Welcome
 - ⚡ Interests :Gaming and Swimming! 😏<br>
 </p>
 
-<div align="center"> 
+<div align="center">
   <a href="mailto:masri_mohamad@protonmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -40,7 +40,11 @@ title: Welcome
   <a href="https://masri-programmer.github.io/mohamad-masri/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
+  <a href="https://github.com/Masri-Programmer" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
+
 
 
 <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27">  Languages-Frameworks-Tools   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27"></h2>

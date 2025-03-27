@@ -1,0 +1,42 @@
+.navbar {
+  z-index: 10;
+  position: fixed;
+  background-color: var(--light);
+  padding: 15px 20px;
+  box-shadow: 0 4px 6px #0000001a;
+  top: 0;
+  width: 100%;
+  left: 0;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 0;
+  margin: 0;
+}
+
+.nav-links li {
+  display: inline;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: var(--darkgray);
+  font-weight: bold;
+  transition: color 0.3s ease-in-out;
+}
+
+.nav-links a:hover {
+  color: var(--secondary);
+}
+
+/* Responsive - Hamburger Menu */
+@media (max-width: 768px) {
+  .nav-links {
+    flex-direction: column;
+    text-align: center;
+  }
+}

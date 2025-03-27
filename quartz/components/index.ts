@@ -21,6 +21,7 @@ import RecentNotes from "./RecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
 import Flex from "./Flex"
+import Navigation from "./Navigation"
 
 export {
   ArticleTitle,
@@ -29,6 +30,7 @@ export {
   FolderContent,
   Darkmode,
   Head,
+  Navigation,
   PageTitle,
   ContentMeta,
   Spacer,
