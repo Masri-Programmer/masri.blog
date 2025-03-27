@@ -27,4 +27,4 @@ tags: [personal]
 </div>
 
 
-[[resume]]
+[[Resume]]

@@ -59,4 +59,4 @@ description: "[[technical-skills]] - [[education]] - [[resume]]"
     
 - **Tutoring & Mentorship** – Taught Python and programming fundamentals _(Python, Problem-Solving, Teaching Skills)_
 
-[[technical-skills]] - [[education]] - [[resume]]
+[[technical-skills]] - [[education]] - [[Resume]]

@@ -12,4 +12,4 @@ tags: [soft-skills]
 - High comprehension
 - IT and process affinity
 
-[[technical-skills]] - [[education]] - [[resume]]
+[[technical-skills]] - [[education]] - [[Resume]]

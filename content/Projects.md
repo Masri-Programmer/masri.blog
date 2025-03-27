@@ -21,6 +21,6 @@ tags:
 
 - <a href="https://masri-programmer.github.io/mohamad-masri/" target="_blank">Others</a>
 
-[[technical-skills]] - [[education]] - [[resume]]
+[[technical-skills]] - [[education]] - [[Resume]]
 
 ![[masri-programmer.github.io_mohamad-masri_ (1).png]]

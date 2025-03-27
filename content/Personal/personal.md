@@ -15,4 +15,4 @@ tags: [personal]
 - Basketball
 - Chess
 
-[[contact]] - [[resume]]
+[[contact]] - [[Resume]]

@@ -16,5 +16,5 @@ source:
 - [[technical-skills]] - Technical Skills
 - [[competences]] - Core Competences
 - [[education]] - Education Background
-- [[projects]] - Project Portfolio
+- [[Projects]] - Project Portfolio
 - [[personal]] - Languages & Hobbies

@@ -37,4 +37,4 @@ tags: [skills, technical]
 - [Python](https://www.python.org/), [Java](https://www.java.com/), [C++](https://isocpp.org/)
     
 
-[[work-experience]] - [[competences]] - [[resume]]
+[[work-experience]] - [[competences]] - [[Resume]]
