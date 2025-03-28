@@ -12,7 +12,6 @@ tags: [personal]
 
 - Travel
 - Fitness
-- Basketball
-- Chess
+- Gaming
 
 [[contact]] - [[Resume]]

@@ -21,12 +21,12 @@ title: Welcome
 </p>
 
 <p align="center">
-  - 🔭 <b>Software Engineering</b> at <b>Meinders & Elstermann Gmbh!</b><br>
-  - 🌱 I’m currently exploring and learning in-depth backend 😁<br>
-  - ✨ Also focusing on problem-solving and full-stack development<br>
-  - 👯 Learning & Contributing to <b>Open Source Projects</b> 😃<br>
-  - 🥅 <i><b>2025 Goals</b></i>: Publish my Vlog with AI Agents ❤️<br>
-  - ⚡ Interests: Gaming and Swimming! 😏<br>
+🔭 <b>Software Developer</b> at <b><a href="https://www.flyerheaven.de/">Flyerheaven!</a></b><br>
+🌱 I'm currently exploring and learning in-depth <a href="./Backend/Laravel/">backend</a> 😁<br>
+✨ Also focusing on problem-solving and full-stack development<br>
+👯 Learning & Contributing to <b>Open Source Projects</b> 😃<br>
+🥅 <i><b>2025 Goals</b></i>: Publish my Vlog with AI Agents ❤️<br>
+⚡ Interests: Gaming and Swimming! 😏<br>
 </p>
 
 <div align="center">

@@ -18,3 +18,5 @@ source:
 - [[education]] - Education Background
 - [[Projects]] - Project Portfolio
 - [[personal]] - Languages & Hobbies
+
+[Download](obsidian://open?vault=content&file=Assets%2FPDF%2FLebenslauf.pdf)

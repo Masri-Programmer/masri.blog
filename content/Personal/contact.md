@@ -5,7 +5,7 @@ tags: [personal]
 # Contact Information
 
  **Address:**  
-[Nettelbeck Str., 26131 Oldenburg, Germany](https://www.google.com/maps/search/?api=1&query=Nettelbeck+Str.+10,+26131+Oldenburg,+Germany)
+ Oldenburg, Germany
 
  **Email:**  
 [masri_mohamad@protonmail.com](mailto:masri_mohamad@protonmail.com)
