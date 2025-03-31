@@ -13,13 +13,13 @@ export default (() => {
             <a href="Blog">Blog</a>
           </li>
           <li>
-            <a href="./Resume">Portfolio</a>
+            <a href="Resume">Portfolio</a>
           </li>
           <li>
-            <a href="./Projects">Projects</a>
+            <a href="Projects">Projects</a>
           </li>
           <li>
-            <a href="./Services">Services</a>
+            <a href="Services">Services</a>
           </li>
         </ul>
       </nav>
