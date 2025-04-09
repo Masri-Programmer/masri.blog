@@ -5,7 +5,17 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.Comments({
+      provider: "giscus",
+      options: {
+        repo: "masri-programmer/masri.blog",
+        repoId: "R_kgDOONST2Q",
+        category: "Announcements",
+        categoryId: "DIC_kwDOONST2c4Co7lM",
+      },
+    }),
+  ],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",
@@ -35,6 +45,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
+    Component.RecentNotes({ limit: 3 }),
     Component.Explorer(),
   ],
   right: [
@@ -44,7 +55,7 @@ export const defaultContentPageLayout: PageLayout = {
   ],
 }
 
-// components for pages that display lists of pages  (e.g. tags or folders)
+// components for pages that display lists of pages (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
@@ -61,5 +72,21 @@ export const defaultListPageLayout: PageLayout = {
     }),
     Component.Explorer(),
   ],
-  right: [],
+  right: [
+    Component.RecentNotes({
+      limit: 7,
+      title: "Recent Blog Posts",
+      filter: (f) => f.slug?.startsWith("Blog") ?? false,
+    }),
+  ],
 }
+
+// export const HomeListPageLayout: SharedLayout = {
+//   afterBody: [
+//     Component.RecentNotes({
+//       limit: 7,
+//       title: "Recent Blog Posts",
+//       filter: (f) => f.slug?.startsWith("Blog") ?? false,
+//     }),
+//   ],
+// }

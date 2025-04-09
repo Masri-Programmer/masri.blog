@@ -19,4 +19,5 @@ source:
 - [[Projects]] - Project Portfolio
 - [[personal]] - Languages & Hobbies
 
-[Download](http://resume.masri.blog/download)
+
+>[!info] [Download](http://resume.masri.blog/download)
