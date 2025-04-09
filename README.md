@@ -1,23 +1,19 @@
-# Quartz v4
+# Masri Blog
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+> “Masri, derived from the Arabic word for _Egyptian_, carries deep cultural significance—echoing the grandeur of ancient history. In the realm of programming, it symbolizes a fusion of Egypt’s timeless wisdom with modern technological innovation. Ancient doesn't mean primitive; their advancements were so sophisticated that some remain unsolved mysteries even today. They were, in many ways, as forward-thinking as we are now, leaving behind a legacy that continues to inspire awe and curiosity.”  
+> — _Mohamad Masri_
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+Welcome to [**Masri.blog**](https://masri.blog) — a digital space where thoughts, tools, and software intersect with creativity and curiosity.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+This site is a curated collection of:
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+- 🧠 **Knowledge Base**: A multi-part resource series for developers, featuring tools, productivity hacks, portfolio inspiration, SEO utilities, AI project ideas, and more.
+- 📚 **Blog Posts**: Tutorials, developer tips, and curated tech resources—like GitHub repositories to boost your career or how to build browser-based games with Vanilla JS and CSS.
+- 💼 **Professional Portfolio**: View my [CV/resume](https://masri.blog/resume), explore my technical competencies, and learn about the services I offer—including Progressive Web App (PWA) development.
+- 🛠️ **Developer Resources**: Contracts for freelancers, frontend design tools, and a toolbox of handpicked web dev utilities.
 
-## Sponsors
+Masri Blog is your cotton ball of content—soft, useful, absorbent, and free.
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+## 🤝 Contributing
 
-
-
-to run : 
-npx quartz build --serve
+[Click here to view the full contribution guidelines.](CONTRIBUTING.md)

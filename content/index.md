@@ -79,8 +79,8 @@ title: Welcome
 </p>
 
 <p align="center">
-  <a href="https://github.com/Masri-Programmer/masri-digital">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Masri-programmer&repo=masri-digital&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast" alt="Repo Card">
+  <a href="https://github.com/Masri-Programmer/masri.blog">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=Masri-programmer&repo=masri.blog&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast" alt="Repo Card">
   </a>
   <br/>
   <a href="https://github.com/Masri-Programmer/mohamad-masri">

@@ -6,6 +6,8 @@ import * as Plugin from "./quartz/plugins"
  *
  * See https://quartz.jzhao.xyz/configuration for more information.
  */
+
+// npx quartz build --serve
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Masri",
