@@ -8,7 +8,7 @@ author:
 created: 2025-03-26
 source:
 ---
-# **Mohamad Masri - CV Overview**
+# **Mohamad Masri - [Resume](http://resume.masri.blog/)**
 
 
 - [[contact]] - Contact Information

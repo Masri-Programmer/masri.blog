@@ -45,7 +45,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.RecentNotes({ limit: 3 }),
+    Component.RecentNotes({ showTags: false }),
     Component.Explorer(),
   ],
   right: [
@@ -75,6 +75,7 @@ export const defaultListPageLayout: PageLayout = {
   right: [
     Component.RecentNotes({
       limit: 7,
+      showTags: false,
       title: "Recent Blog Posts",
       filter: (f) => f.slug?.startsWith("Blog") ?? false,
     }),

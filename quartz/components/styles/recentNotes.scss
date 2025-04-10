@@ -22,3 +22,9 @@
     }
   }
 }
+
+@media (max-width: 768px) {
+  .recent-notes {
+    display: none;
+  }
+}
