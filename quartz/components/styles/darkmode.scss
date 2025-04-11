@@ -22,23 +22,35 @@
 
 :root[saved-theme="dark"] body {
   background-image:
-    linear-gradient(90deg, var(--light) 0%, transparent 73%),
     repeating-linear-gradient(
       90deg,
-      rgba(127, 127, 127, 0.1) 0px,
-      rgba(127, 127, 127, 0.1) 1px,
+      hsla(57, 0%, 42%, 0.09) 0px,
+      hsla(57, 0%, 42%, 0.09) 1px,
       transparent 1px,
-      transparent 17px
+      transparent 60px
     ),
     repeating-linear-gradient(
       0deg,
-      rgba(127, 127, 127, 0.1) 0px,
-      rgba(127, 127, 127, 0.1) 1px,
+      hsla(57, 0%, 42%, 0.09) 0px,
+      hsla(57, 0%, 42%, 0.09) 1px,
       transparent 1px,
-      transparent 17px
-    );
-
-  background-size: auto;
+      transparent 60px
+    ),
+    repeating-linear-gradient(
+      0deg,
+      hsla(57, 0%, 42%, 0.09) 0px,
+      hsla(57, 0%, 42%, 0.09) 1px,
+      transparent 1px,
+      transparent 10px
+    ),
+    repeating-linear-gradient(
+      90deg,
+      hsla(57, 0%, 42%, 0.09) 0px,
+      hsla(57, 0%, 42%, 0.09) 1px,
+      transparent 1px,
+      transparent 10px
+    ),
+    linear-gradient(90deg, rgb(20, 20, 20), rgb(20, 20, 20));
 }
 
 :root[saved-theme="light"] body {
