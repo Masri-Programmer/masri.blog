@@ -16,6 +16,7 @@ status: published, draft
 cover_image: Assets/Img/Profile.jpg
 ---
 ---
+![[Pasted image 20250325171638.png]]
 # 👋 Welcome to [Masri.blog](https://masri.blog/) 
 
 Hey there! I'm [**Mohamad Masri**](/Portfolio) — a web developer with a passion for [crafting clean, efficient, and impactful](/Templates) digital experiences. This [site](masri.blog) is a blend of my professional profile, curated developer resources, and hands-on tutorials designed to help you level up in [tech](/Blog).
