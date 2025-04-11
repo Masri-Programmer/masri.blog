@@ -45,7 +45,7 @@ Curated resources to help you grow as a developer, including:
 
 
 ### ✍️ Blog
-Explore [[recent articles]] :
+Explore [[Recent Articles]] :
 
 - [War story the hardest bug I ever debugged](app://obsidian.md/Blog/Coding/Frontend/War%20story%20the%20hardest%20bug%20I%20ever%20debugged.md)
 - [Understanding Tree Shaking in JavaScript A Comprehensive Guide](app://obsidian.md/Blog/Coding/Frontend/JS/Understanding%20Tree%20Shaking%20in%20JavaScript%20A%20Comprehensive%20Guide.md)
