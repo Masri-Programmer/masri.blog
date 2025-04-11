@@ -37,24 +37,43 @@ Learn more on the [[Services]] page.
 
 ### 📚 Developer Knowledge Base
 Curated resources to help you grow as a developer, including:
-- [[Knowledge Base part 5]]
-- [[Knowledge Base part 4]]
-- [[Knowledge Base part 3]]
-- [[Knowledge Base part 2]]
-- [[Knowledge Base part 1]]
+
+%% DATAVIEW_PUBLISHER: start
+```dataview
+LIST
+FROM "Blog/Coding/Browser Bookmarks"
+SORT file.mtime DESC LIMIT 5
+```
+%%
+
+- [[Blog/Coding/Browser Bookmarks/Knowledge Base part 3.md|Knowledge Base part 3]]
+- [[Blog/Coding/Browser Bookmarks/Knowledge Base part 4.md|Knowledge Base part 4]]
+- [[Blog/Coding/Browser Bookmarks/Knowledge Base part 5.md|Knowledge Base part 5]]
+- [[Blog/Coding/Browser Bookmarks/Knowledge Base part 1.md|Knowledge Base part 1]]
+- [[Blog/Coding/Browser Bookmarks/Knowledge Base part 2.md|Knowledge Base part 2]]
+
+%% DATAVIEW_PUBLISHER: end %%
 
 
 ### ✍️ Blog
 Explore [[Recent Articles]] :
 
-- [War story the hardest bug I ever debugged](app://obsidian.md/Blog/Coding/Frontend/War%20story%20the%20hardest%20bug%20I%20ever%20debugged.md)
-- [Understanding Tree Shaking in JavaScript A Comprehensive Guide](app://obsidian.md/Blog/Coding/Frontend/JS/Understanding%20Tree%20Shaking%20in%20JavaScript%20A%20Comprehensive%20Guide.md)
-- [Top 5 React Stock Chart Libraries for 2025 Syncfusion Blogs](app://obsidian.md/Blog/Coding/Frontend/React/Top%205%20React%20Stock%20Chart%20Libraries%20for%202025%20%20Syncfusion%20Blogs.md)
-- [EP157 How to Learn Backend Development](app://obsidian.md/Blog/Coding/Backend/EP157%20How%20to%20Learn%20Backend%20Development.md)
-- [[18 GitHub Repositories to Boost Your Career as a Developer 🚀🧑‍💻]]
-- [[Making a Browser Based Game With Vanilla JS and CSS – SitePoint]]
-- [[The 13 software engineering laws]]
-- [[Animals Crossing AI Helps Protect Wildlife Across the Globe]]
+
+%% DATAVIEW_PUBLISHER: start
+```dataview
+LIST 
+FROM "Blog"
+SORT file.mtime DESC LIMIT 5
+```
+%%
+
+- [[Blog/Coding/Frontend/War story the hardest bug I ever debugged.md|War story the hardest bug I ever debugged]]
+- [[Blog/Coding/Frontend/JS/Understanding Tree Shaking in JavaScript A Comprehensive Guide.md|Understanding Tree Shaking in JavaScript A Comprehensive Guide]]
+- [[Blog/Coding/Frontend/React/Top 5 React Stock Chart Libraries for 2025  Syncfusion Blogs.md|Top 5 React Stock Chart Libraries for 2025  Syncfusion Blogs]]
+- [[Blog/Coding/Backend/EP157 How to Learn Backend Development.md|EP157 How to Learn Backend Development]]
+- [[Blog/Personal/education.md|education]]
+
+%% DATAVIEW_PUBLISHER: end %%
 
 
 
