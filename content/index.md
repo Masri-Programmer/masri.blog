@@ -31,6 +31,11 @@ Check out my [[Resume]] to explore:
 -  [[Portfolio]] showcasing real-world work &  [[Projects]]
 - [Education](/Blog/Personal/education) background
 
+> [!info] Get your digital Resume
+> [Demo](http://resume.masri.blog/) [Source](https://github.com/Masri-Programmer/resume)
+> 
+
+
 ### 🛠️ Services
 I offer tailored solutions for individuals and businesses.
 Learn more on the [[Services]] page.
