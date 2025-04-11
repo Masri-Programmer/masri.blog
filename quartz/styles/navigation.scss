@@ -1,9 +1,7 @@
 .navbar {
   z-index: 10;
   position: fixed;
-  background-color: var(--light);
   padding: 15px 20px;
-  box-shadow: 0 4px 6px #0000001a;
   top: 0;
   width: 100%;
   left: 0;
@@ -37,5 +35,38 @@
   .navbar,
   .nav-links {
     display: none;
+  }
+}
+
+:root[saved-theme="light"] {
+  .navbar {
+    background-image:
+      linear-gradient(90deg, transparent 79px, #abced4 79px, #abced4 81px, transparent 81px),
+      linear-gradient(#eee 0.1em, transparent 0.1em);
+    background-size: 100% 1.2em;
+    box-shadow: 0 4px 6px #0000001a;
+  }
+}
+
+:root[saved-theme="dark"] {
+  .navbar {
+    box-shadow: 0px !important;
+    background-image:
+      linear-gradient(45deg, rgb(33, 33, 33) 0%, transparent 73%),
+      repeating-linear-gradient(
+        90deg,
+        rgba(127, 127, 127, 0.1) 0px,
+        rgba(127, 127, 127, 0.1) 1px,
+        transparent 1px,
+        transparent 17px
+      ),
+      repeating-linear-gradient(
+        0deg,
+        rgba(127, 127, 127, 0.1) 0px,
+        rgba(127, 127, 127, 0.1) 1px,
+        transparent 1px,
+        transparent 17px
+      ),
+      linear-gradient(0deg, rgb(33, 33, 33), rgb(33, 33, 33));
   }
 }
