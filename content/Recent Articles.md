@@ -48,11 +48,15 @@ SORT file.mtime DESC LIMIT 5
 
 ### Services
 
+
+%% DATAVIEW_PUBLISHER: start
 ```dataview
 LIST 
 FROM "Services"
 SORT file.mtime DESC LIMIT 5
 ```
+%%
+%% DATAVIEW_PUBLISHER: end %%
 
 
 
