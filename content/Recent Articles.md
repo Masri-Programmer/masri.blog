@@ -56,3 +56,36 @@ SORT file.mtime DESC LIMIT 5
 
 
 
+%% DATAVIEW_PUBLISHER: start
+```dataview
+LIST file.link
+FROM #clippings   AND #AI 
+SORT file.mtime DESC
+```
+%%
+
+
+
+%% DATAVIEW_PUBLISHER: end %%
+
+
+%% DATAVIEW_PUBLISHER: start
+```dataview
+TABLE date, file.link
+FROM ""
+WHERE date >= date("2025-03-03") AND date <= date("2025-04-04")
+SORT date DESC
+```
+%%
+%% DATAVIEW_PUBLISHER: end %%
+
+
+%% DATAVIEW_PUBLISHER: start
+```dataview
+TABLE value, file.link
+FROM ""
+WHERE value > 100
+SORT value DESC
+```
+%%
+%% DATAVIEW_PUBLISHER: end %%

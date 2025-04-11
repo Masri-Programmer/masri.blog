@@ -5,7 +5,7 @@ tags:
 Created: 2025-03-20
 author:
   - Mohamad Masri
-title: Masri.blog - Computer Science Blog, Portfolio & Resources
+title: Welcome
 description: " Masri's web development portfolio and blog, featuring tutorials, resources, and insights on frontend, backend, and software."
 categories: personal, development, blog
 language:
@@ -19,7 +19,7 @@ cover_image: Assets/Img/Profile.jpg
 ![[Pasted image 20250325171638.png]]
 # 👋 Welcome to [Masri.blog](https://masri.blog/) 
 
-Hey there! I'm [**Mohamad Masri**](/Portfolio) — a web developer with a passion for [crafting clean, efficient, and impactful](/Templates) digital experiences. This [site](masri.blog) is a blend of my professional profile, curated developer resources, and hands-on tutorials designed to help you level up in [tech](/Blog).
+Hey there! I'm [**Mohamad Masri**](/Portfolio) — a web developer with a passion for [crafting clean, efficient, and impactful]() digital experiences. This [site](masri.blog) is a blend of my professional profile, curated developer resources, and hands-on tutorials designed to help you level up in [tech](/Blog).
 
 
 ## 🚀 What You'll Find Here
@@ -63,7 +63,7 @@ Explore [[Recent Articles]] :
 ```dataview
 LIST 
 FROM "Blog"
-SORT file.mtime DESC LIMIT 5
+SORT file.mtime DESC LIMIT 7
 ```
 %%
 
@@ -72,6 +72,8 @@ SORT file.mtime DESC LIMIT 5
 - [[Blog/Coding/Frontend/React/Top 5 React Stock Chart Libraries for 2025  Syncfusion Blogs.md|Top 5 React Stock Chart Libraries for 2025  Syncfusion Blogs]]
 - [[Blog/Coding/Backend/EP157 How to Learn Backend Development.md|EP157 How to Learn Backend Development]]
 - [[Blog/Personal/education.md|education]]
+- [[Blog/Clippings/‎Gemini – chat to supercharge your ideas.md|‎Gemini – chat to supercharge your ideas]]
+- [[Blog/Coding/18 GitHub Repositories to Boost Your Career as a Developer 🚀🧑‍💻.md|18 GitHub Repositories to Boost Your Career as a Developer 🚀🧑‍💻]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
