@@ -234,7 +234,7 @@ export function renderPage(
   const doc = (
     <html lang={lang}>
       <Head {...componentData} />
-      <body data-slug={slug}>
+      <body data-slug={slug} class="pattern">
         <div id="quartz-root" class="page">
           <Body {...componentData}>
             {LeftComponent}

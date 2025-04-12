@@ -32,92 +32,9 @@
   color: var(--secondary);
 }
 
-@media (max-width: 768px) {
+@media (max-width: 800px) {
   .navbar,
   .nav-links {
     display: none;
-  }
-}
-
-:root[saved-theme="light"] {
-  .navbar {
-    background-image:
-      linear-gradient(90deg, transparent 79px, #abced4 79px, #abced4 81px, transparent 81px),
-      linear-gradient(#eee 0.1em, transparent 0.1em);
-    background-size: 100% 1.2em;
-    box-shadow: 0 4px 6px #0000001a;
-  }
-  @media (max-width: 1599px) {
-    .navbar {
-      background-image:
-        repeating-linear-gradient(
-          90deg,
-          hsla(196, 0%, 79%, 0.06) 0px,
-          hsla(196, 0%, 79%, 0.06) 1px,
-          transparent 1px,
-          transparent 96px
-        ),
-        /* Vertical grid lines (wide) */
-          repeating-linear-gradient(
-            0deg,
-            hsla(196, 0%, 79%, 0.06) 0px,
-            hsla(196, 0%, 79%, 0.06) 1px,
-            transparent 1px,
-            transparent 96px
-          ),
-        /* Horizontal grid lines (wide) */
-          repeating-linear-gradient(
-            0deg,
-            hsla(196, 0%, 79%, 0.09) 0px,
-            hsla(196, 0%, 79%, 0.09) 1px,
-            transparent 1px,
-            transparent 12px
-          ),
-        /* Horizontal grid lines (narrow) */
-          repeating-linear-gradient(
-            90deg,
-            hsla(196, 0%, 79%, 0.09) 0px,
-            hsla(196, 0%, 79%, 0.09) 1px,
-            transparent 1px,
-            transparent 12px
-          ); /* Vertical grid lines (narrow) */
-      background-size: auto;
-    }
-  }
-}
-
-:root[saved-theme="dark"] {
-  .navbar {
-    box-shadow: 0px !important;
-    background-image:
-      repeating-linear-gradient(
-        90deg,
-        hsla(57, 0%, 42%, 0.09) 0px,
-        hsla(57, 0%, 42%, 0.09) 1px,
-        transparent 1px,
-        transparent 60px
-      ),
-      repeating-linear-gradient(
-        0deg,
-        hsla(57, 0%, 42%, 0.09) 0px,
-        hsla(57, 0%, 42%, 0.09) 1px,
-        transparent 1px,
-        transparent 60px
-      ),
-      repeating-linear-gradient(
-        0deg,
-        hsla(57, 0%, 42%, 0.09) 0px,
-        hsla(57, 0%, 42%, 0.09) 1px,
-        transparent 1px,
-        transparent 10px
-      ),
-      repeating-linear-gradient(
-        90deg,
-        hsla(57, 0%, 42%, 0.09) 0px,
-        hsla(57, 0%, 42%, 0.09) 1px,
-        transparent 1px,
-        transparent 10px
-      ),
-      linear-gradient(90deg, rgb(20, 20, 20), rgb(20, 20, 20));
   }
 }

@@ -4,7 +4,7 @@ import styles from "../styles/navigation.scss"
 export default (() => {
   function Navigation() {
     return (
-      <nav className="navbar">
+      <nav className="navbar pattern">
         <ul className="nav-links">
           <li>
             <a href="/">Home</a>
