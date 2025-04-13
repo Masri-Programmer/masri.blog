@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: /drafts/
-Disallow: /temp/
-Sitemap: https://masri.blog/index.xml
