@@ -137,6 +137,20 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
         })
       }
 
+      yield write({
+        ctx,
+        content: `User-agent: *\nAllow: /\nSitemap: https://${ctx.cfg.configuration.baseUrl}/sitemap.xml`,
+        slug: "robots" as FullSlug,
+        ext: ".txt",
+      })
+
+      yield write({
+        ctx,
+        content: "7e3e0fbe3ca044a89a6a3d6c100bb091",
+        slug: "7e3e0fbe3ca044a89a6a3d6c100bb091" as FullSlug,
+        ext: ".txt",
+      })
+
       const fp = joinSegments("static", "contentIndex") as FullSlug
       const simplifiedIndex = Object.fromEntries(
         Array.from(linkIndex).map(([slug, content]) => {
