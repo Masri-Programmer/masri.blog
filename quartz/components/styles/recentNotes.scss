@@ -9,7 +9,14 @@
     margin-top: 1rem;
     padding-left: 0;
 
+    & > li::before {
+      content: "⊹";
+      margin-right: 10px;
+      color: var(--dark);
+    }
+
     & > li {
+      display: flex;
       margin: 1rem 0;
       .section > .desc > h3 > a {
         background-color: transparent;

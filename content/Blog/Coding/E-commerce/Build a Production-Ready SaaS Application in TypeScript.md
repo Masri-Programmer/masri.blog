@@ -1,248 +1,53 @@
 ---
-title: "Build a Production-Ready SaaS Application in TypeScript"
+title: "Launch Your SaaS Startup with this TypeScript Template"
+tags: ["saas", "typescript", "ecommerce", "nextjs", "encore", "clerk", "stripe", "tailwindcss"]
 source: "https://dev.to/encore/build-a-production-ready-saas-application-44nb"
-author:
-  - "[[DEV Community]]"
+author: "[[DEV Community]]"
+description: "Learn how to build a production-ready SaaS application using a TypeScript starter template with Next.js, Encore, Clerk, Stripe, and Tailwind CSS."
+keywords: ["saas", "typescript", "next.js", "encore.ts", "clerk", "stripe", "tailwindcss", "shadcn/ui", "ecommerce", "starter template"]
 published: 2025-03-18
 created: 2025-03-23
-description: "Thinking of building a SaaS application? This starter template will help you create a scalable and... Tagged with webdev, javascript, opensource, node."
-tags:
-  - "clippings"
 ---
-**Thinking of building a SaaS application? This starter template will help you create a scalable and production ready application using [Encore.ts](https://encore.dev/) and [Next.js](https://nextjs.org/).**
 
-It uses [Clerk](https://clerk.com/) for authentication, has a [Stripe](https://stripe.com/) integration for payments, and uses [Tailwind](https://tailwindcss.com/) and [shadcn/ui](https://ui.shadcn.com/) for styling and components.
 
-- **Demo:**[https://encorets-saas-starter.vercel.app](https://encorets-saas-starter.vercel.app/)
-- [Open on GitHub](https://github.com/encoredev/examples/tree/main/ts/saas-starter)
 
-[![SaaS Starter](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff6l6bjxt6i423760rh5f.png)](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff6l6bjxt6i423760rh5f.png)
+Ready to dive into the world of SaaS development?  This comprehensive starter template provides a robust foundation for building a scalable and production-ready SaaS application using TypeScript.  Imagine launching your own subscription-based service with integrated authentication, payments, and a sleek UI – this template makes it attainable.
 
-### Features
+This template leverages the power of Encore.ts and Next.js, providing a solid backend and frontend framework.  User authentication is handled seamlessly with Clerk, while Stripe integration facilitates payments and subscription management.  The modern UI is built using Tailwind CSS and shadcn/ui, ensuring a visually appealing and user-friendly experience.
 
-- Marketing landing page (/)
-- Pricing page (/pricing) which connects to Stripe Checkout
-- Dashboard pages with (/dashboard)
-- Subscription management (/dashboard/subscription)
+Key features of this template include:
 
-### Tech stack
+* **Marketing Landing Page:**  A compelling landing page to attract potential customers.
+* **Pricing Page:**  Clearly outlines subscription options and connects directly to Stripe Checkout.
+* **Dashboard Pages:**  Provides users with a personalized space to manage their subscriptions and access the application's features.
+* **Subscription Management:**  Allows users to easily manage their active subscriptions.
 
-- **Backend framework:**[Encore.ts](https://encore.dev/)
-- **Frontend framework:**[Next.js](https://nextjs.org/)
-- **Authentication:**[Clerk](https://clerk.com/)
-- **Payments:**[Stripe](https://stripe.com/)
-- **UI Library:**[Tailwind](https://tailwindcss.com/) & [shadcn/ui](https://ui.shadcn.com/)
+The tech stack is modern and robust:
 
-## Getting started
+* **Backend:** Encore.ts
+* **Frontend:** Next.js
+* **Authentication:** Clerk
+* **Payments:** Stripe
+* **UI:** Tailwind CSS & shadcn/ui
 
-### Install or Update Encore
+Getting started is straightforward, with clear instructions for installing Encore, setting up Clerk and Stripe, and deploying your application. The template also includes guidance on generating a request client to maintain synchronization between the backend and frontend.  Deployment is simplified with instructions for both Encore and Next.js on Vercel.
 
-Install Encore:
+This template not only provides the codebase but also offers valuable insights into setting up environment variables, handling CORS configuration, and testing payments. It's a complete package for anyone looking to build a SaaS application with TypeScript.
 
-- **macOS:**`brew install encoredev/tap/encore`
-- **Linux:**`curl -L https://encore.dev/install.sh | bash`
-- **Windows:**`iwr https://encore.dev/install.ps1 | iex`
+**Key Takeaways:**
 
-**Note**: This starter requires Encore v1.46.9+, if you have an older version installed, update using `encore version update`.
+* This template offers a practical starting point for building a SaaS application with a modern tech stack.
+* Clear instructions and comprehensive documentation make it easy to get started and deploy your application.
+* The integration of essential services like Clerk and Stripe simplifies authentication and payment processing.
 
-### Create app
+**Related Resources:**
 
-Create a local app from this template:  
+* [Encore.ts Documentation](https://encore.dev/docs/ts)
+* [Next.js Documentation](https://nextjs.org/docs)
+* [Clerk Documentation](https://clerk.com/docs)
+* [Stripe Documentation](https://stripe.com/docs)
 
-```
-encore app create my-app-name --example=ts/saas-starter
-```
+What features would you prioritize when building your own SaaS application?  How might you adapt this template to fit your specific needs?
 
-Then install the frontend dependencies:  
-
-```
-cd my-app-name/frontend
-pnpm install
-```
-
-## Setting up Clerk
-
-Create a Clerk account if you haven't already. Then, in the Clerk dashboard, create a new application.
-
-Ensure the application is configured to support organizations, which can be enabled on the **Organization management settings** page.
-
-### Secrets
-
-If you host your app on Vercel (see deployment instructions further down), you can connect your Clerk application with your Vercel project under **Integrations** in the project settings on Vercel.  
-Don't forget to run `vercel env pull` afterward.
-
-Otherwise, go to the *API Keys* page for your app. Copy the "Publishable Key" and one of the "Secret keys". To your frontend project, add them to the `.env.local` as  
-
-```
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY={PUBLISHABLE_KEY}
-CLERK_SECRET_KEY={SECRET_KEY}
-```
-
-You also need to add the following environment variables to your frontend project:  
-
-```
-NEXT_PUBLIC_CLERK_SIGN_IN_URL="/sign-in"
-```
-
-To add them to Encore, go to the *API Keys* page for your app. Copy the "Publishable Key" and one of the "Secret keys".
-
-From your terminal (inside the `backend` directory), run:  
-
-```
-$ encore secret set --prod ClerkSecretKey
-```
-
-Next, do the same for the development secret. The most secure way is to create another secret key (Clerk allows you to have multiple).  
-Once you have a client secret for development, set it similarly to before:  
-
-```
-$ encore secret set --dev ClerkSecretKey
-```
-
-## Setting up Stripe
-
-Create a Stripe account if you don't have one already. Then, create your account and make sure to set up the products and pricing plans. You must also configure the billing customer portal.
-
-You will also need to add your backend as a webhook endpoint in Stripe and set the endpoint URL to `https://YOUR_DOMAIN/stripe/webhook`.
-
-Currently, the pricing plans are stored in [frontend/lib/plans.ts](https://./frontend/lib/plans.ts), but you can also read them from Stripe or store them in a database if you prefer.
-
-### Secrets
-
-On the Stripe dashboard, go to the *Developers* page and create a new API key. Copy the "Secret Key".
-
-From your terminal (inside the `backend` directory), run:  
-
-```
-$ encore secret set --dev StripeSecretKey
-```
-
-To be able to verify the incoming webhook requests, you need to copy the signing secret from the Webhook page on the Stripe dashboard and add it to Encore by running:  
-
-```
-$ encore secret set --dev StripeWebhookSigningSecret
-```
-
-Once you want to set it up for production, create a separate Secret key and Webhook Signing Secret for production and run:  
-
-```
-$ encore secret set --prod StripeSecretKey
-$ encore secret set --prod StripeWebhookSigningSecret
-```
-
-### Testing payments
-
-To test Stripe payments, use the following test card details:
-
-Card Number: [4242 4242 4242 4242](https://dev.to/encore/)  
-Expiration: Any future date  
-CVC: Any 3-digit number
-
-### Vercel Environment Variables
-
-Vercel-specific environment variables are not set on local by default, so you need to add them yourself. This can be done on the project settings page on Vercel.
-
-Please add the following environment variables **for development**:  
-
-```
-VERCEL_ENV="development"
-NEXT_PUBLIC_VERCEL_ENV="development"
-VERCEL_GIT_PULL_REQUEST_ID=""
-NEXT_PUBLIC_VERCEL_GIT_PULL_REQUEST_ID=""
-```
-
-## Run locally
-
-Run your Encore backend:  
-
-```
-cd backend
-encore run
-```
-
-**Note**: This will fail unless you set up the Stripe and Clerk secrets according to the instructions above.
-
-In a different terminal window, run the React frontend using [Next.js](https://nextjs.org/):  
-
-```
-cd frontend
-pnpm run dev
-```
-
-### Generating a request client
-
-Keep the contract between the backend and frontend in sync by regenerating the request client whenever you make a change to an Encore endpoint.  
-
-```
-pnpm run gen # Deployed Encore staging environment
-# or
-pnpm run gen:local # Locally running Encore backend
-```
-
-## Deployment
-
-### Encore
-
-Deploy your backend to a staging environment in Encore's free development cloud:  
-
-```
-git add -A .
-git commit -m 'Commit message'
-git push encore
-```
-
-Then head over to the [Cloud Dashboard](https://app.encore.dev/) to monitor your deployment and find your production URL.
-
-From there you can also see metrics, traces, connect your app to a GitHub repo to get automatic deploys on new commits, and connect your own AWS or GCP account to use for deployment.
-
-**Nice job, your SaaS backend is now deployed to the cloud!**
-
-### Next.js on Vercel
-
-1. Create a repo and push the project to GitHub.
-2. Create a new project on Vercel and point it to your GitHub repo.
-3. Select `frontend` as the root directory for the Vercel project.
-
-## Frontend & CORS configuration
-
-The backend needs to know where the frontend is hosted, in order to serve the correct redirect URLs  
-back from Stripe. It is also necessary for CORS to work correctly.
-
-To handle this, you need to update two configuration files.
-
-First, update the `FRONTEND_URL` constant in `backend/config.ts` to point to where your frontend is hosted.
-
-Secondly, if you are running into CORS issues when calling your Encore API from your frontend then you may need to specify which origins are allowed to access your API (via browsers). You do this by specifying the `global_cors` key in the `encore.app` file, which has the following structure:  
-
-```
-"global_cors": {
-  // allow_origins_without_credentials specifies the allowed origins for requests
-  // that don't include credentials. If nil it defaults to allowing all domains
-  // (equivalent to ["*"]).
-  "allow_origins_without_credentials": [
-    "<ORIGIN-GOES-HERE>"
-  ],
-
-  // allow_origins_with_credentials specifies the allowed origins for requests
-  // that include credentials. If a request is made from an Origin in this list
-  // Encore responds with Access-Control-Allow-Origin: <Origin>.
-  //
-  // The URLs in this list may include wildcards (e.g. "https://*.example.com"
-  // or "https://*-myapp.example.com").
-  "allow_origins_with_credentials": [
-    "<DOMAIN-GOES-HERE>"
-  ]
-}
-```
-
-Both of these default to "[https://encorets-saas-starter.vercel.app](https://encorets-saas-starter.vercel.app/)" which is the hosted demo application.
-
-More information on CORS configuration can be found here: [https://encore.dev/docs/ts/develop/cors](https://encore.dev/docs/ts/develop/cors)
-
-## Wrapping up
-
-You now have a scalable and production-ready SaaS application up and running. Now keep going and develop your SaaS product!
-
-- If you have questions: [Join our Discord](https://encore.dev/discord)
-- [Star Encore on GitHub](https://github.com/encoredev/encore)
-- [Find more Open-source App Examples](https://github.com/encoredev/examples)
+**Original Article:** [Build a Production-Ready SaaS Application in TypeScript](https://dev.to/encore/build-a-production-ready-saas-application-44nb)
+---

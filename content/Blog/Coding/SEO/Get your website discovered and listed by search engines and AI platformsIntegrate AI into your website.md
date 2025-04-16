@@ -11,14 +11,10 @@ publish: true
 description: Get your website discovered and listed by search engines and AI platforms Integrate AI into your website
 cover: 
 aliases:
+  - IndexNow Setup, Search Engine Submission Automation
 ---
----
-Date: [[2025-04-13]]
-Tags: #IndexNow #SEO #GitHubActions #ObsidianQuartz #Bing #GoogleSearchConsole #curl #Automation #Troubleshooting
-Aliases: IndexNow Setup, Search Engine Submission Automation
----
-https://images.pexels.com/photos/40185/mac-freelancer-macintosh-macbook-40185.jpeg?auto=compress&cs=tinysrgb&w=600
 
+---
 # Automating IndexNow Submissions for Obsidian Quartz on GitHub Pages
 
 **Context:** Summary of a chat conversation about setting up and automating URL submissions to search engines (primarily via IndexNow) for an Obsidian Quartz blog hosted on GitHub Pages.
@@ -141,3 +137,7 @@ run\: \|
 * [[Documentation  IndexNow.org]]
 * https://www.bing.com/indexnow/getstarted
 * https://search.google.com/search-console/about
+
+
+Date: [[2025-04-13]]
+Tags: #IndexNow #SEO #GitHubActions #ObsidianQuartz #Bing #GoogleSearchConsole #curl #Automation #Troubleshooting

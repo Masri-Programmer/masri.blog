@@ -1,16 +1,18 @@
 ---
 tags:
-  - ObsidianBlog
-  - ActionableContent
+  - MDN
+  - Web
+  - AI
+  - blog
 Created: 2025-03-20
 author:
   - Mohamad Masri
 title: Welcome
-description: " Masri's web development portfolio and blog, featuring tutorials, resources, and insights on frontend, backend, and software."
+description: " Masri's web development portfolio and blog, featuring tutorials, resources, and insights on frontend, backend, and software. web of science"
 categories: personal, development, blog
 language:
   - en
-keywords: web developer, coding, portfolio, JavaScript, React, vue, laravel, software engineering, computer science, ai, tech, development
+keywords: web development services, coding, portfolio, javaScript, react, vue, laravel, software engineering, computer science, ai, tech, development, mdn, resume templates
 layout: homepage
 status: published, draft
 cover_image: Assets/Img/Profile.jpg
@@ -19,8 +21,9 @@ cover_image: Assets/Img/Profile.jpg
 ![[Pasted image 20250325171638.png]]
 # 👋 Welcome to [Masri.blog](https://masri.blog/) 
 
-Hey there! I'm [**Mohamad Masri**](/Portfolio) — a web developer with a passion for [crafting clean, efficient, and impactful]() digital experiences. This [site](https://masri.blog/) is a blend of my professional profile, curated developer resources, and hands-on tutorials designed to help you level up in [tech](/Blog).
+Hey there! I'm [**Mohamad Masri**](/Portfolio) — a web developer with a passion for [crafting clean, efficient, and impactful]() digital experiences using modern **[frontend](/Blog/Coding/frontend)** and **[backend](/Blog/Coding/Backend)** technologies. This [site](https://masri.blog/) is a blend of my professional profile, curated developer resources, and hands-on tutorials designed to help you level up in [tech](/Blog).
 
+───✱*.｡:｡✱*.:｡✧*.｡✰*.:｡✧*.｡:｡*.｡✱ ───
 
 ## 🚀 What You'll Find Here
 
@@ -41,7 +44,7 @@ I offer tailored solutions for individuals and businesses.
 Learn more on the [[Services]] page.
 
 ### 📚 Developer Knowledge Base
-Curated resources to help you grow as a developer, including:
+Explore my curated **developer knowledge base** for quick tips, **coding resources**, and **web development guides**:
 
 %% DATAVIEW_PUBLISHER: start
 ```dataview
@@ -73,12 +76,12 @@ SORT file.mtime DESC LIMIT 7
 %%
 
 - [[Blog/Coding/Frontend/War story the hardest bug I ever debugged.md|War story the hardest bug I ever debugged]]
-- [[Blog/Coding/Frontend/JS/Understanding Tree Shaking in JavaScript A Comprehensive Guide.md|Understanding Tree Shaking in JavaScript A Comprehensive Guide]]
-- [[Blog/Coding/Frontend/React/Top 5 React Stock Chart Libraries for 2025  Syncfusion Blogs.md|Top 5 React Stock Chart Libraries for 2025  Syncfusion Blogs]]
+- [[Trim the Fat How Tree Shaking Supercharges Your JavaScript|Trim the Fat How Tree Shaking Supercharges Your JavaScript]]
+- [[Top 5 React Stock Chart Libraries|Top 5 React Stock Chart Libraries]]
 - [[Blog/Coding/Backend/EP157 How to Learn Backend Development.md|EP157 How to Learn Backend Development]]
 - [[Blog/Personal/education.md|education]]
 - [[Blog/Clippings/‎Gemini – chat to supercharge your ideas.md|‎Gemini – chat to supercharge your ideas]]
-- [[Blog/Coding/18 GitHub Repositories to Boost Your Career as a Developer 🚀🧑‍💻.md|18 GitHub Repositories to Boost Your Career as a Developer 🚀🧑‍💻]]
+- [[18 GitHub Repositories to Boost Your Career as a Developer 🚀🧑‍💻|18 GitHub Repositories to Boost Your Career as a Developer 🚀🧑‍💻]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -89,3 +92,5 @@ SORT file.mtime DESC LIMIT 7
 > [!tip] Whether you're here to collaborate, learn, or simply browse — welcome aboard! Feel free to [reach out](/Blog/Personal/contact) if something sparks your interest.
 
 Stay sharp and keep building. 💡
+
+───✱*.｡:｡✱*.:｡✧*.｡✰*.:｡✧*.｡:｡*.｡✱ ───

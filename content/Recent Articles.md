@@ -17,8 +17,8 @@ SORT file.mtime DESC LIMIT 5
 %%
 
 - [[Blog/Coding/Frontend/War story the hardest bug I ever debugged.md|War story the hardest bug I ever debugged]]
-- [[Blog/Coding/Frontend/JS/Understanding Tree Shaking in JavaScript A Comprehensive Guide.md|Understanding Tree Shaking in JavaScript A Comprehensive Guide]]
-- [[Blog/Coding/Frontend/React/Top 5 React Stock Chart Libraries for 2025  Syncfusion Blogs.md|Top 5 React Stock Chart Libraries for 2025  Syncfusion Blogs]]
+- [[Trim the Fat How Tree Shaking Supercharges Your JavaScript|Trim the Fat How Tree Shaking Supercharges Your JavaScript]]
+- [[Top 5 React Stock Chart Libraries|Top 5 React Stock Chart Libraries]]
 - [[Blog/Coding/Backend/EP157 How to Learn Backend Development.md|EP157 How to Learn Backend Development]]
 - [[Blog/Personal/education.md|education]]
 
