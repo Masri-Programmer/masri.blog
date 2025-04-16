@@ -23,8 +23,6 @@ cover_image: Assets/Img/Profile.jpg
 
 Hey there! I'm [**Mohamad Masri**](/Portfolio) — a web developer with a passion for [crafting clean, efficient, and impactful]() digital experiences using modern **[frontend](/Blog/Coding/frontend)** and **[backend](/Blog/Coding/Backend)** technologies. This [site](https://masri.blog/) is a blend of my professional profile, curated developer resources, and hands-on tutorials designed to help you level up in [tech](/Blog).
 
-───✱*.｡:｡✱*.:｡✧*.｡✰*.:｡✧*.｡:｡*.｡✱ ───
-
 ## 🚀 What You'll Find Here
 
 ### 💼 Professional Profile
@@ -54,11 +52,11 @@ SORT file.mtime DESC LIMIT 5
 ```
 %%
 
-- [[Blog/Coding/Browser Bookmarks/Knowledge Base part 3.md|Knowledge Base part 3]]
-- [[Blog/Coding/Browser Bookmarks/Knowledge Base part 4.md|Knowledge Base part 4]]
-- [[Blog/Coding/Browser Bookmarks/Knowledge Base part 5.md|Knowledge Base part 5]]
+- [[Blog/Coding/Browser Bookmarks/Knowledge Base part 6.md|Knowledge Base part 6]]
 - [[Blog/Coding/Browser Bookmarks/Knowledge Base part 1.md|Knowledge Base part 1]]
 - [[Blog/Coding/Browser Bookmarks/Knowledge Base part 2.md|Knowledge Base part 2]]
+- [[Blog/Coding/Browser Bookmarks/Knowledge Base part 4.md|Knowledge Base part 4]]
+- [[Blog/Coding/Browser Bookmarks/Knowledge Base part 5.md|Knowledge Base part 5]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -75,13 +73,13 @@ SORT file.mtime DESC LIMIT 7
 ```
 %%
 
-- [[Blog/Coding/Frontend/War story the hardest bug I ever debugged.md|War story the hardest bug I ever debugged]]
-- [[Trim the Fat How Tree Shaking Supercharges Your JavaScript|Trim the Fat How Tree Shaking Supercharges Your JavaScript]]
-- [[Top 5 React Stock Chart Libraries|Top 5 React Stock Chart Libraries]]
-- [[Blog/Coding/Backend/EP157 How to Learn Backend Development.md|EP157 How to Learn Backend Development]]
-- [[Blog/Personal/education.md|education]]
-- [[Blog/Clippings/‎Gemini – chat to supercharge your ideas.md|‎Gemini – chat to supercharge your ideas]]
-- [[18 GitHub Repositories to Boost Your Career as a Developer 🚀🧑‍💻|18 GitHub Repositories to Boost Your Career as a Developer 🚀🧑‍💻]]
+- [[Blog/Clippings/Unlock Software Mastery Foundational CS Papers Every Developer Should Read.md|Unlock Software Mastery Foundational CS Papers Every Developer Should Read]]
+- [[Blog/Clippings/Level Up Your Workflow 10 Must-Have Dev Resources 🛠️.md|Level Up Your Workflow 10 Must-Have Dev Resources 🛠️]]
+- [[Blog/Highlights.md|Highlights]]
+- [[Blog/Coding/Unlocking Engineering Wisdom 13 Laws Every Developer Should Know.md|Unlocking Engineering Wisdom 13 Laws Every Developer Should Know]]
+- [[Blog/Coding/Tools/Boosting Developer Experience Key Tools for 2025.md|Boosting Developer Experience Key Tools for 2025]]
+- [[Blog/Coding/Tools/Top 10 Developer Tooling for 2025 - Aviator Blog.md|Top 10 Developer Tooling for 2025 - Aviator Blog]]
+- [[Blog/Coding/Tools/Level Up Your Toolkit 7 Powerful Developer Aids.md|Level Up Your Toolkit 7 Powerful Developer Aids]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -93,4 +91,3 @@ SORT file.mtime DESC LIMIT 7
 
 Stay sharp and keep building. 💡
 
-───✱*.｡:｡✱*.:｡✧*.｡✰*.:｡✧*.｡:｡*.｡✱ ───

@@ -16,11 +16,11 @@ SORT file.mtime DESC LIMIT 5
 ```
 %%
 
-- [[Blog/Coding/Frontend/War story the hardest bug I ever debugged.md|War story the hardest bug I ever debugged]]
-- [[Trim the Fat How Tree Shaking Supercharges Your JavaScript|Trim the Fat How Tree Shaking Supercharges Your JavaScript]]
-- [[Top 5 React Stock Chart Libraries|Top 5 React Stock Chart Libraries]]
-- [[Blog/Coding/Backend/EP157 How to Learn Backend Development.md|EP157 How to Learn Backend Development]]
-- [[Blog/Personal/education.md|education]]
+- [[Blog/Clippings/Unlock Software Mastery Foundational CS Papers Every Developer Should Read.md|Unlock Software Mastery Foundational CS Papers Every Developer Should Read]]
+- [[Blog/Clippings/Level Up Your Workflow 10 Must-Have Dev Resources 🛠️.md|Level Up Your Workflow 10 Must-Have Dev Resources 🛠️]]
+- [[Blog/Highlights.md|Highlights]]
+- [[Blog/Coding/Unlocking Engineering Wisdom 13 Laws Every Developer Should Know.md|Unlocking Engineering Wisdom 13 Laws Every Developer Should Know]]
+- [[Blog/Coding/Tools/Boosting Developer Experience Key Tools for 2025.md|Boosting Developer Experience Key Tools for 2025]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -38,11 +38,11 @@ SORT file.mtime DESC LIMIT 5
 ```
 %%
 
-- [[Blog/Coding/Browser Bookmarks/Knowledge Base part 3.md|Knowledge Base part 3]]
-- [[Blog/Coding/Browser Bookmarks/Knowledge Base part 4.md|Knowledge Base part 4]]
-- [[Blog/Coding/Browser Bookmarks/Knowledge Base part 5.md|Knowledge Base part 5]]
+- [[Blog/Coding/Browser Bookmarks/Knowledge Base part 6.md|Knowledge Base part 6]]
 - [[Blog/Coding/Browser Bookmarks/Knowledge Base part 1.md|Knowledge Base part 1]]
 - [[Blog/Coding/Browser Bookmarks/Knowledge Base part 2.md|Knowledge Base part 2]]
+- [[Blog/Coding/Browser Bookmarks/Knowledge Base part 4.md|Knowledge Base part 4]]
+- [[Blog/Coding/Browser Bookmarks/Knowledge Base part 5.md|Knowledge Base part 5]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -56,6 +56,9 @@ FROM "Services"
 SORT file.mtime DESC LIMIT 5
 ```
 %%
+
+- [[Services.md|Services]]
+
 %% DATAVIEW_PUBLISHER: end %%
 
 
@@ -81,6 +84,10 @@ WHERE date >= date("2025-03-03") AND date <= date("2025-04-04")
 SORT date DESC
 ```
 %%
+
+| File | date | file.link |
+| ---- | ---- | --------- |
+
 %% DATAVIEW_PUBLISHER: end %%
 
 
@@ -92,4 +99,8 @@ WHERE value > 100
 SORT value DESC
 ```
 %%
+
+| File | value | file.link |
+| ---- | ----- | --------- |
+
 %% DATAVIEW_PUBLISHER: end %%

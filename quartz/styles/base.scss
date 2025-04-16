@@ -233,6 +233,13 @@ a {
     & .page-footer {
       margin-top: 1rem;
     }
+    & .footer-devider {
+      margin: 1rem 0rem;
+      text-align: center;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
 
     & .page-header {
       grid-area: grid-header;
