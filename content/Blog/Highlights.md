@@ -1,1 +1,1 @@
-[[A study plan to become a software developer]]
+[A study plan to become a software developer](/Blog/Coding/Learning/Your-Roadmap-to-Top-Tech-Interviews)

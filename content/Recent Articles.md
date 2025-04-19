@@ -16,11 +16,11 @@ SORT file.mtime DESC LIMIT 5
 ```
 %%
 
-- [[Blog/Clippings/Unlock Software Mastery Foundational CS Papers Every Developer Should Read.md|Unlock Software Mastery Foundational CS Papers Every Developer Should Read]]
-- [[Blog/Clippings/Level Up Your Workflow 10 Must-Have Dev Resources 🛠️.md|Level Up Your Workflow 10 Must-Have Dev Resources 🛠️]]
-- [[Blog/Highlights.md|Highlights]]
-- [[Blog/Coding/Unlocking Engineering Wisdom 13 Laws Every Developer Should Know.md|Unlocking Engineering Wisdom 13 Laws Every Developer Should Know]]
-- [[Blog/Coding/Tools/Boosting Developer Experience Key Tools for 2025.md|Boosting Developer Experience Key Tools for 2025]]
+- [[Blog/Coding/Backend/Laravel/Setting Up Command Shortcuts for Laravel Development.md|Setting Up Command Shortcuts for Laravel Development]]
+- [[Blog/Coding/Backend/PHP/PHP is now the Smartest Choice for Web Dev in 2025.md|PHP is now the Smartest Choice for Web Dev in 2025]]
+- [[Blog/Coding/Tools/Unleash Your Terminal Power Essential CLI and TUI Tools for Developers.md|Unleash Your Terminal Power Essential CLI and TUI Tools for Developers]]
+- [[Blog/Coding/Tools/11 Essential Free Websites Every Developer Needs 🛠️.md|11 Essential Free Websites Every Developer Needs 🛠️]]
+- [[Blog/Coding/Tools/Discover 10 free and indispensable tools that every web developer should bookmark to streamline debugging, API interactions, data handling, and more..md|Discover 10 free and indispensable tools that every web developer should bookmark to streamline debugging, API interactions, data handling, and more.]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -41,8 +41,8 @@ SORT file.mtime DESC LIMIT 5
 - [[Blog/Coding/Browser Bookmarks/Knowledge Base part 6.md|Knowledge Base part 6]]
 - [[Blog/Coding/Browser Bookmarks/Knowledge Base part 1.md|Knowledge Base part 1]]
 - [[Blog/Coding/Browser Bookmarks/Knowledge Base part 2.md|Knowledge Base part 2]]
+- [[Blog/Coding/Browser Bookmarks/Knowledge Base part 3.md|Knowledge Base part 3]]
 - [[Blog/Coding/Browser Bookmarks/Knowledge Base part 4.md|Knowledge Base part 4]]
-- [[Blog/Coding/Browser Bookmarks/Knowledge Base part 5.md|Knowledge Base part 5]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

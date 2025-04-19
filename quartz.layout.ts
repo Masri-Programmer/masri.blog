@@ -45,7 +45,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.RecentNotes({ showTags: false }),
+    Component.RecentNotes({ showTags: false, filter: (f) => f.slug?.startsWith("Blog") ?? false }),
     Component.Explorer(),
   ],
   right: [
