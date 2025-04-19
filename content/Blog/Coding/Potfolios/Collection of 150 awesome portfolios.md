@@ -1,6 +1,6 @@
 ---
-title: "Portfolio Links from 'Reply with your website and we'll rate it.'"
-source: "https://app.daily.dev/posts/iOCo3uttP#c-6CwyxcZlZ"
+title: 150 Awesome Portfolios
+source: https://app.daily.dev/posts/iOCo3uttP#c-6CwyxcZlZ
 tags:
   - clippings
   - portfolio

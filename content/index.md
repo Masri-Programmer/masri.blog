@@ -84,6 +84,14 @@ SORT file.mtime DESC LIMIT 7
 %% DATAVIEW_PUBLISHER: end %%
 
 
+%% DATAVIEW_PUBLISHER: start
+```dataview
+
+```
+%%
+%% DATAVIEW_PUBLISHER: end %%
+
+
 
 ---
 
