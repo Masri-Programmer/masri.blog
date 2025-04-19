@@ -16,11 +16,11 @@ SORT file.mtime DESC LIMIT 5
 ```
 %%
 
+- [[Blog/Coding/Potfolios/Collection of 150 awesome portfolios.md|Collection of 150 awesome portfolios]]
+- [[Blog/Coding/Frontend/Vue/Developer Toolkit Update Exploring New Frameworks Testing Utilities and Vue Tools.md|Developer Toolkit Update Exploring New Frameworks Testing Utilities and Vue Tools]]
 - [[Blog/Coding/Backend/Laravel/Setting Up Command Shortcuts for Laravel Development.md|Setting Up Command Shortcuts for Laravel Development]]
 - [[Blog/Coding/Backend/PHP/PHP is now the Smartest Choice for Web Dev in 2025.md|PHP is now the Smartest Choice for Web Dev in 2025]]
-- [[Blog/Coding/Tools/Unleash Your Terminal Power Essential CLI and TUI Tools for Developers.md|Unleash Your Terminal Power Essential CLI and TUI Tools for Developers]]
-- [[Blog/Coding/Tools/11 Essential Free Websites Every Developer Needs 🛠️.md|11 Essential Free Websites Every Developer Needs 🛠️]]
-- [[Blog/Coding/Tools/Discover 10 free and indispensable tools that every web developer should bookmark to streamline debugging, API interactions, data handling, and more..md|Discover 10 free and indispensable tools that every web developer should bookmark to streamline debugging, API interactions, data handling, and more.]]
+- [[Blog/Coding/Git/Lazygit A TUI Approach.md|Lazygit A TUI Approach]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
