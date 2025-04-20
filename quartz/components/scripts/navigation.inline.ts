@@ -19,16 +19,13 @@ document.addEventListener("DOMContentLoaded", () => {
             const res = await fetch("/static/contentIndex.json")
             const contentIndex = await res.json()
 
-            // Filter slugs that start with "Blog/"
             const blogSlugs = Object.keys(contentIndex).filter((slug) => slug.startsWith("Blog/"))
 
             if (blogSlugs.length > 0) {
               const randomSlug = blogSlugs[Math.floor(Math.random() * blogSlugs.length)]
 
-              // Simplify slug (remove leading/trailing slashes, normalize format if needed)
-              const simplifiedSlug = randomSlug.replace(/^\/|\/$/g, "") // basic simplification
+              const simplifiedSlug = randomSlug.replace(/^\/|\/$/g, "")
 
-              // Redirect using the same logic as joinSegments + encodeURI
               window.location.href = `/${encodeURI(simplifiedSlug)}`
             } else {
               console.warn("No blog slugs found.")

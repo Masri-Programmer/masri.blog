@@ -23,6 +23,13 @@ export default ((opts?: Options) => {
               <a href={link}>{text}</a>
             </li>
           ))}
+          <iframe
+            src="https://github.com/sponsors/Masri-Programmer/button"
+            title="Sponsor Masri-Programmer"
+            height="32"
+            width="114"
+            style="border: 0; border-radius: 6px;"
+          ></iframe>
         </ul>
       </footer>
     )
