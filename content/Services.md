@@ -52,4 +52,4 @@ Establish, maintain, and enhance your online footprint.
 
 ### Package 2: Infrastructure Management
 
-Ensure peak performance with hosting (web app/site, up to 10 emails), resource monitoring, security upgrades, and strategic migrations.
+Ensure peak performance with hosting (web app/site), resource monitoring, security upgrades, and strategic migrations.
