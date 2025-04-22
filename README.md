@@ -6,10 +6,14 @@ Welcome to [**Masri.blog**](https://masri.blog) — a digital space where though
 
 This site is a curated collection of:
 
-- 🧠 **Knowledge Base**: A multi-part resource series for developers, featuring tools, productivity hacks, portfolio inspiration, SEO utilities, AI project ideas, and more.
-- 📚 **Blog Posts**: Tutorials, developer tips, and curated tech resources—like GitHub repositories to boost your career or how to build browser-based games with Vanilla JS and CSS.
-- 💼 **Professional Portfolio**: View my [CV/resume](https://masri.blog/resume), explore my technical competencies, and learn about the services I offer—including Progressive Web App (PWA) development.
-- 🛠️ **Developer Resources**: Contracts for freelancers, frontend design tools, and a toolbox of handpicked web dev utilities.
+* Frontend Development (Vue 3, Tailwind CSS, Inertia.js)
+* Backend Development (Laravel, PHP)
+* Software Development Practices
+* Developer Tools and Resources
+
+## Visit the Site
+
+Explore the content at [https://masri.blog](https://masri.blog)
 
 Masri Blog is your cotton ball of content—soft, useful, absorbent, and free.
 
