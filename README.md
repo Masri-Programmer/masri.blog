@@ -4,12 +4,10 @@
 
 Welcome to [**Masri.blog**](https://masri.blog) — a digital space where thoughts, tools, and software intersect with creativity and curiosity.
 
-This site is a curated collection of:
-
-* Frontend Development (Vue 3, Tailwind CSS, Inertia.js)
-* Backend Development (Laravel, PHP)
-* Software Development Practices
-* Developer Tools and Resources
+- 🧠 **Knowledge Base**: A multi-part resource series for developers, featuring tools, productivity hacks, portfolio inspiration, SEO utilities, AI project ideas, and more.
+- 📚 **Blog Posts**: Tutorials, developer tips, and curated tech resources—like GitHub repositories .
+- 💼 **Professional Portfolio**: View my [CV/resume](https://resume.masri.blog/), and get your template.
+- 🛠️ **Developer Resources**: handpicked web dev utilities.
 
 ## Visit the Site
 
