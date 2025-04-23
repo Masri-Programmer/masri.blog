@@ -32,7 +32,7 @@ Check out my [[Resume]] to explore:
 -  [[Portfolio]] showcasing real-world work &  [[Projects]]
 - [Education](/Blog/Personal/education) background
 
-> [!info]  Get your digital Resume Template  [Demo](http://resume.masri.blog/) [Source](https://github.com/Masri-Programmer/resume)
+> [!tip]  Get your digital Resume Template  [Demo](http://resume.masri.blog/) [Source](https://github.com/Masri-Programmer/resume)
  #resume #templates
 > 
 
@@ -40,6 +40,10 @@ Check out my [[Resume]] to explore:
 ### 🛠️ Services
 I offer tailored solutions for individuals and businesses.
 Learn more on the [[Services]] page.
+
+> [!tip] Get your session [tracking tool](https://tracker.masri.blog) for tracking work hours daily!  [Demo](http://tracker.masri.blog/) 
+ #session-tracker #tracking-tool
+> 
 
 ### 📚 Developer Knowledge Base
 Explore my curated **developer knowledge base** for quick tips, **coding resources**, and **web development guides**:
@@ -83,11 +87,10 @@ SORT file.mtime DESC LIMIT 7
 
 %% DATAVIEW_PUBLISHER: end %%
 
-Checkout my session [tracking tool](https://tracker.masri.blog) for tracking my work hours daily!
 
 ---
 
-> [!tip] Whether you're here to collaborate, learn, or simply browse — welcome aboard! Feel free to [reach out](/Blog/Personal/contact) if something sparks your interest.
+> [!info] Whether you're here to collaborate, learn, or simply browse — welcome aboard! Feel free to [reach out](/Blog/Personal/contact) if something sparks your interest.
 
 Stay sharp and keep building. 💡
 
