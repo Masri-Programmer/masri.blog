@@ -83,6 +83,8 @@ SORT file.mtime DESC LIMIT 7
 
 %% DATAVIEW_PUBLISHER: end %%
 
+Checkout my session [tracking tool](https://tracker.masri.blog) for tracking my work hours daily!
+
 ---
 
 > [!tip] Whether you're here to collaborate, learn, or simply browse — welcome aboard! Feel free to [reach out](/Blog/Personal/contact) if something sparks your interest.
