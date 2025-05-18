@@ -107,6 +107,7 @@ created: 2025-04-19
 * [http://www.prismoverse.com/](http://www.prismoverse.com/)
 * [http://rahulwtf.in/](http://rahulwtf.in/)
 * [https://www.rajinkhan.com/](https://www.rajinkhan.com/)
+* [manishtamang.com](https://manishtamang.com/)
 * [https://redu-dev.vercel.app/](https://redu-dev.vercel.app/)
 * [https://rianasantatra.netlify.app/](https://rianasantatra.netlify.app/)
 * [https://rixetbd.com/](https://rixetbd.com/)
