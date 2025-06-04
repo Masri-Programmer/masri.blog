@@ -43,9 +43,6 @@ Here's an overview of their key services and characteristics:
 In essence, Med-Evasan is a comprehensive medical assistance partner for individuals, expatriates, and corporations, providing a wide array of services from routine medical coordination and telemedicine to complex medical evacuations and cost management, with a strong focus on accessibility, quality of care, and efficiency.
 
 
-![[../Assets/Img/www.med-evasan.com_.png]]
-
-
 ## Med-Evac App: Key Technologies and Packages Report
 
 The Med-Evac application is a modern web application built with a comprehensive suite of frontend technologies centered around the React ecosystem. This report outlines the key packages and tools that power its functionality, user interface, and development process.
@@ -125,3 +122,4 @@ These tools are essential for the development lifecycle, from building the appli
 ### Version Control
 
 - **Git:** (Implied Standard) The application's codebase is managed using Git, the industry-standard version control system, enabling collaborative development, change tracking, and release management.
+![[../Assets/Img/www.med-evasan.com_.png]]

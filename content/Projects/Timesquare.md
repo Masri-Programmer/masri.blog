@@ -27,7 +27,7 @@
 
 Based on its stated features and marketing, UltraStore.me (the Time Square app) positions itself as a modern, feature-rich e-commerce platform designed to offer a convenient, secure, and engaging shopping experience for a wide range of products. Its focus on user interface, diverse product offerings, and customer support mechanisms are positive indicators. However, as with any online retailer, individual experiences can vary, and prospective users might benefit from checking recent user reviews on app stores for the most up-to-date feedback.
 
-![[../Assets/Img/ultrastore.me_ultra-store (1).png]]
+
 
 ## UltraStore Project: Key Technologies and Packages Report
 
@@ -147,3 +147,5 @@ These tools are crucial for the development workflow, ensuring code quality, and
 ### Version Control
 
 - **Git:** (Implied Standard) The application's codebase is managed using Git, the industry-standard version control system, enabling collaborative development, change tracking, and release management.
+
+![[../Assets/Img/ultrastore.me_ultra-store (1).png]]
