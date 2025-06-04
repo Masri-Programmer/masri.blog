@@ -45,4 +45,4 @@ tags:
 - **Figma UX/UI Design & User Experience Tutorial**
     
 
-[[work-experience]] - [[Projects]] - [[Resume]]
+[[work-experience]] - [[Index]] - [[Resume]]

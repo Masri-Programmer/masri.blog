@@ -29,7 +29,7 @@ Hey there! I'm [**Mohamad Masri**](/Portfolio) — a web developer with a passio
 Check out my [[Resume]] to explore:
 - My **professional [Experience](/Blog/Personal/work-experience)**
 - [Technical skills](Blog/Personal/technical-skills) and **core [competencies](/Blog/Personal/competences)**
--  [[Portfolio]] showcasing real-world work &  [[Projects]]
+-  [[Portfolio]] showcasing real-world work &  [[Index]]
 - [Education](/Blog/Personal/education) background
 
 > [!tip]  Get your digital 100% ATS Friendly Resume Template  [Demo](http://resume.masri.blog/) [Source](https://github.com/Masri-Programmer/resume)
