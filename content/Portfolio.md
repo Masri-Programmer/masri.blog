@@ -45,8 +45,6 @@ tags:
   </a>
 </div>
 
-
-
 <h2 align="center" class="centered-title">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="27">  
   Skills   
@@ -105,19 +103,3 @@ tags:
     gap: 10px;
   }
 </style>
-
-<script src="https://giscus.app/client.js"
-        data-repo="masri-programmer/masri.blog"
-        data-repo-id="R_kgDOONST2Q"
-        data-category="Announcements"
-        data-category-id="DIC_kwDOONST2c4Co7lM"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="preferred_color_scheme"
-        data-lang="en"
-        crossorigin="anonymous"
-        async>
-</script>
