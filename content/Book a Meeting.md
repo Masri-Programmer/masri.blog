@@ -1,5 +1,4 @@
 ---
-title: "Create a Stylish Cal.com Booking Badge for Your Blog"
 author: "Mohamad Masri"
 date: "2025-07-02"
 description: "A quick guide on how to create and embed a stylish booking link on your developer blog or portfolio using an HTML snippet with Tailwind CSS."
