@@ -1,20 +1,15 @@
 ---
+title: "Create a Stylish Cal.com Booking Badge for Your Blog"
+author: "Mohamad Masri"
+date: "2025-07-02"
+description: "A quick guide on how to create and embed a stylish booking link on your developer blog or portfolio using an HTML snippet with Tailwind CSS."
 tags:
-  - HTML
-  - Markdown
+  - Web Development
+  - Mobile Development
+  - Software Development
   - Productivity
-  - Snippet
-source: "User Provided Snippet"
-author: "Masri Blog"
-description: "A quick guide on how to create and embed a stylish booking link on your developer blog using HTML and shields.io."
-keywords:
   - Cal.com
-  - booking link
-  - HTML
-  - markdown
-  - shields.io
-  - web development
-date created: "2025-07-02"
+  - Social
 ---
 <div class="max-w-md rounded-lg border border-gray-200 bg-white p-6 shadow-sm dark:border-gray-700 dark:bg-gray-800">
   <div class="flex items-center justify-between">
