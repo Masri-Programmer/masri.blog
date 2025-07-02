@@ -1,11 +1,11 @@
 # Adjektivdeklination mit 
 ## bestimmter Artikel
-![[Pasted image 20250605103555.png]]
+![[../../../Assets/Blog/Pasted image 20250605103555.png]]
 ## Ohne Artikel 
-![[Pasted image 20250605112838.png]]
+![[../../../Assets/Blog/Pasted image 20250605112838.png]]
 ## Unbest. Artikel
-![[Pasted image 20250605121437.png]]![[Pasted image 20250605121644.png]]
-![[Pasted image 20250605112519.png]]
+![[../../../Assets/Blog/Pasted image 20250605121437.png]]![[../../../Assets/Blog/Pasted image 20250605121644.png]]
+![[../../../Assets/Blog/Pasted image 20250605112519.png]]
 
 # Präpositionen
 
