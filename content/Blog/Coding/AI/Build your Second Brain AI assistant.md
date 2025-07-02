@@ -5,7 +5,11 @@ author: "[[Paul Iusztin]]"
 description: Summary of an open-source course teaching how to build a personal AI assistant using agents, advanced RAG, LLM fine-tuning, and LLMOps to interact with your notes (like Notion).
 keywords: AI assistant, second brain, RAG, retrieval-augmented generation, LLM, large language model, fine-tuning, agents, LLMOps, MLOps, Python, open source course, Notion AI, MongoDB Vector Search, ZenML, Hugging Face
 date created: 2025-04-15
+tags:
+  - Software architecture
+  - Productivity
 ---
+
 
 # Unlock Your Notes: Build a Personal AI Assistant with This Open-Source Course
 

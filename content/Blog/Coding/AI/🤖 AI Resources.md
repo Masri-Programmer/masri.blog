@@ -1,4 +1,13 @@
-
+---
+author: "Mohamad Masri"
+description: ""
+tags:
+  - Web Development
+  - Mobile Development
+  - Software Development
+  - Productivity
+  - Social
+---
 - ![ICON](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB8klEQVQ4jaWTS0sjURCFv7o9gQ4iEoRsFRURNCQIogEX7kXcuBYE/8cs3PpP3AyzMpAHyTYQzDo+GozQq6AkkHQwfWaRtKODyIAXLrfqUnXq1AvgFyBgAsQz+asbz2wFlGwmMHuN/ztvtj8SxTkHIEkmCTPDbIqX6HEcA8g5Z5KQFNuM0ofIZoakT0P/w0Ae8NP3fdvd3dXGxoYNh0P6/T6rq6vs7OywvLzMaDRic3OTXq/H6+srhULB0uk0z8/PBqD19XUNBgM9PDyo0+kon8+r0WgoDEO1220dHBwoCAIdHR0JULfb1dnZmQA5AM/z6Pf7FItFnp6eODk5wTnH6ekp29vb1Ot1bm9v2d/fZ2lpiYWFBcrlMgDufd4vLy+EYQhAFEVcXl5yeHiIJBqNBoVCgePjY+7u7nh8fPwIIIkoiphMJsw6ws3NDff39wCUSiXW1tY4Pz+nWq1OnZ2bApgZvu9TLBbZ2tpiMBgwPz9PpVJhOBwyNzdHq9VCErlcjuvr6zfWAFpZWVEQBOp2u6rVaspms7q6ulIYhgqCQHt7ewJ0cXGhZrOpdDr9NpkGxJ7n2eLiopxzltTA930ymQyS6PV6jMdjnHOkUimiKPo7M98dpPddkJkpKWgClOT5iTNJCt9aJgf8fvf5Je9P7Mp/AOy6BdSr7ieQAAAAAElFTkSuQmCC)[17 Projects for Teams to Build AI Features 100x Faster](https://dev.to/latitude/17-projects-for-teams-to-build-ai-features-100x-faster-nbn?ref=dailydev) - Tools to accelerate AI feature development for teams.
 
 - ![ICON](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB8klEQVQ4jaWTS0sjURCFv7o9gQ4iEoRsFRURNCQIogEX7kXcuBYE/8cs3PpP3AyzMpAHyTYQzDo+GozQq6AkkHQwfWaRtKODyIAXLrfqUnXq1AvgFyBgAsQz+asbz2wFlGwmMHuN/ztvtj8SxTkHIEkmCTPDbIqX6HEcA8g5Z5KQFNuM0ofIZoakT0P/w0Ae8NP3fdvd3dXGxoYNh0P6/T6rq6vs7OywvLzMaDRic3OTXq/H6+srhULB0uk0z8/PBqD19XUNBgM9PDyo0+kon8+r0WgoDEO1220dHBwoCAIdHR0JULfb1dnZmQA5AM/z6Pf7FItFnp6eODk5wTnH6ekp29vb1Ot1bm9v2d/fZ2lpiYWFBcrlMgDufd4vLy+EYQhAFEVcXl5yeHiIJBqNBoVCgePjY+7u7nh8fPwIIIkoiphMJsw6ws3NDff39wCUSiXW1tY4Pz+nWq1OnZ2bApgZvu9TLBbZ2tpiMBgwPz9PpVJhOBwyNzdHq9VCErlcjuvr6zfWAFpZWVEQBOp2u6rVaspms7q6ulIYhgqCQHt7ewJ0cXGhZrOpdDr9NpkGxJ7n2eLiopxzltTA930ymQyS6PV6jMdjnHOkUimiKPo7M98dpPddkJkpKWgClOT5iTNJCt9aJgf8fvf5Je9P7Mp/AOy6BdSr7ieQAAAAAElFTkSuQmCC) [17 Projects for Developers to Build AI Features](https://dev.to/latitude/17-projects-for-teams-to-build-ai-features-100x-faster-nbn?ref=dailydev) - AI project ideas for developers.

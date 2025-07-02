@@ -7,7 +7,10 @@ published: 2024-05-30
 created: 2025-03-28
 description: "Table of Contents    Weather APIs ⛅️🌦️🌩️ Exchange Rates APIs 💱💲💹 Cryptocurrency APIs... Tagged with api, webdev, programming, tutorial."
 tags:
-  - "clippings"
+  - Web Development
+  - Mobile Development
+  - Software Development
+  - Productivity
 ---
 ## Table of Contents
 

@@ -8,6 +8,11 @@ created: 2025-03-27
 description:
 tags:
   - "clippings"
+  - Resources
+  - Web Development
+  - Software Development
+  - Productivity
+  - laravel
 ---
 ## About this course
 
