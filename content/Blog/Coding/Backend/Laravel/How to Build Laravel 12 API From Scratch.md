@@ -6,7 +6,7 @@ author:
 published: 2025-02-01
 created: 2025-03-27
 description:
-tags: Laravel, API Development, RESTful API, Backend Development, Web Development, Programming
+tags: Laravel, API Development, Backend Development, RESTful API, PHP, Tutorial
 ---
 ## About this course
 

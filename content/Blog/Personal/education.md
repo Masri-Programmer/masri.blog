@@ -30,6 +30,8 @@ tags:
 
 ## **Self-Study & Online Courses (Udemy)**
 
+- [Laravel - Build Multi Vendor Ecommerce Website](https://www.udemy.com/certificate/UC-8487eac1-5190-45f8-ad23-375231396249/)
+    
 - [**Modern React with Redux**](obsidian://open?vault=content&file=Certificates%2FReact%20Certificate%20.pdf)
     
 - **[The Complete JavaScript Course](obsidian://open?vault=content&file=Certificates%2FJavaScript%20Certificate%20.pdf)**
@@ -42,7 +44,7 @@ tags:
     
 - **Complete Laravel Multi-Vendor E-Commerce Project**
     
-- **Figma UX/UI Design & User Experience Tutorial**
+- **Figma UX/UI Design & User Experience**
     
 
 [[work-experience]] - [[Index]] - [[Resume]]

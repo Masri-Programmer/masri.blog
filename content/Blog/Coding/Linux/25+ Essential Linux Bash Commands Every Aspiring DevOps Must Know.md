@@ -6,8 +6,7 @@ author:
 published: 2025-02-21
 created: 2025-03-28
 description: "I'm on a journey to become a DevOps professional, so like many others, I jumped straight into... Tagged with linux, bash, terminal, beginners."
-tags:
-  - "clippings"
+tags: 
 ---
 I'm on a journey to become a DevOps professional, so like many others, I jumped straight into Docker—it's undeniably essential. I even learned the basics [check out this guide](https://dev.to/knight03/docker-101-a-simple-clear-introduction-5fhh). But later, I realized just how important Linux is, so I naturally started with Bash😅.
 

@@ -1,5 +1,5 @@
 ---
-tags: backend, development, learning, roadmap, programming, database, api, hosting, devops, bytebytego
+tags: Backend Development, Learning Roadmap, Programming Languages, Databases, APIs, DevOps, Cloud Computing, System Design, Software Architecture
 source: https://blog.bytebytego.com/p/ep157-how-to-learn-backend-development?ref=dailydev
 author: "[[ByteByteGo]]"
 description: A summary of ByteByteGo's mind map outlining the essential areas to learn for backend development, covering fundamentals, languages, databases, APIs, hosting, and DevOps.

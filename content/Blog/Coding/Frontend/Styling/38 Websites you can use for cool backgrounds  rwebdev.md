@@ -5,8 +5,7 @@ author:
 published: 2023-08-21
 created: 2025-04-11
 description:
-tags:
-  - "clippings"
+tags: Web Development, Backgrounds, CSS, SVG, JavaScript, Animation, UI Design, Graphic Design, Front-end Development, Web Resources
 ---
 Hey everyone, I'm collecting resources over at [WebDev Town](https://webdev.town/). Here is a summary of all the websites I've found that you can use to get creative backgrounds for your website
 

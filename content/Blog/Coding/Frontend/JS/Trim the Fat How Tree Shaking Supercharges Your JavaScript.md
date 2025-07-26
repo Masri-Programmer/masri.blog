@@ -1,9 +1,5 @@
 ---
-tags:
-  - javascript
-  - performance
-  - webdev
-  - optimization
+tags: JavaScript, Tree Shaking, Webpack, Rollup, Parcel, ES Modules, Performance Optimization, Web Development, Front-end Development, Code Optimization
 source: https://dev.to/this-is-learning/understanding-tree-shaking-in-javascript-a-comprehensive-guide-5e86?ref=dailydev
 author:
   - "[[DEV Community]]"
@@ -13,7 +9,6 @@ description: Unlock faster web apps by understanding and implementing tree shaki
 keywords: tree shaking,javascript,web performance,code optimization,bundle size
 date created: 2025-04-11
 ---
-
 Ever feel like your JavaScript bundles are carrying extra weight? In today's web development landscape, delivering lean and efficient applications is paramount. Enter **tree shaking**, a clever technique that acts like a digital Marie Kondo for your codebase, discarding unused code to create smaller, faster applications.
 
 This insightful article from DEV Community dives deep into the world of tree shaking, explaining its mechanics, benefits, and practical implementation. It illuminates how this process, particularly effective with ES Modules, analyzes your code to identify and eliminate dead weight – functions, classes, or variables that are never actually used.

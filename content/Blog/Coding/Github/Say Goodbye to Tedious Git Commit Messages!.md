@@ -1,13 +1,12 @@
 ---
 title: Effortless Git Commits AI Powered Suggestions
-tags: [Git, AI, DeveloperTools, CLI, VSCode, Productivity, VersionControl]
+tags: Artificial Intelligence, Git, Developer Tools, Automation, Productivity, Version Control
 source: Combined information from various tool documentations and repositories
 author: Masri Blog
 description: Discover AI-powered tools and techniques to generate descriptive Git commit messages quickly, improving your development workflow and code history clarity.
 keywords: [git commit, ai commit, automated commit messages, developer productivity, github copilot, ai coding tools, conventional commits]
 date created: 2025-05-28
 ---
-
 Ever found yourself staring blankly at the `git commit -m ""` prompt after hours of coding? 😓 Crafting the perfect commit message that clearly explains your changes can feel like a chore, especially when you're eager to move on to the next task. But what if AI could lend a hand?
 
 The good news is, it can! ✨ Tools are emerging, like the new generated Git commit message feature in the latest Visual Studio preview, designed to analyze your changes and suggest descriptive messages. This lets you focus on the "why" behind your changes, refining the AI's suggestion rather than starting from scratch. Let's dive into some fantastic resources that can streamline this crucial part of your workflow!

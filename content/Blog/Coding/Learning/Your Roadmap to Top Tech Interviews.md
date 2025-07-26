@@ -1,21 +1,12 @@
 ---
 title: Your Roadmap to Top Tech Interviews A Guide Inspired by Coding Interview University
-tags:
-  - software-engineering
-  - interview-prep
-  - computer-science
-  - study-plan
-  - career
-  - learning
-  - algorithms
-  - data-structures
+tags: Software Development, Interview Preparation, Computer Science, Data Structures, Algorithms, Career Development
 source: https://github.com/jwasham/coding-interview-university
 author: Masri Blog (inspired by John Washam)
 description: A comprehensive, self-paced study plan based on the popular Coding Interview University GitHub repo, designed to prepare you for software engineering roles at major tech companies.
 keywords: coding interview, software engineer, study guide, tech interview, data structures, algorithms, big-o, system design, interview preparation, computer science fundamentals
 date created: 2025-04-17
 ---
-
 # A Guide Inspired by Coding Interview University 🚀
 
 Dreaming of landing a software engineering role at a top tech company like Google, Amazon, Facebook, or Microsoft? 🤔 It's a challenging goal, especially if you don't have a traditional Computer Science degree. But fear not! There's a well-trodden path, meticulously documented by John Washam in his famous "Coding Interview University" GitHub repository.

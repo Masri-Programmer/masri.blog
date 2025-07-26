@@ -1,5 +1,3 @@
-
-
 - [Accord Project Template Library](https://templates.accordproject.org/) - Free templates for creating smart contracts.
 
 

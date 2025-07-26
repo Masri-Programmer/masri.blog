@@ -1,11 +1,5 @@
 ---
-tags:
-  - software-architecture
-  - development-techniques
-  - strategy
-  - design
-  - documentation
-  - decision-making
+tags: Software Architecture, System Design, Domain-Driven Design, Documentation, Best Practices
 source: "https://www.workingsoftware.dev/fundamental-techniques-for-software-architects/?ref=dailydev"
 author: "[[workingsoftware.dev]]"
 description: "A curated collection of essential techniques for software architects, covering strategy, design, decision-making, documentation, risk management, and continuous improvement."
@@ -23,7 +17,6 @@ keywords:
   - DORA metrics
 date created: 2025-04-16
 ---
-
 # A Software Architect's Toolkit: Essential Techniques for Modern Systems
 
 Hey fellow developers and architects! 👋

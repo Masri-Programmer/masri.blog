@@ -1,20 +1,12 @@
 ---
 title: Supercharge Your Git Workflow with Lazygit A TUI Approach
-tags:
-  - git
-  - cli
-  - tui
-  - productivity
-  - devtools
-  - workflow
-  - version-control
+tags: Git, Lazygit, CLI, TUI, Version Control, Developer Tools, Workflow Optimization, Productivity, Command Line, Open Source
 source: https://www.freecodecamp.org/news/how-to-use-lazygit-to-improve-your-git-workflow/
 author: Masri Blog (inspired by freeCodeCamp.org)
 description: Discover Lazygit, a powerful terminal UI for Git that simplifies common operations like committing, branching, merging, and more, boosting your productivity and reducing repetitive typing.
 keywords: lazygit, git, terminal ui, tui, command line, git workflow, productivity tools, developer tools, version control ui
 date created: 2025-04-17
 ---
-
 # Supercharge Your Git Workflow with Lazygit: A TUI Approach ⚡️
 
 Tired of typing the same Git commands over and over? `git add .`, `git commit -m "..."`, `git push`, `git checkout ...` - the cycle repeats. While the Git CLI is powerful, it can sometimes feel repetitive for common, everyday tasks. What if there was a way to manage your Git repositories visually, right within your terminal, using quick keyboard shortcuts?

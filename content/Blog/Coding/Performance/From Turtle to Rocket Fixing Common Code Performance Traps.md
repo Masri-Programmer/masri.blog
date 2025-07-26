@@ -1,11 +1,5 @@
 ---
-tags:
-  - programming
-  - performance
-  - optimization
-  - coding-tips
-  - beginner-mistakes
-  - software-development
+tags: Programming, Performance, Optimization, Data Structures, CPU Cache, Profiling
 source: https://www.freecodecamp.org/news/why-your-code-is-slow-common-performance-mistakes-beginners-make/?ref=dailydev
 author:
   - "[[freeCodeCamp.org]]"
@@ -23,7 +17,6 @@ keywords:
 date created: 2025-04-16
 title:
 ---
-
 # 🐢➡️🚀 
 
 Ever written code that *works*... but takes an eternity to actually run? You stare at the loading indicator, wondering if you could have done the task faster by hand. 😩 It's a common experience, especially when you're starting out. The focus is often on getting the logic right, not necessarily making it fast.

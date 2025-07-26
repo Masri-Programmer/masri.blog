@@ -1,13 +1,12 @@
 ---
 title: Unlock Peak Vite Performance Today
-tags: [vite, performance, frontend, webdev, javascript, optimization]
+tags: Vite, Performance Optimization, Frontend Development, JavaScript, Web Development, Build Speed, Dev Server, Code Splitting, Lazy Loading, Import Optimization
 source: User-provided content
 author: Masri
 description: Discover key strategies to optimize your Vite development server and build performance, from smart imports to lazy loading and beyond.
 keywords: [vite, performance, optimization, frontend, javascript, dev server, build speed, lazy loading, code splitting]
 date created: 2025-05-10
 ---
-
 ## 🚀 Supercharge Your Vite Experience: Beyond the Defaults
 
 Hey developers! We all love Vite for its lightning-fast HMR and build speeds ⚡️. But as projects grow, even Vite can start to feel a tad sluggish if we're not careful. The good news? There are plenty of ways to squeeze out even more performance! Today, let's dive into some practical strategies to keep your Vite setup lean and mean.

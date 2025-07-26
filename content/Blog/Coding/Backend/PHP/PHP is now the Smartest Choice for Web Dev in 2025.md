@@ -1,13 +1,6 @@
 ---
 title: Rethinking PHP Why It Might Be the Smartest Choice for Web Dev in 2025
-tags:
-  - php
-  - laravel
-  - web-development
-  - programming
-  - framework
-  - performance
-  - opinion
+tags: PHP, Laravel, Web Development, Backend Development, Programming, Opinion
 source: https://www.vincentschmalbach.com/php-is-now-the-best-choice-for-web-based-software/
 author: Masri Blog (inspired by Vincent Schmalbach)
 description: Modern PHP, especially when combined with the Laravel framework, has evolved dramatically. Explore why it's considered a top-tier, productive, and performant choice for building web applications today, challenging outdated perceptions.

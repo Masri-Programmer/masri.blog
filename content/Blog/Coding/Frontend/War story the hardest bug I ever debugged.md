@@ -6,10 +6,7 @@ author:
 published: 2025-01-23
 created: 2025-04-11
 description: All of a sudden, without any ostensible cause, Google Docs was flooded with errors. How it took me 2 days and a coworker to solve the hardest bug I ever debugged.
-tags:
-  - clippings
-  - bug
-  - Frontend
+tags: Debugging, Google Docs, JavaScript, Chrome, V8 Engine, Bug Fixing, Software Engineering, Frontend Development, Performance, Nondeterministic Bugs
 ---
 ![[image-2.webp]]
 ### All of a sudden, with out any ostensible cause, Google Docs was flooded with errors. How it took me 2 days and a coworker to solve the hardest bug I ever debugged.

@@ -1,11 +1,6 @@
 ---
 title: Unlocking Engineering Wisdom 13 Laws Every Developer Should Know
-tags:
-  - software-engineering
-  - management
-  - productivity
-  - development-principles
-  - laws
+tags: Software Engineering, Project Management, Team Management, Productivity, Mental Models
 source: https://newsletter.manager.dev/p/the-13-software-engineering-laws?ref=dailydev
 author: "[[Anton Zaides]] (Original Author), [[Masri Blog]]"
 description: An exploration of 13 fundamental laws in software engineering, offering practical insights for developers and managers.
@@ -29,7 +24,6 @@ keywords:
   - "mental models"
 date created: 2025-04-16
 ---
-
 Ever feel like software projects have minds of their own? 🤔 Turns out, there are some underlying "laws" or principles that can explain (and sometimes predict!) the common challenges and quirks we face. Understanding these can save you headaches and make you a more effective developer or manager.
 
 Let's explore 13 insightful laws, some famous, some niche, but all incredibly relevant to our field.

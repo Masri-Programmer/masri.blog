@@ -1,13 +1,5 @@
 ---
-tags:
-  - ubuntu
-  - linux
-  - debian
-  - package-management
-  - dpkg
-  - apt
-  - cli
-  - tutorial
+tags: Ubuntu, Linux, Package Management, Terminal, dpkg, Software Installation
 source: "https://www.geeksforgeeks.org/how-to-extract-deb-file-in-ubuntu/"
 author: "[[GeeksforGeeks]]"
 description: "A developer's guide to installing .deb package files on Ubuntu using both the graphical Software Installer and the command-line terminal (DPKG)."
@@ -24,7 +16,6 @@ keywords:
   - software installer
 date created: 2025-04-16
 ---
-
 # Effortless .deb File Installation on Ubuntu: GUI and Terminal Guide
 
 Hey fellow devs! 👋 Ever downloaded a cool tool or application for your Ubuntu machine only to find it's a `.deb` file? If you're wondering how to get that software up and running, you're in the right place. Installing `.deb` files is a fundamental skill for Ubuntu users, and luckily, it's pretty straightforward.
