@@ -1,5 +1,4 @@
 ---
-tags: ai, llm, rag, agents, fine-tuning, llmops, mlops, python, course, opensource, secondbrain
 source: https://decodingml.substack.com/p/build-your-second-brain-ai-assistant?ref=dailydev
 author: "[[Paul Iusztin]]"
 description: Summary of an open-source course teaching how to build a personal AI assistant using agents, advanced RAG, LLM fine-tuning, and LLMOps to interact with your notes (like Notion).
@@ -9,7 +8,6 @@ tags:
   - Software architecture
   - Productivity
 ---
-
 
 # Unlock Your Notes: Build a Personal AI Assistant with This Open-Source Course
 
