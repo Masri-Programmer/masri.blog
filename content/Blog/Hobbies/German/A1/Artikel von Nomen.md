@@ -1,3 +1,17 @@
+In der deutschen Sprache können Nomen **maskulin**, **femininum** oder **neutrum** sein. Man sieht das an den [Artikeln](https://www.deutschakademie.de/online-deutschkurs/forum/index.php/topic,40.msg66.html#msg66).  
+
+Viele Wörter kommen aus einer Fremdsprache (englisch, französisch, arabisch, etc...) in die deutsche Sprache. Die meisten dieser Wörter haben einen lateinischen Ursprung und zeigen sich an den [Endungen:](https://www.deutschakademie.de/online-deutschkurs/forum/index.php/topic,45.msg2641.html#msg2641)  
+
+  
+
+Nomen auf "**-heit, -keit, -schaft, -ur, -ion, -ik, -ei, -ie, -ung, - (i)tät, -enz, -anz**", die meisten Blumen, Pflanzen und Bäume und viele deutsche Nomen auf "**-e**" sind feminin.
+
+  
+Nomen auf "**-ment, -um,** **-chen**" und "**-lein**" sind immer neutrum. Außerdem sind alle substantivierten Nomen neutrum. (Das Blau, das Rot, das Lachen, das Spielen, das Gute, das Schwierige...)
+
+  
+Nomen auf "**-ling, -ismus, -or, -ent, -ant**", Wochentage, Monate, Jahreszeiten, Wetterphänomene, Automarken, Alkohol (Ausnahme: "das Bier") und alle Nomen der [n-Deklination](https://www.deutschakademie.de/online-deutschkurs/deutschkurs/nach-thema/n-deklination) (Ausnahme: "das Herz") sind maskulin.
+
 | Regelkategorie                   | Regel                                                                       | Beispiel(e)                                    | Artikel |
 | :------------------------------- | :-------------------------------------------------------------------------- | :--------------------------------------------- | :------ |
 | **Personen & Berufe**            | Im Allgemeinen maskuline Formen von Berufen und männliche Personen.         | der Lehrer, der Arzt, der Mann, der Vater      | der     |

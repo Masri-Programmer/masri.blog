@@ -1,3 +1,8 @@
+---
+author: "Mohamad Masri"
+description: ""
+tags: APIs, Web Development, Software Development, Free Tools, API Integration, Productivity, Development Resources, Open Source, Programming, Backend Development
+---
 Okay, here's a step-by-step guide to prepare and deploy your Laravel/Vue application to Hostinger. This guide assumes you're using Laravel with Inertia.js and Vite (common with Vue 3 setups).
 
 **Phase 1: Preparing Your Laravel/Vue App for Production**

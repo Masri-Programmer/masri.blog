@@ -1,4 +1,8 @@
-
+---
+author: "Mohamad Masri"
+description: ""
+tags: Laravel, PHP, Web Development, Backend Development, Full-stack Development, API Development, DevOps, Database, Testing, Performance Optimization, Security, Ecosystem
+---
 ![Post cover image](https://media.daily.dev/image/upload/s--FzfES57d--/f_auto/v1742976058/posts/Lk2mtIjRv)
 
 ## **PHP Fundamentals**

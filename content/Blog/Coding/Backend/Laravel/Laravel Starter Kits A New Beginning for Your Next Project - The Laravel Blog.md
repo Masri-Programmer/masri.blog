@@ -5,8 +5,7 @@ author:
 published:
 created: 2025-03-25
 description: "We’ve overhauled our starter kits, replacing Jetstream and Breeze with three distinct, purpose-built starter kits in Livewire, React, and Vue. These new kits allow you to focus on building your app instead of creating boilerplate code from scratch."
-tags:
-  - "clippings"
+tags: Laravel, Starter Kits, Livewire, React, Vue, Inertia.js, Web Development, Frontend Development, Backend Development, Authentication, Boilerplate, Frameworks
 ---
 ## Laravel Starter Kits: A New Beginning for Your Next Project
 

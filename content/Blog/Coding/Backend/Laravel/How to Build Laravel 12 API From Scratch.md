@@ -6,13 +6,7 @@ author:
 published: 2025-02-01
 created: 2025-03-27
 description:
-tags:
-  - "clippings"
-  - Resources
-  - Web Development
-  - Software Development
-  - Productivity
-  - laravel
+tags: Laravel, API Development, RESTful API, Backend Development, Web Development, Programming
 ---
 ## About this course
 
