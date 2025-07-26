@@ -17,10 +17,10 @@ SORT file.mtime DESC LIMIT 5
 %%
 
 - [[Blog/Hobbies/From Idea to TikTok An Engineer's AI Video Workflow.md|From Idea to TikTok An Engineer's AI Video Workflow]]
-- [[Blog/Coding/Linux/Unlocking Software Installation on Ubuntu, Your Guide to .deb Files.md|Unlocking Software Installation on Ubuntu, Your Guide to .deb Files]]
+- [[Blog/Coding/API/🌐 APIs Resources.md|🌐 APIs Resources]]
+- [[Blog/Coding/AI/🤖 AI Resources.md|🤖 AI Resources]]
 - [[Blog/Coding/AI/Build your Second Brain AI assistant.md|Build your Second Brain AI assistant]]
-- [[Blog/Hobbies/German/A2/A2 Wortschatz.md|A2 Wortschatz]]
-- [[Blog/Hobbies/German/A2 Vocab.md|A2 Vocab]]
+- [[Blog/Coding/Linux/Unlocking Software Installation on Ubuntu, Your Guide to .deb Files.md|Unlocking Software Installation on Ubuntu, Your Guide to .deb Files]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
