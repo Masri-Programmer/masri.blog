@@ -21,3 +21,7 @@ source:
 
 
 >[!info] [Download](http://resume.masri.blog/download)
+
+> [!tip]  Get your digital 100% ATS Friendly Resume Template for professionals [Demo](http://resume.masri.blog/) [Source](https://github.com/Masri-Programmer/resume)
+ #resume #templates
+> 

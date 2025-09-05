@@ -1,9 +1,5 @@
 ---
-tags:
-  - MDN
-  - Web
-  - AI
-  - blog
+tags: Web Development, Portfolio, Software Engineering, Blog, Artificial Intelligence, Developer Resources
 Created: 2025-03-20
 author:
   - Mohamad Masri
@@ -18,7 +14,7 @@ status: published, draft
 cover_image: Assets/Img/Profile.jpg
 ---
 ---
-![[Pasted image 20250325171638.png]]
+![[Assets/Img/Pasted image 20250325171638.webp]]
 # 👋 Welcome to [Masri.blog](https://masri.blog/) 
 
 Hey there! I'm [**Mohamad Masri**](/Portfolio) — a web developer with a passion for [crafting clean, efficient, and impactful]() digital experiences using modern **[frontend](/Blog/Coding/frontend)** and **[backend](/Blog/Coding/Backend)** technologies. This [site](https://masri.blog/) is a blend of my professional profile, curated developer resources, and hands-on tutorials designed to help you level up in [tech](/Blog).
@@ -29,10 +25,10 @@ Hey there! I'm [**Mohamad Masri**](/Portfolio) — a web developer with a passio
 Check out my [[Resume]] to explore:
 - My **professional [Experience](/Blog/Personal/work-experience)**
 - [Technical skills](Blog/Personal/technical-skills) and **core [competencies](/Blog/Personal/competences)**
--  [[Portfolio]] showcasing real-world work &  [[Index]]
+- [[Portfolio]] showcasing real-world work & [[Index]]
 - [Education](/Blog/Personal/education) background
 
-> [!tip]  Get your digital 100% ATS Friendly Resume Template  [Demo](http://resume.masri.blog/) [Source](https://github.com/Masri-Programmer/resume)
+> [!tip]  Get your digital 100% ATS Friendly Resume Template for professionals  [Demo](http://resume.masri.blog/) [Source](https://github.com/Masri-Programmer/resume)
  #resume #templates
 > 
 
