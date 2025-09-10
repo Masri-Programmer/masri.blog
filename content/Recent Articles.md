@@ -16,11 +16,11 @@ SORT file.mtime DESC LIMIT 5
 ```
 %%
 
-- [[Blog/Hobbies/From Idea to TikTok An Engineer's AI Video Workflow.md|From Idea to TikTok An Engineer's AI Video Workflow]]
-- [[Blog/Coding/API/🌐 APIs Resources.md|🌐 APIs Resources]]
-- [[Blog/Coding/AI/🤖 AI Resources.md|🤖 AI Resources]]
-- [[Blog/Coding/AI/Build your Second Brain AI assistant.md|Build your Second Brain AI assistant]]
-- [[Blog/Coding/Linux/Unlocking Software Installation on Ubuntu, Your Guide to .deb Files.md|Unlocking Software Installation on Ubuntu, Your Guide to .deb Files]]
+- [[Blog/Coding/SEO/The 12 Most Effective Sales Levers in an Online Shop.md|The 12 Most Effective Sales Levers in an Online Shop]]
+- [[Blog/Hobbies/German/A2/A2 Gramatik.md|A2 Gramatik]]
+- [[Blog/Hobbies/German/B1/Wortschatz.md|Wortschatz]]
+- [[Blog/Coding/Unlocking Engineering Wisdom 13 Laws Every Developer Should Know.md|Unlocking Engineering Wisdom 13 Laws Every Developer Should Know]]
+- [[Blog/Coding/Teaching/29 Fundamental Techniques for Software Architects.md|29 Fundamental Techniques for Software Architects]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -42,7 +42,7 @@ SORT file.mtime DESC LIMIT 5
 - [[Blog/Coding/Browser Bookmarks/Knowledge Base part 1.md|Knowledge Base part 1]]
 - [[Blog/Coding/Browser Bookmarks/Knowledge Base part 2.md|Knowledge Base part 2]]
 - [[Blog/Coding/Browser Bookmarks/Knowledge Base part 3.md|Knowledge Base part 3]]
-- [[Blog/Coding/Browser Bookmarks/Knowledge Base part 5.md|Knowledge Base part 5]]
+- [[Blog/Coding/Browser Bookmarks/Knowledge Base part 4.md|Knowledge Base part 4]]
 
 %% DATAVIEW_PUBLISHER: end %%
 	
