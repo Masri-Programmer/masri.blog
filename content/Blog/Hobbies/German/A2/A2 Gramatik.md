@@ -216,4 +216,3 @@ This is a breakdown of the German Dativ and Akkusativ cases for masculine nouns,
 
 Lokale Adverbien stehen im Sinne des [TEKAMO**LO**](https://www.deutschakademie.de/online-deutschkurs/deutschkurs/nach-thema/satzstellung-tekamolo) am Ende des Satzes.
 **"Hin-" und "Her-" lassen sich mit Präpositionen präzisieren: hinab, herauf, herein, hinunter, ...**
-![[Pasted image 20250716090841.jpg]]![[Pasted image 20250716111114.jpg]]![[Pasted image 20250716111129.jpg]]![[Pasted image 20250716111132.jpg]]
