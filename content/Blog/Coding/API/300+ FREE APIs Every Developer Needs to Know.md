@@ -107,23 +107,23 @@ tags:
 
 ## Placeholder Image APIs 📸🖼️🎨
 
-| Name | Description | Free Tier Limit | Authentication | Documentation |
-| --- | --- | --- | --- | --- |
-| Lorem Picsum | Random placeholder images | Unlimited | None | [Link](https://picsum.photos/) |
-| Placeholder.com | Custom placeholder images | Unlimited | None | [Link](https://placeholder.com/) |
-| Unsplash Source | High-quality placeholder images | Unlimited | None | [Link](https://source.unsplash.com/) |
-| Placekitten | Placeholder images of kittens | Unlimited | None | [Link](https://placekitten.com/) |
-| PlaceDog | Placeholder images of dogs | Unlimited | None | [Link](https://place.dog/) |
-| Placebear | Placeholder images of bears | Unlimited | None | [Link](https://placebear.com/) |
-| Fill Murray | Placeholder images of Bill Murray | Unlimited | None | [Link](http://www.fillmurray.com/) |
-| FakerAPI | Fake data and placeholder images | Unlimited | None | [Link](https://fakerapi.it/en) |
-| DummyImage.com | Custom placeholder images | Unlimited | None | [Link](https://dummyimage.com/) |
-| ImagePlaceholder.com | Custom placeholder images | Unlimited | None | [Link](https://imageplaceholder.com/) |
-| PlaceholderImage | Placeholder images with custom text | Unlimited | None | [Link](https://placeholderimage.dev/) |
-| Picsum.photos | Random images from Unsplash | Unlimited | None | [Link](https://picsum.photos/) |
-| RandomImageApi | Random placeholder images | Unlimited | None | [Link](https://random.imagecdn.app/) |
-| Plachold.it | Custom placeholder images | Unlimited | None | [Link](https://placehold.it/) |
-| LoremFlickr | Random placeholder images | Unlimited | None | [Link](https://loremflickr.com/) |
+| Name | Description | Free Tier Limit | Authentication | Documentation                                          |
+| -------------------- | ----------------------------------- | --------------- | -------------- | ------------------------------------------------------ |
+| Lorem Picsum | Random placeholder images | Unlimited | None | [Link](https://picsum.photos/)                         |
+| Placeholder.com | Custom placeholder images | Unlimited | None | [Link](https://websiteplanet.com/webtools/lorem-ipsum) |
+| Unsplash Source | High-quality placeholder images | Unlimited | None | [Link](https://source.unsplash.com/)                   |
+| Placekitten | Placeholder images of kittens | Unlimited | None | [Link](https://placekitten.com/)                       |
+| PlaceDog | Placeholder images of dogs | Unlimited | None | [Link](https://place.dog/)                             |
+| Placebear | Placeholder images of bears | Unlimited | None | [Link](https://placebear.com/)                         |
+| Fill Murray | Placeholder images of Bill Murray | Unlimited | None | [Link](http://www.fillmurray.com/)                     |
+| FakerAPI | Fake data and placeholder images | Unlimited | None | [Link](https://fakerapi.it/en)                         |
+| DummyImage.com | Custom placeholder images | Unlimited | None | [Link](https://dummyimage.com/)                        |
+| ImagePlaceholder.com | Custom placeholder images | Unlimited | None | [Link](https://imageplaceholder.com/)                  |
+| PlaceholderImage | Placeholder images with custom text | Unlimited | None | [Link](https://placeholderimage.dev/)                  |
+| Picsum.photos | Random images from Unsplash | Unlimited | None | [Link](https://picsum.photos/)                         |
+| RandomImageApi | Random placeholder images | Unlimited | None | [Link](https://random.imagecdn.app/)                   |
+| Plachold.it | Custom placeholder images | Unlimited | None | [Link](https://placehold.it/)                          |
+| LoremFlickr | Random placeholder images | Unlimited | None | [Link](https://loremflickr.com/)                       |
 
 ---
 
