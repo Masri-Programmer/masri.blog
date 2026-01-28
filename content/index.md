@@ -49,8 +49,8 @@ SORT file.mtime DESC LIMIT 5
 
 - [[Blog/Coding/Browser Bookmarks/Knowledge Base part 6.md|Knowledge Base part 6]]
 - [[Blog/Coding/Browser Bookmarks/Knowledge Base part 1.md|Knowledge Base part 1]]
+- [[Blog/Coding/Browser Bookmarks/Knowledge Base part 4.md|Knowledge Base part 4]]
 - [[Blog/Coding/Browser Bookmarks/Knowledge Base part 2.md|Knowledge Base part 2]]
-- [[Blog/Coding/Browser Bookmarks/Knowledge Base part 5.md|Knowledge Base part 5]]
 - [[Blog/Coding/Browser Bookmarks/Knowledge Base part 3.md|Knowledge Base part 3]]
 
 %% DATAVIEW_PUBLISHER: end %%
@@ -68,13 +68,13 @@ SORT file.mtime DESC LIMIT 7
 ```
 %%
 
-- [[Blog/Coding/Templates/Ecommerce & Onlineshops.md|Ecommerce & Onlineshops]]
-- [[Blog/Coding/Templates/Architects Engineers and Teachers.md|Architects Engineers and Teachers]]
-- [[Blog/Coding/Templates/Restaurants & Cafes.md|Restaurants & Cafes]]
-- [[Blog/Coding/Templates/Handy Professions.md|Handy Professions]]
-- [[Blog/Coding/Templates/Personal Trainer Website.md|Personal Trainer Website]]
-- [[Blog/Coding/Templates/Doctor-Therapist Website Features List.md|Doctor-Therapist Website Features List]]
-- [[Blog/Coding/Templates/Untitled.md|Untitled]]
+- [[Blog/Trading/BOLLINGER BANDS & RSI & ATR.md|BOLLINGER BANDS & RSI & ATR]]
+- [[Blog/Trading/POSITION SIZING EXAMPLE.md|POSITION SIZING EXAMPLE]]
+- [[Blog/Trading/1-WORKFLOW.md|1-WORKFLOW]]
+- [[Blog/Trading/FUNDEMENTAL ANALYSIS.md|FUNDEMENTAL ANALYSIS]]
+- [[Blog/Trading/Prompt.md|Prompt]]
+- [[Blog/Trading/SCREENER.md|SCREENER]]
+- [[Blog/Trading/MARKET EFFICIENY & HYPOTHESIS.md|MARKET EFFICIENY & HYPOTHESIS]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
