@@ -1,8 +1,9 @@
 ---
 author: "Mohamad Masri"
 description: ""
-tags: Laravel, Vue.js, Deployment, Hostinger, Web Hosting, Inertia.js
+tags: [laravel, vue-js, deployment, hostinger, web-hosting, inertia-js]
 ---
+
 Okay, here's a step-by-step guide to prepare and deploy your Laravel/Vue application to Hostinger. This guide assumes you're using Laravel with Inertia.js and Vite (common with Vue 3 setups).
 
 **Phase 1: Preparing Your Laravel/Vue App for Production**
@@ -201,14 +202,11 @@ If your Hostinger plan includes SSH access and Git:
 
 - **Access your server via SSH:** Find SSH access details in hPanel.
 - **Clone your repository:**
-    
-    Bash
-    
-    ```
-    cd public_html # Or your desired hosting directory
-    git clone your_repository_url . # The dot clones into the current directory
-    ```
-    
+  Bash
+  ```
+  cd public_html # Or your desired hosting directory
+  git clone your_repository_url . # The dot clones into the current directory
+  ```
 - If `public_html` is not empty, you might want to clone into a new directory, configure it, and then point your domain to the `public` folder of your Laravel app within that new directory. Or, clear `public_html` before cloning if it's a fresh setup.
 
 ### 6.2. Option B: Using Hostinger's File Manager
@@ -251,29 +249,20 @@ composer install --optimize-autoloader --no-dev
 ### 7.2. Set Up the `.env` File:
 
 - Copy your `.env.example` to `.env`:
-    
-    Bash
-    
-    ```
-    cp .env.example .env
-    ```
-    
+  Bash
+  ```
+  cp .env.example .env
+  ```
 - **Edit the `.env` file** with your production database credentials (from step 5.1), app URL, mail settings, and other necessary production configurations. You can use a terminal text editor like `nano` or `vim`, or edit it via Hostinger's File Manager.
-    
-    Bash
-    
-    ```
-    nano .env
-    ```
-    
+  Bash
+  ```
+  nano .env
+  ```
 - **Generate Application Key:**
-    
-    Bash
-    
-    ```
-    php artisan key:generate
-    ```
-    
+  Bash
+  ```
+  php artisan key:generate
+  ```
 
 ### 7.3. Set Document Root:
 
@@ -330,7 +319,7 @@ Bash
 php artisan storage:link
 ```
 
-This creates a symbolic link from `public/storage` to `storage/app/public`. Some shared hosting environments have issues with symlinks. If it fails: * Hostinger might have a tool for this. * You might need to manually copy files or adjust your file upload/retrieval logic. * A common workaround is to create a route that serves files from the `storage/app/public` directory.
+This creates a symbolic link from `public/storage` to `storage/app/public`. Some shared hosting environments have issues with symlinks. If it fails: _ Hostinger might have a tool for this. _ You might need to manually copy files or adjust your file upload/retrieval logic. \* A common workaround is to create a route that serves files from the `storage/app/public` directory.
 
 ---
 
@@ -340,12 +329,10 @@ If your application uses Laravel's scheduler:
 
 - In hPanel, find "Cron Jobs".
 - Set up a cron job to run the Laravel scheduler every minute:
-    
-    ```
-    * * * * * cd /path/to/your-laravel-app && php artisan schedule:run >> /dev/null 2>&1
-    ```
-    
-    Replace `/path/to/your-laravel-app` with the actual path to your project root on Hostinger. You can find this path using `pwd` in SSH or often in the File Manager.
+  ```
+  * * * * * cd /path/to/your-laravel-app && php artisan schedule:run >> /dev/null 2>&1
+  ```
+  Replace `/path/to/your-laravel-app` with the actual path to your project root on Hostinger. You can find this path using `pwd` in SSH or often in the File Manager.
 
 ---
 
@@ -377,16 +364,13 @@ Ensure Hostinger is using a compatible PHP version for your Laravel application.
 - **Check Hostinger Documentation:** Hostinger has specific guides and a knowledge base. Search for "Laravel deployment on Hostinger" there.
 - **Hostinger Support:** If you encounter specific issues related to their platform, their support can be helpful.
 - **Clear Caches:** If you make changes (e.g., to `.env` or code) and don't see them reflected, remember to clear/rebuild Laravel's caches:
-    
-    Bash
-    
-    ```
-    php artisan optimize:clear
-    php artisan config:cache
-    php artisan route:cache
-    php artisan view:cache
-    ```
-    
+  Bash
+  ```
+  php artisan optimize:clear
+  php artisan config:cache
+  php artisan route:cache
+  php artisan view:cache
+  ```
 - **Error Reporting:** Temporarily set `APP_DEBUG=true` in your `.env` on the server to see detailed error messages if you're troubleshooting. **Remember to set it back to `false` once resolved.**
 - **Consider a VPS:** If you find shared hosting limitations (SSH access, composer, symlinks, performance) too restrictive, a Hostinger VPS plan will give you more control.
 

@@ -6,8 +6,9 @@ author:
 published: 2025-02-01
 created: 2025-03-27
 description:
-tags: Laravel, API Development, Backend Development, RESTful API, PHP, Tutorial
+tags: [laravel, api-development, backend-development, restful-api, php, tutorial]
 ---
+
 ## About this course
 
 These days, API is one of the most common tasks for Laravel back-end developers, so you would provide the data not only to your own internal applications (web and mobile) but also publicly for other developers to consume.

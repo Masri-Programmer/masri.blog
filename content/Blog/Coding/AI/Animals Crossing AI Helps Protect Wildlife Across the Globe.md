@@ -1,5 +1,6 @@
 ---
-tags: ai, wildlife, conservation, nvidia, machinelearning, computervision, earthranger, biodiversity
+tags:
+  [ai, wildlife, conservation, nvidia, machinelearning, computervision, earthranger, biodiversity]
 source: https://blogs.nvidia.com/blog/ai-protects-wildlife/?ref=dailydev
 author: "[[Angie Lee]]"
 description: A summary of how AI and technologies like NVIDIA GPUs and platforms like EarthRanger are being used globally to monitor, protect, and conserve endangered wildlife and habitats.
@@ -37,25 +38,25 @@ Several organizations leverage EarthRanger and advanced AI, often powered by NVI
     ![A lion detected with WPS technologies.](https://blogs.nvidia.com/wp-content/uploads/2025/03/wps-lion-960x691.png)
 
 4.  **Conservation X Labs (USA):** Mission-driven to prevent the sixth mass extinction, this organization utilizes EarthRanger for initiatives like:
-    * **Wild Me:** Open-source AI software aiding over 2,000 researchers. It uses computer vision (leveraging AI foundation models trained on NVIDIA hardware) to identify individual animals (like whale sharks) from crowdsourced photos (a database of 14 million images!), dramatically speeding up population studies.
-    * **Sentinel:** This technology upgrades traditional tools like trail cameras with edge AI, processing data locally and transmitting real-time, actionable insights (like detecting a limping panther needing aid) via satellite/cellular networks. It has already delivered ~100,000 insights across 80 species.
-    *(Video showing Sentinel detecting a limping panther available in the original article)*
+    - **Wild Me:** Open-source AI software aiding over 2,000 researchers. It uses computer vision (leveraging AI foundation models trained on NVIDIA hardware) to identify individual animals (like whale sharks) from crowdsourced photos (a database of 14 million images!), dramatically speeding up population studies.
+    - **Sentinel:** This technology upgrades traditional tools like trail cameras with edge AI, processing data locally and transmitting real-time, actionable insights (like detecting a limping panther needing aid) via satellite/cellular networks. It has already delivered ~100,000 insights across 80 species.
+      _(Video showing Sentinel detecting a limping panther available in the original article)_
 
 ## Summary & Key Takeaways
 
 Artificial intelligence is no longer just a concept; it's a deployed, effective tool making a tangible difference in the fight to protect our planet's biodiversity. Key takeaways include:
 
-* **Real-Time Insights:** AI enables rapid analysis of vast datasets from diverse sensors, providing immediate alerts for threats like poaching, wildfires, or animal distress.
-* **Predictive Power:** Machine learning models can forecast events like human-wildlife conflict, allowing for proactive intervention.
-* **Scalability:** Platforms like EarthRanger and cloud computing allow sophisticated tools to be deployed globally.
-* **Efficiency:** AI automates tasks like species identification from images, freeing up researchers and conservationists for other critical work.
-* **Collaboration:** Shared platforms and open-source tools foster cooperation among conservation organizations worldwide.
+- **Real-Time Insights:** AI enables rapid analysis of vast datasets from diverse sensors, providing immediate alerts for threats like poaching, wildfires, or animal distress.
+- **Predictive Power:** Machine learning models can forecast events like human-wildlife conflict, allowing for proactive intervention.
+- **Scalability:** Platforms like EarthRanger and cloud computing allow sophisticated tools to be deployed globally.
+- **Efficiency:** AI automates tasks like species identification from images, freeing up researchers and conservationists for other critical work.
+- **Collaboration:** Shared platforms and open-source tools foster cooperation among conservation organizations worldwide.
 
 ## Related Resources
 
-* **Ai2 EarthRanger:** [https://allenai.org/earthranger](https://allenai.org/earthranger)
-* **NVIDIA AI Solutions:** [https://www.nvidia.com/en-us/solutions/ai/](https://www.nvidia.com/en-us/solutions/ai/)
-* **World Wildlife Day:** [https://wildlifeday.org/en/](https://wildlifeday.org/en/)
+- **Ai2 EarthRanger:** [https://allenai.org/earthranger](https://allenai.org/earthranger)
+- **NVIDIA AI Solutions:** [https://www.nvidia.com/en-us/solutions/ai/](https://www.nvidia.com/en-us/solutions/ai/)
+- **World Wildlife Day:** [https://wildlifeday.org/en/](https://wildlifeday.org/en/)
 
 ## Food for Thought
 
@@ -63,6 +64,6 @@ As AI becomes more integrated into conservation, what ethical considerations sho
 
 ---
 
-*This post summarizes key points from an article originally published on the NVIDIA Blog.*
+_This post summarizes key points from an article originally published on the NVIDIA Blog._
 
-**Original Source:** Lee, Angie. (2025, March 3). *Animals Crossing: AI Helps Protect Wildlife Across the Globe*. NVIDIA Blog. Retrieved from [https://blogs.nvidia.com/blog/ai-protects-wildlife/?ref=dailydev](https://blogs.nvidia.com/blog/ai-protects-wildlife/?ref=dailydev)
+**Original Source:** Lee, Angie. (2025, March 3). _Animals Crossing: AI Helps Protect Wildlife Across the Globe_. NVIDIA Blog. Retrieved from [https://blogs.nvidia.com/blog/ai-protects-wildlife/?ref=dailydev](https://blogs.nvidia.com/blog/ai-protects-wildlife/?ref=dailydev)

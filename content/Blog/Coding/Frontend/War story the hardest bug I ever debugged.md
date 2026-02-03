@@ -6,14 +6,28 @@ author:
 published: 2025-01-23
 created: 2025-04-11
 description: All of a sudden, without any ostensible cause, Google Docs was flooded with errors. How it took me 2 days and a coworker to solve the hardest bug I ever debugged.
-tags: Debugging, Google Docs, JavaScript, Chrome, V8 Engine, Bug Fixing, Software Engineering, Frontend Development, Performance, Nondeterministic Bugs
+tags:
+  [
+    debugging,
+    google-docs,
+    javascript,
+    chrome,
+    v8-engine,
+    bug-fixing,
+    software-engineering,
+    frontend-development,
+    performance,
+    nondeterministic-bugs,
+  ]
 ---
+
 ![[image-2.webp]]
+
 ### All of a sudden, with out any ostensible cause, Google Docs was flooded with errors. How it took me 2 days and a coworker to solve the hardest bug I ever debugged.
 
 When I was on the Google Docs team, we did a weekly bug triage where we’d look for new issues and randomly assign them to teammates to investigate. One week, we had a new top error by a wide margin.
 
-It was a fatal error. This means that it prevented the user from editing without reloading. It didn’t correspond to a Google Docs release. The stack trace added very little information. There wasn’t an associated spike in user complaints, so we weren’t even sure it was really happening — but if it *was* happening it would be really bad. It was Chrome-only starting at a specific release. This is less helpful than it sounds, since we often wrote browser-specific Docs bugs that affected only one of Internet Explorer, Firefox, Safari, and Chrome.
+It was a fatal error. This means that it prevented the user from editing without reloading. It didn’t correspond to a Google Docs release. The stack trace added very little information. There wasn’t an associated spike in user complaints, so we weren’t even sure it was really happening — but if it _was_ happening it would be really bad. It was Chrome-only starting at a specific release. This is less helpful than it sounds, since we often wrote browser-specific Docs bugs that affected only one of Internet Explorer, Firefox, Safari, and Chrome.
 
 I tried to repro in dev. This was important for 2 reasons:
 
@@ -49,7 +63,6 @@ And then you keep halving what could be causing the problem until it’s clearly
 
 I had something else going against me. Until this point, I had mostly worked in the server, model, and network code. I was far from an expert in the view, which was the most complicated part of the application at the time. So I called over a coworker who had implemented a bunch of view features. It’s been 12 years so I don’t fully remember, but our conversation went something like this:
 
-  
 Me: “I’m investigating that view crash that is suddenly our top bug”  
 Him: ”Do you have a specific question about the view? I have a lot on my plate right now.”  
 Me:::showed him the repro and what I had found so far::  
@@ -57,7 +70,7 @@ Him: “I’ll clear my schedule.”
 
 And there we sat, slowly bumping our breakpoints further and further back for 2 whole days, getting closer and closer to the cause.
 
-After about a day and a half we had a breakthrough: the culprit was in a specific block of bookkeeping code [^2]. It was in a part of the code where an accumulator value was updated. So as we had done dozens of times, we updated our breakpoints to trigger a little earlier. We reload the document and execute the repro steps. Eventually, the breakpoint is triggered. We stare at the values of the variables in the function. It must be happening *right now*. Something is wrong.
+After about a day and a half we had a breakthrough: the culprit was in a specific block of bookkeeping code [^2]. It was in a part of the code where an accumulator value was updated. So as we had done dozens of times, we updated our breakpoints to trigger a little earlier. We reload the document and execute the repro steps. Eventually, the breakpoint is triggered. We stare at the values of the variables in the function. It must be happening _right now_. Something is wrong.
 
 The math isn’t adding up. My coworker adds a few logging statements and we reload and run the reproduction case again. This still doesn’t make sense.
 

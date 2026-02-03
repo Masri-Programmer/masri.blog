@@ -5,8 +5,9 @@ author:
 published:
 created: 2025-03-25
 description: "We’ve overhauled our starter kits, replacing Jetstream and Breeze with three distinct, purpose-built starter kits in Livewire, React, and Vue. These new kits allow you to focus on building your app instead of creating boilerplate code from scratch."
-tags: Laravel, Starter Kits, Livewire, Inertia.js, Vue.js, React
+tags: [laravel, starter-kits, livewire, inertia-js, vue-js, react]
 ---
+
 ## Laravel Starter Kits: A New Beginning for Your Next Project
 
 Mar, 19 2025 — [#releases](https://blog.laravel.com/releases)[#news](https://blog.laravel.com/news)
@@ -147,8 +148,6 @@ We’re planning on expanding the features in these starter kits over time and c
 Feedback on our starter kits? Let us know at [@laravelphp](https://x.com/laravelphp) or [open a PR](https://github.com/orgs/laravel/repositories?q=starter+kit). For peer support, [join the Laravel Discord](https://discord.gg/ydWGkTXp) and post in #help.
 
 Happy shipping!
-
-  
 
 By Chris Sev
 

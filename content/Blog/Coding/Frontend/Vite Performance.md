@@ -1,12 +1,36 @@
 ---
 title: Unlock Peak Vite Performance Today
-tags: Vite, Performance Optimization, Frontend Development, JavaScript, Web Development, Build Speed, Dev Server, Code Splitting, Lazy Loading, Import Optimization
+tags:
+  [
+    vite,
+    performance-optimization,
+    frontend-development,
+    javascript,
+    web-development,
+    build-speed,
+    dev-server,
+    code-splitting,
+    lazy-loading,
+    import-optimization,
+  ]
 source: User-provided content
 author: Masri
 description: Discover key strategies to optimize your Vite development server and build performance, from smart imports to lazy loading and beyond.
-keywords: [vite, performance, optimization, frontend, javascript, dev server, build speed, lazy loading, code splitting]
+keywords:
+  [
+    vite,
+    performance,
+    optimization,
+    frontend,
+    javascript,
+    dev server,
+    build speed,
+    lazy loading,
+    code splitting,
+  ]
 date created: 2025-05-10
 ---
+
 ## 🚀 Supercharge Your Vite Experience: Beyond the Defaults
 
 Hey developers! We all love Vite for its lightning-fast HMR and build speeds ⚡️. But as projects grow, even Vite can start to feel a tad sluggish if we're not careful. The good news? There are plenty of ways to squeeze out even more performance! Today, let's dive into some practical strategies to keep your Vite setup lean and mean.
@@ -16,8 +40,8 @@ Hey developers! We all love Vite for its lightning-fast HMR and build speeds ⚡
 You've probably written imports like this countless times:
 
 ```javascript
-import { Button } from "@mypackage";
-````
+import { Button } from "@mypackage"
+```
 
 It's clean and convenient, right? In a traditional bundled setup (hello, webpack!), tree-shaking often takes care of unused code. However, Vite's dev server operates differently. It's fast precisely because it skips the full bundling step, loading files on the fly as the browser requests them.
 
@@ -43,12 +67,12 @@ Before you start refactoring everything, how do you pinpoint the real bottleneck
 
 - **[Google PageSpeed Insights](https://pagespeed.web.dev/)**: Get a comprehensive analysis of your site's performance with actionable recommendations.
 - **Lighthouse (in Chrome DevTools)**: Excellent for local profiling. It provides insights into:
-    - Initial page load
-    - First Contentful Paint (FCP)
-    - Total Blocking Time (TBT)
-    - Critical rendering path
-    - Image optimizations
-    - And much more!
+  - Initial page load
+  - First Contentful Paint (FCP)
+  - Total Blocking Time (TBT)
+  - Critical rendering path
+  - Image optimizations
+  - And much more!
 
 Benchmarking gives you a baseline and helps you track the impact of your optimizations.
 
@@ -80,7 +104,7 @@ Vite fully supports this, allowing you to split your code into smaller chunks lo
 Vite is smart! It pre-bundles your dependencies (using esbuild) during the first development server startup. This converts CommonJS and UMD modules to ESM and significantly speeds up subsequent page loads.
 
 > As the Vite docs explain: "Some packages ship their ES modules builds as many separate files importing one another. For example, lodash-es has over 600 internal modules! When we do import { debounce } from 'lodash-es', the browser fires off 600+ HTTP requests... By pre-bundling lodash-es into a single module, we now only need one HTTP request instead!"
-> 
+>
 > (Vite Docs: Dependency Pre-bundling)
 
 While Vite handles this well by default, understanding it helps appreciate the magic and troubleshoot if needed. This pre-bundling is primarily for development; production builds use Rollup.
@@ -90,34 +114,29 @@ While Vite handles this well by default, understanding it helps appreciate the m
 Lazy loading is crucial for shortening the critical rendering path. Only load what's visible!
 
 - **React Components**: Use `React.lazy()` and `Suspense` to defer loading components until they're needed.
-    
-    JavaScript
-    
-    ```
-    import React, { Suspense, lazy } from 'react';
-    
-    const MyHeavyComponent = lazy(() => import('./MyHeavyComponent'));
-    
-    function App() {
-      return (
-        <div>
-          <Suspense fallback={<div>Loading...</div>}>
-            {/* MyHeavyComponent will only be loaded when this section is rendered */}
-            <MyHeavyComponent />
-          </Suspense>
-        </div>
-      );
-    }
-    ```
-    
-    This is a game-changer for dashboards or complex UIs with many components below the fold.
-    
+  JavaScript
+  ```
+  import React, { Suspense, lazy } from 'react';
+
+  const MyHeavyComponent = lazy(() => import('./MyHeavyComponent'));
+
+  function App() {
+    return (
+      <div>
+        <Suspense fallback={<div>Loading...</div>}>
+          {/* MyHeavyComponent will only be loaded when this section is rendered */}
+          <MyHeavyComponent />
+        </Suspense>
+      </div>
+    );
+  }
+  ```
+  This is a game-changer for dashboards or complex UIs with many components below the fold.
 - **Other Assets**:
-    
-    - **Code Splitting**: As discussed above.
-    - **`<script type="module">`**: Modern way to load JS.
-    - **CSS Optimizations**: Ensure you're efficiently loading and applying styles. If using Tailwind CSS and CSS-in-JS (like Emotion/Styled Components), ensure configurations are optimal to avoid duplicate or unused CSS.
-    - **Font Preloading**: Use `<link rel="preload">` and the CSS `font-display` property for web fonts.
+  - **Code Splitting**: As discussed above.
+  - **`<script type="module">`**: Modern way to load JS.
+  - **CSS Optimizations**: Ensure you're efficiently loading and applying styles. If using Tailwind CSS and CSS-in-JS (like Emotion/Styled Components), ensure configurations are optimal to avoid duplicate or unused CSS.
+  - **Font Preloading**: Use `<link rel="preload">` and the CSS `font-display` property for web fonts.
 
 #### 4. Asynchronous Third-Party Scripts CDN ☁️
 

@@ -1,5 +1,5 @@
 ---
-tags: Ubuntu, Linux, Package Management, Terminal, dpkg, Software Installation
+tags: [ubuntu, linux, package-management, terminal, dpkg, software-installation]
 source: "https://www.geeksforgeeks.org/how-to-extract-deb-file-in-ubuntu/"
 author: "[[GeeksforGeeks]]"
 description: "A developer's guide to installing .deb package files on Ubuntu using both the graphical Software Installer and the command-line terminal (DPKG)."
@@ -16,6 +16,7 @@ keywords:
   - software installer
 date created: 2025-04-16
 ---
+
 # Effortless .deb File Installation on Ubuntu: GUI and Terminal Guide
 
 Hey fellow devs! 👋 Ever downloaded a cool tool or application for your Ubuntu machine only to find it's a `.deb` file? If you're wondering how to get that software up and running, you're in the right place. Installing `.deb` files is a fundamental skill for Ubuntu users, and luckily, it's pretty straightforward.
@@ -60,17 +61,17 @@ The terminal method offers more control and is essential for scripting or managi
 
 ## Key Takeaways 📝
 
-* `.deb` files are standard software packages for Ubuntu/Debian.
-* "Extracting" a `.deb` file typically means **installing** the software it contains, not just decompressing it.
-* You can easily install `.deb` files using either the graphical **Ubuntu Software Installer** (double-click the file) or the **command line** (`sudo dpkg -i <file.deb>`).
-* If you encounter dependency errors after using `dpkg`, `sudo apt-get install -f` usually resolves them.
+- `.deb` files are standard software packages for Ubuntu/Debian.
+- "Extracting" a `.deb` file typically means **installing** the software it contains, not just decompressing it.
+- You can easily install `.deb` files using either the graphical **Ubuntu Software Installer** (double-click the file) or the **command line** (`sudo dpkg -i <file.deb>`).
+- If you encounter dependency errors after using `dpkg`, `sudo apt-get install -f` usually resolves them.
 
 Both methods achieve the same goal, so choose the one you're most comfortable with!
 
 ## Related Resources 📚
 
-* For a deeper dive into package management, explore the `apt` command: `man apt`
-* Understand `dpkg` options further: `man dpkg`
+- For a deeper dive into package management, explore the `apt` command: `man apt`
+- Understand `dpkg` options further: `man dpkg`
 
 ## Your Turn 🤔
 
@@ -78,6 +79,6 @@ Which method do you prefer for installing `.deb` files, and why? Do you have any
 
 ---
 
-*This post summarizes and adapts information from the original article.*
+_This post summarizes and adapts information from the original article._
 
 **For more detailed steps and screenshots, check out the original article on GeeksforGeeks:** [How to extract .deb file in Ubuntu?](https://www.geeksforgeeks.org/how-to-extract-deb-file-in-ubuntu/)

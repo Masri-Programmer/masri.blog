@@ -1,8 +1,10 @@
 ---
 author: "Mohamad Masri"
 description: ""
-tags: Laravel, PHP, Full-stack Development, Developer Roadmap, Web Development, Backend Development
+tags:
+  [laravel, php, full-stack-development, developer-roadmap, web-development, backend-development]
 ---
+
 ![Post cover image](https://media.daily.dev/image/upload/s--FzfES57d--/f_auto/v1742976058/posts/Lk2mtIjRv)
 
 ## **PHP Fundamentals**

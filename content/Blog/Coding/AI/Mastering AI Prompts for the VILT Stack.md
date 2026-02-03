@@ -218,4 +218,3 @@ My hypothesis is a serialization issue with the Eloquent collection, but I am no
     
 - **Type Safety:** "Generate a TypeScript interface for this Eloquent Model, including its loaded relationships."
 - 
-![[../../../Assets/Blog/Gemini_Generated_Image_fy55gwfy55gwfy55.png]]
