@@ -25,8 +25,6 @@ The developer emphasizes creating feature-rich applications without high costs. 
         
 - **Design:** Fully responsive design with light and dark theme options.
     
-- **Resume Builder:** A unique feature allowing users to create, manage, and export resumes as PDFs, with support for personal notes.
-    
 
 ## About the Developer
 

@@ -16,11 +16,11 @@ SORT file.mtime DESC LIMIT 5
 ```
 %%
 
-- [[Blog/Trading/BOLLINGER BANDS & RSI & ATR.md|BOLLINGER BANDS & RSI & ATR]]
-- [[Blog/Trading/POSITION SIZING EXAMPLE.md|POSITION SIZING EXAMPLE]]
-- [[Blog/Trading/1-WORKFLOW.md|1-WORKFLOW]]
-- [[Blog/Trading/FUNDEMENTAL ANALYSIS.md|FUNDEMENTAL ANALYSIS]]
-- [[Blog/Trading/Prompt.md|Prompt]]
+- [[Blog/Coding/AI/Mastering AI Prompts for the VILT Stack.md|Mastering AI Prompts for the VILT Stack]]
+- [[Blog/Coding/AI/AI Prompting.md|AI Prompting]]
+- [[Blog/Trading/CANDLESTICKS.md|CANDLESTICKS]]
+- [[Blog/Coding/Git/Bash Customization.md|Bash Customization]]
+- [[Blog/Coding/Git/Command Customization Windows.md|Command Customization Windows]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -40,9 +40,9 @@ SORT file.mtime DESC LIMIT 5
 
 - [[Blog/Coding/Browser Bookmarks/Knowledge Base part 6.md|Knowledge Base part 6]]
 - [[Blog/Coding/Browser Bookmarks/Knowledge Base part 1.md|Knowledge Base part 1]]
-- [[Blog/Coding/Browser Bookmarks/Knowledge Base part 4.md|Knowledge Base part 4]]
 - [[Blog/Coding/Browser Bookmarks/Knowledge Base part 2.md|Knowledge Base part 2]]
-- [[Blog/Coding/Browser Bookmarks/Knowledge Base part 3.md|Knowledge Base part 3]]
+- [[Blog/Coding/Browser Bookmarks/Knowledge Base part 5.md|Knowledge Base part 5]]
+- [[Blog/Coding/Browser Bookmarks/Knowledge Base part 4.md|Knowledge Base part 4]]
 
 %% DATAVIEW_PUBLISHER: end %%
 	

@@ -6,7 +6,7 @@
 
 “I’m developing a product catalog application that needs to store product information, images, and customer reviews. Please analyze the pros and cons of using MongoDB, PostgreSQL, and Firebase for this application. Consider factors like scalability, query capabilities, ease of development,
 
-## Stepwise Chain of Thought Prompt Strategyand maintenance requirements.”
+## Stepwise Chain of Thought Prompt Strategy and maintenance requirements.”
 
 “Help me refactor the code in service.js. Go one step at a time. Do not move to the next step until I give the keyword ‘next’.”
 
@@ -56,7 +56,7 @@ Example: "Before writing any code, outline the step-by-step logic you will use t
 
 ## The "Self-Correction" Loop
 
-**The Prompt:** [After it generates code] "Stop. Review the code you just wrote. Are there any security vulnerabilities (like SQL injection) or performance bottlenecks? If so, fix them and show me the V2."
+**The Prompt:** [After it generates code] "Stop. Review the code you just wrote. Are there any security vulnerabilities or mistakes or performance bottlenecks? If so, fix them and show me the V2."
 
 
 ### The "Senior Dev" Initialization Prompt
