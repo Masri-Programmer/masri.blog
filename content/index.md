@@ -21,9 +21,9 @@ I provide tailored digital solutions ranging from custom software architecture t
 
 > [!abstract] **Our Service Ecosystem**
 > Explore my specialized offerings and packages:
-> - 💻 [[Services/index|Software Development]] (VILT Stack, SaaS, APIs)
-> - 🌐 [[Services/index#Web & Digital Presence|Web Presence]] (Design, SEO, E-commerce)
-> - 🧠 [[Services/index#Strategic Technology Consulting|Tech Consulting]] (Fractional CTO, Strategy)
+> - 💻 [[Services/index]] (VILT Stack, SaaS, APIs)
+> - 🌐 [[Services/index]] (Design, SEO, E-commerce)
+> - 🧠 [[Services/index]] (Fractional CTO, Strategy)
 > - 🤖 [[Services/Automation Services|Automation Services]] (BPA & AI Workflows)
 
 ---
