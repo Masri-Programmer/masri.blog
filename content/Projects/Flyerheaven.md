@@ -1,3 +1,7 @@
+---
+tags: [project, printing, ecommerce, php, bootstrap, marketing, germany]
+---
+
 # Flyerheaven.de: Your Comprehensive German Online Printing Partner
 
 [Flyerheaven.de](https://www.flyerheaven.de/) is an established online printing company based in **Oldenburg, Germany**, boasting over 20 years of experience. They are positioned as a reliable, personal, and straightforward partner for all printing needs, offering high-quality printed materials.

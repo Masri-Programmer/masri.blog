@@ -4,14 +4,14 @@ tags: [personal]
 
 # Languages
 
-- Arabic: Native
-- English: Advanced
-- German: Intermediate
+- **Arabic:** Native
+- **English:** Advanced
+- **German:** Intermediate
 
 # Hobbies
 
-- Travel
-- Fitness
-- Gaming
+- **Fitness**
+- **Travel**
+- **Gaming**
 
 [[contact]] - [[Resume]]

@@ -8,11 +8,13 @@ tags: [personal]
  Oldenburg, Germany
 
  **Email:**  
-[info@masri.blog](mailto:info@masri.blog)
+[hallo@masri-programmer.de](mailto:hallo@masri-programmer.de)
 
+ **Website:**  
+ [masri.blog](https://masri.blog) | [masri-programmer.de](https://masri-programmer.de)
 
 <div align="center">
-  <a href="mailto:info@masri.blog">
+  <a href="mailto:hallo@masri-programmer.de">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/mohamad-masri-89778915a/" target="_blank">

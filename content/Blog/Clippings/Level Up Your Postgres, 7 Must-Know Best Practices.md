@@ -9,7 +9,7 @@ tags:
   - maintenance
   - high availability
 source: "https://speakdatascience.com/postgresql-best-practices/?ref=dailydev"
-author: "[[Speak Data Science]]"
+author: "Speak Data Science"
 published: 2024-12-08
 created: 2025-03-21
 description: "Unlock peak performance and bulletproof your PostgreSQL database with these 7 essential best practices for developers and database admins."

@@ -1,3 +1,7 @@
+---
+tags: [coffee, espresso, brewing, guide]
+---
+
 # ☕️ The Craft and Science of Espresso: From Bean to Cup
 
 ## Introduction 🌱🔬
@@ -22,7 +26,7 @@ By examining each stage, we can build a clearer picture of how to consistently c
 
 ## Section 1: Understanding Espresso Shots 📊
 
-![[../Assets/Blog/8 Types of Coffee Drinks to Start Your Day Right - Society19.jpeg]]
+![Espresso Varieties](https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&q=80&w=1000)
 
 Espresso is not a single entity but a spectrum of preparations, primarily differentiated by the **brew ratio**: the ratio of ground coffee used to the liquid espresso yielded. This fundamental parameter dictates the concentration, extraction dynamics, and ultimately, the flavor profile.
 
@@ -66,8 +70,8 @@ These Italian terms describe variations based on the yield (length) relative to 
 |**Flavor Profile**|Concentrated, syrupy, emphasizes acidity & sweetness|Balanced acidity, sweetness & bitterness, moderate body|Thinner body, less concentrated, emphasizes bitterness|
 |**Dominant Sensation**|Intensity, Sweetness/Acidity|Balance|Bitterness, Roastiness|
 |**Relative Caffeine**|Lower|Medium|Higher|
-![[../Assets/Blog/6e9a14af25e867ee2056f5b3621eb1d6.jpg]]
- ![[../Assets/Blog/f301bbbdf66bc5d31ec55da915588f8f.jpg]]
+![Espresso Extraction](https://images.unsplash.com/photo-1510591509098-f4fdc6d0ff04?auto=format&fit=crop&q=80&w=1000)
+![The Perfect Shot](https://images.unsplash.com/photo-1579992357154-faf4bfe95b3d?auto=format&fit=crop&q=80&w=1000)
  
 ## 1.2 The Double Shot: Defining the Modern Standard ⚖️
 
@@ -123,7 +127,7 @@ Processing separates the bean (seed) from the fruit (cherry) and dries it. The m
 ### 2.2 The Art of Roasting: Medium vs. Dark 🔥
 
 
-![[../Assets/Blog/a67b564e-194b-4eee-b7c8-856aaebdd3b7.jpeg]]
+![Coffee Roasting Degrees](https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&q=80&w=1000)
 
 Roasting develops flavor/aroma via heat-driven chemical reactions (Maillard, caramelization). Roast degree is critical.
 
@@ -217,7 +221,7 @@ Techniques:
 
 **Key Principle**: Water under pressure exploits the path of least resistance. Uniform density across the _entire_ puck depth is essential for even extraction. WDT excels here.
 
-![[../Assets/Blog/coffee_1.jpeg]]
+![Puck Preparation](https://images.unsplash.com/photo-1541167760496-1628856ab772?auto=format&fit=crop&q=80&w=1000)
 ### 3.2 Avoiding Imperfection: Understanding Channeling ⚠️
 
 Channeling: Water bypasses denser areas, finding paths of least resistance through the puck. The enemy of good espresso.
@@ -289,7 +293,7 @@ Interpretation (Educated Guess):
 
 Final judgment relies on taste and smell. Understanding their interaction is key to appreciating and diagnosing coffee quality.
 
-![[../Assets/Blog/3aff85a5e8842cf40c07b66f41222544.jpg]]
+![Sensory Evaluation](https://images.unsplash.com/photo-1497933322477-911ef0562663?auto=format&fit=crop&q=80&w=1000)
 ### 5.1 Aroma Meets Taste: The Science of Perception 🧠
 
 Flavor = Complex interplay, primarily Taste (tongue receptors: sweet, sour, bitter, salty, umami) + Aroma (olfactory system).

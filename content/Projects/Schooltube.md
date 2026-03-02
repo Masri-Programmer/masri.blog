@@ -1,3 +1,7 @@
+---
+tags: [project, education, video-platform, k12, lms, curation]
+---
+
 # SchoolTube.online: A Safe and Curated Video Platform for K-12 Education
 
 [SchoolTube.online](https://schooltube.online/) is an online educational platform specifically designed to provide a **safe and moderated video-sharing environment for K-12 students, teachers, and school districts.** It serves as a dedicated alternative to commercial video platforms like YouTube, which often contain content unsuitable for classroom use.

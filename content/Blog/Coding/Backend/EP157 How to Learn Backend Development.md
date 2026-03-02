@@ -12,7 +12,7 @@ tags:
     software-architecture,
   ]
 source: https://blog.bytebytego.com/p/ep157-how-to-learn-backend-development?ref=dailydev
-author: "[[ByteByteGo]]"
+author: "ByteByteGo"
 description: A summary of ByteByteGo's mind map outlining the essential areas to learn for backend development, covering fundamentals, languages, databases, APIs, hosting, and DevOps.
 keywords: backend development, learning path, roadmap, software engineering, programming languages, databases, API, web services, server, hosting, DevOps, CI/CD, containerization, ByteByteGo
 date created: 2025-04-15

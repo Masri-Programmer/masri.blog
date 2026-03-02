@@ -1,3 +1,7 @@
+---
+tags: [project, advertising, amazon-ads, digital-marketing]
+---
+
 Flyerheaven.de is a German online printing company that offers a wide range of custom print products, primarily for businesses and promotional purposes. The links provided lead to specific categories and seasonal offerings within their extensive product catalog.
 
 ### 1. [https://www.flyerheaven.de/deine-messe.html](https://www.flyerheaven.de/deine-messe.html) (Your Trade Fair/Exhibition Materials)

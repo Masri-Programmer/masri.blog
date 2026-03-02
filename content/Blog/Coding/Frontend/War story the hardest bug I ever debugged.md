@@ -2,7 +2,7 @@
 title: "War story: the hardest bug I ever debugged"
 source: https://www.clientserver.dev/p/war-story-the-hardest-bug-i-ever
 author:
-  - "[[Jacob Voytko]]"
+  - "Jacob Voytko"
 published: 2025-01-23
 created: 2025-04-11
 description: All of a sudden, without any ostensible cause, Google Docs was flooded with errors. How it took me 2 days and a coworker to solve the hardest bug I ever debugged.

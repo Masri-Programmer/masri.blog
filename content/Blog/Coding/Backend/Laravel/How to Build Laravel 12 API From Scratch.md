@@ -2,7 +2,7 @@
 title: "How to Build Laravel 12 API From Scratch"
 source: "https://laraveldaily.com/course/api-laravel?mtm_campaign=search-results-course"
 author:
-  - "[[Laravel Daily]]"
+  - "Laravel Daily"
 published: 2025-02-01
 created: 2025-03-27
 description:

@@ -2,7 +2,7 @@
 tags:
   [ai, wildlife, conservation, nvidia, machinelearning, computervision, earthranger, biodiversity]
 source: https://blogs.nvidia.com/blog/ai-protects-wildlife/?ref=dailydev
-author: "[[Angie Lee]]"
+author: "Angie Lee"
 description: A summary of how AI and technologies like NVIDIA GPUs and platforms like EarthRanger are being used globally to monitor, protect, and conserve endangered wildlife and habitats.
 keywords: AI, artificial intelligence, wildlife conservation, endangered species, NVIDIA, EarthRanger, machine learning, computer vision, biodiversity, environmental technology
 date created: 2025-04-15

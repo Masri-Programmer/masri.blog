@@ -2,7 +2,7 @@
 title: "25+ Essential Linux Bash Commands Every Aspiring DevOps Must Know"
 source: "https://dev.to/knight03/25-essential-linux-bash-commands-every-aspiring-devops-must-know-17cl?ref=dailydev"
 author:
-  - "[[DEV Community]]"
+  - "DEV Community"
 published: 2025-02-21
 created: 2025-03-28
 description: "I'm on a journey to become a DevOps professional, so like many others, I jumped straight into... Tagged with linux, bash, terminal, beginners."

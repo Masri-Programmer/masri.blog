@@ -2,7 +2,7 @@
 title: "Datum - Termin - Geburtstag erste zweite dritte - DeutschAkademie"
 source: "https://www.deutschakademie.de/online-deutschkurs/deutschkurs/nach-thema/ordinalzahlen"
 author:
-  - "[[Author]]"
+  - "Author"
 published:
 created: 2025-06-16
 description: "Erklärung: Ordinalzahlen haben einen Punkt (.) nach der Zahl (12., 156., 23.,…) und folgen der  Adjektivdeklination nach bestimmtem Artikel . ACHTUNG! Von 1. – 19. spricht man die Zahl + „ -te “, ab 20. spricht man die Zahl + „ -ste “:   1. der/die/das Ers te 2. der/die/das Zwei te 3. der/die/das Drit te 12. der/die/das Zwölf te 15. der/die/das Fünfzehn te 26. der/die/das Sechsundzwanzig ste 34. der/die/das Vierunddreißig ste 168. der/Die/Das Hundertachtundsechzig ste Datum     Wir folgen der Adjektivdeklination!!! \"der + -ste\" (Nominativ) / \"am + -sten\" (Dativ) Heute ist der 13. („dreizehnte“) Mai 2025. Erika ist am 25. („fünfundzwanzigsten“) November geboren. Kannst du am 7. („siebten“) August zu mir kommen?   Personengruppen Gruppen von mehreren Personen: „zu“ + Ordinalzahl OHNE Endung 2 Personen = „zu zweit“ 3 Personen = „zu dritt“ 8 Peronen = „zu acht“ 20 Personen = „zu zwanzigst“   Reihenfolge Eine Aufzählung spricht man: Ordinalzahl + „-ens“ 1.)   erstens 2.)   zweitens 3.)   drittens 38.) achtunddreißigstens"

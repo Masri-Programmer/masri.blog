@@ -139,5 +139,5 @@ run\: \|
 * https://search.google.com/search-console/about
 
 
-Date: [[2025-04-13]]
+Date: 2025-04-13
 Tags: #IndexNow #SEO #GitHubActions #ObsidianQuartz #Bing #GoogleSearchConsole #curl #Automation #Troubleshooting

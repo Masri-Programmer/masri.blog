@@ -14,7 +14,7 @@ tags:
   ]
 source: https://dev.to/this-is-learning/understanding-tree-shaking-in-javascript-a-comprehensive-guide-5e86?ref=dailydev
 author:
-  - "[[DEV Community]]"
+  - "DEV Community"
 published: 2025-03-10
 created: 2025-04-11
 description: Unlock faster web apps by understanding and implementing tree shaking in JavaScript. Learn how to eliminate dead code and boost performance.
@@ -39,7 +39,7 @@ The article also sheds light on how modern frontend frameworks like Angular, Rea
 
 Ready to slim down your JavaScript bundles and boost your web app's performance? This article provides a comprehensive understanding of tree shaking and how to harness its power.
 
-**Original Article:** [Understanding Tree Shaking in JavaScript: A Comprehensive Guide](https://dev.to/this-is-learning/understanding-tree-shaking-in-javascript-a-comprehensive-guide-5e86?ref=dailydev) by [[DEV Community]]
+**Original Article:** [Understanding Tree Shaking in JavaScript: A Comprehensive Guide](https://dev.to/this-is-learning/understanding-tree-shaking-in-javascript-a-comprehensive-guide-5e86?ref=dailydev) by DEV Community
 
 **Further Exploration:**
 

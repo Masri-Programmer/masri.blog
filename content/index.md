@@ -1,84 +1,57 @@
 ---
-tags:
-  [
-    web-development,
-    portfolio,
-    software-engineering,
-    blog,
-    artificial-intelligence,
-    developer-resources,
-  ]
-Created: 2025-03-20
-author:
-  - Mohamad Masri
-title: Welcome
-description: " Masri's web development portfolio and blog, featuring tutorials, resources, and insights on frontend, backend, and software. web of science"
-categories: personal, development, blog
-language:
-  - en
-keywords: web development services, coding, portfolio, javaScript, react, vue, laravel, software engineering, computer science, ai, tech, development, mdn, resume templates
+title: "Masri.blog | Full Stack Developer & Digital Strategist"
+description: "Professional portfolio and blog of Mohamad Masri. Expertise in VILT stack, software architecture, and digital automation solutions."
+tags: [web-development, portfolio, software-engineering, blog, ai, developer-resources]
+created: 2025-03-20
+updated: 2026-03-01
+author: Mohamad Masri
 layout: homepage
-status: published, draft
-cover_image: Assets/Img/Profile.jpg
+status: published
 ---
-
----
+# 👋 Welcome to Masri.blog
 
 ![[Assets/Img/Pasted image 20250325171638.webp]]
 
-# 👋 Welcome to [Masri.blog](https://masri.blog/)
+I'm **Mohamad Masri** — a Full Stack Developer and VILT Stack Specialist dedicated to crafting clean, high-performance digital experiences. This platform is a curated intersection of my professional portfolio, deep-dive technical tutorials, and a growing knowledge base for the modern developer.
 
-Hey there! I'm [**Mohamad Masri**](/Portfolio) — a web developer with a passion for [crafting clean, efficient, and impactful]() digital experiences using modern **[frontend](/Blog/Coding/frontend)** and **[backend](/Blog/Coding/Backend)** technologies. This [site](https://masri.blog/) is a blend of my professional profile, curated developer resources, and hands-on tutorials designed to help you level up in [tech](/Blog).
+---
 
-## 🚀 What You'll Find Here
+## 🛠️ Solutions & Services
+I provide tailored digital solutions ranging from custom software architecture to modern web design and workflow automation.
 
-### 💼 Professional [[Resume]]
+> [!abstract] **Our Service Ecosystem**
+> Explore my specialized offerings and packages:
+> - 💻 [[Services/index|Software Development]] (VILT Stack, SaaS, APIs)
+> - 🌐 [[Services/index#Web & Digital Presence|Web Presence]] (Design, SEO, E-commerce)
+> - 🧠 [[Services/index#Strategic Technology Consulting|Tech Consulting]] (Fractional CTO, Strategy)
+> - 🤖 [[Services/Automation Services|Automation Services]] (BPA & AI Workflows)
 
-> [!tip] Get your digital 100% ATS Friendly Resume Template for professionals [Demo](http://resume.masri.blog/) [Source](https://github.com/Masri-Programmer/resume)
+---
+
+## 💼 Professional Resources
+> [!tip] **ATS-Friendly Resume Template**
+> Download my 100% ATS-Friendly Digital Resume Template for professionals.
+> [Demo](http://resume.masri.blog/) | [Source Code](https://github.com/Masri-Programmer/resume)
 > #resume #templates
 
-### 🛠️ Services
+> [!info] **Daily Session Tracker**
+> Optimize your productivity with my custom tracking tool for work hours.
+> [Try the Tracker](https://tracker.masri.blog)
+> #productivity #tracking-tool
 
-I offer tailored solutions for individuals and businesses.
-Learn more on the [[Services]] page or visit https://masri-programmer.de
+---
 
-> [!tip] Get your session [tracking tool](https://tracker.masri.blog) for tracking work hours daily! [Demo](http://tracker.masri.blog/)
-> #session-tracker #tracking-tool
-
-### 📚 Developer Knowledge Base
-
-Explore my curated **developer knowledge base** for quick tips, **coding resources**, and **web development guides**:
+## ✍️ Latest Insights & Tutorials
+*My journey through code, architecture, and performance.*
 
 %% DATAVIEW_PUBLISHER: start
-
-```dataview
-LIST
-FROM "Blog/Coding/Browser Bookmarks"
-SORT file.mtime DESC LIMIT 5
-```
-
-%%
-
-- [[Blog/Coding/Browser Bookmarks/Knowledge Base part 6.md|Knowledge Base part 6]]
-- [[Blog/Coding/Browser Bookmarks/Knowledge Base part 1.md|Knowledge Base part 1]]
-- [[Blog/Coding/Browser Bookmarks/Knowledge Base part 2.md|Knowledge Base part 2]]
-- [[Blog/Coding/Browser Bookmarks/Knowledge Base part 5.md|Knowledge Base part 5]]
-- [[Blog/Coding/Browser Bookmarks/Knowledge Base part 4.md|Knowledge Base part 4]]
-
-%% DATAVIEW_PUBLISHER: end %%
-
-### ✍️ Blog
-
-Explore [[Recent Articles]] :
-
-%% DATAVIEW_PUBLISHER: start
-
 ```dataview
 LIST
 FROM "Blog"
-SORT file.mtime DESC LIMIT 7
+WHERE file.name != "Highlights"
+SORT file.mtime DESC 
+LIMIT 5
 ```
-
 %%
 
 - [[Blog/Coding/AI/Mastering AI Prompts for the VILT Stack.md|Mastering AI Prompts for the VILT Stack]]
@@ -86,13 +59,40 @@ SORT file.mtime DESC LIMIT 7
 - [[Blog/Trading/CANDLESTICKS.md|CANDLESTICKS]]
 - [[Blog/Coding/Git/Bash Customization.md|Bash Customization]]
 - [[Blog/Coding/Git/Command Customization Windows.md|Command Customization Windows]]
-- [[Blog/Coding/Git/AI Powered Git Commits with Lazygit.md|AI Powered Git Commits with Lazygit]]
-- [[Blog/Coding/Backend/Laravel/Hosting local project.md|Hosting local project]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
 ---
 
-> [!info] Whether you're here to collaborate, learn, or simply browse — welcome aboard! Feel free to [reach out](/Blog/Personal/contact) if something sparks your interest.
+## 📚 Developer Knowledge Base
+*Curated resources and foundational coding guides.*
 
-Stay sharp and keep building. 💡
+> [!quote] **Knowledge Base Partials**
+> %% DATAVIEW_PUBLISHER: start
+> ```dataview
+> LIST
+> FROM "Blog/Coding/Browser Bookmarks"
+> SORT file.mtime DESC 
+> LIMIT 5
+> ```
+> %%
+> 
+> - [[Blog/Coding/Browser Bookmarks/Knowledge Base part 6.md|Knowledge Base part 6]]
+> - [[Blog/Coding/Browser Bookmarks/Knowledge Base part 1.md|Knowledge Base part 1]]
+> - [[Blog/Coding/Browser Bookmarks/Knowledge Base part 2.md|Knowledge Base part 2]]
+> - [[Blog/Coding/Browser Bookmarks/Knowledge Base part 5.md|Knowledge Base part 5]]
+> - [[Blog/Coding/Browser Bookmarks/Knowledge Base part 4.md|Knowledge Base part 4]]
+> 
+> %% DATAVIEW_PUBLISHER: end %%
+
+---
+
+## 🤝 Let's Connect
+> [!question] Have a project in mind?
+> Whether you're here to collaborate, learn, or simply browse — welcome aboard! 
+> - 📂 [[Portfolio|View Project Portfolio]]
+> - 📄 [[Resume|Full Resume]]
+> - 📅 [[Book a Meeting|Schedule a Call]]
+> - 📞 [[Blog/Personal/contact|Contact Me Directly]]
+
+#webdev #laravel #vuejs #ai #automation #fullstack

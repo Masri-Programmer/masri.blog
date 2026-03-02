@@ -11,7 +11,7 @@ tags:
   - ASO
   - startups
 source: "https://javascript.plainenglish.io/7-powerful-developer-tools-that-will-surprise-you-8b6a72d7997c"
-author: "[[Mohit Vaswani]]"
+author: "Mohit Vaswani"
 description: Explore a curated list of 7 surprising and powerful tools designed to boost developer productivity, enhance workflows, and speed up development cycles.
 keywords: developer tools, productivity tools, web development tools, Lightspeed, LocalCan, CompressX, Open Alternative, File Rocks, Astro, DataFast, software development
 date created: 2025-04-16

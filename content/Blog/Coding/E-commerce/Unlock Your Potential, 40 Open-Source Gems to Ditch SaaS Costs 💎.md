@@ -10,7 +10,7 @@ tags:
   ]
 source: "https://www.indiehackers.com/post/40-open-source-gems-to-replace-your-saas-subscriptions-f733b8e166?ref=dailydev"
 author:
-  - "[[Indie Hackers]]"
+  - "Indie Hackers"
 published:
 created: 2025-03-23
 description: "Discover 40 incredible open-source tools that can help developers replace expensive SaaS subscriptions and build powerful applications."
@@ -39,4 +39,4 @@ Here's a glimpse at some of the exciting tools featured:
 
 Ready to take control of your software stack and explore the power of open source? Which of these gems will you try first? How might adopting these tools change your development process or budget?
 
-**Original Article:** [40 open-source gems to replace your SaaS subscriptions](https://www.indiehackers.com/post/40-open-source-gems-to-replace-your-saas-subscriptions-f733b8e166?ref=dailydev) by [[Indie Hackers]]
+**Original Article:** [40 open-source gems to replace your SaaS subscriptions](https://www.indiehackers.com/post/40-open-source-gems-to-replace-your-saas-subscriptions-f733b8e166?ref=dailydev) by Indie Hackers

@@ -1,4 +1,8 @@
 
+---
+tags: [project, ecommerce, sports, collectibles, custom-products, fut-cards]
+---
+
 [Propackstore.org](https://propackstore.org/home) is an online store specializing in **personalized sports cards, particularly "FUT cards"** (likely referring to cards inspired by popular football/soccer video games like FIFA/EA Sports FC Ultimate Team).
 
 **Core Business and Products:**

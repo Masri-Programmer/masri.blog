@@ -14,7 +14,7 @@ tags:
     full-stack-development,
   ]
 source: "https://dev.to/encore/build-a-production-ready-saas-application-44nb"
-author: "[[DEV Community]]"
+author: "DEV Community"
 description: "Learn how to build a production-ready SaaS application using a TypeScript starter template with Next.js, Encore, Clerk, Stripe, and Tailwind CSS."
 keywords:
   [

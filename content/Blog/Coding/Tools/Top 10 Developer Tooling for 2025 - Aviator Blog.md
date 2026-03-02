@@ -12,7 +12,7 @@ tags:
   - workflow-automation
   - 2025-tools
 source: "https://www.aviator.co/blog/top-10-developer-tooling-for-2025/?ref=dailydev"
-author: "[[Aviator Blog - Automate tedious developer workflows]]"
+author: "Aviator Blog"
 description: An overview of key developer tools shaping productivity in 2025, covering AI assistants, containerization, API testing, build automation, and workflow management.
 keywords: developer tools, developer experience, DX, AI coding assistants, Cody AI, Cursor, GitHub Copilot, containerization, Coder, DevPod, API testing, Postman, build tools, Bazel, Dagger, workflow automation, Aviator, CI/CD
 date created: 2025-04-16

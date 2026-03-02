@@ -1,7 +1,7 @@
 ---
 tags: [software-architecture, system-design, domain-driven-design, documentation, best-practices]
 source: "https://www.workingsoftware.dev/fundamental-techniques-for-software-architects/?ref=dailydev"
-author: "[[workingsoftware.dev]]"
+author: "workingsoftware.dev"
 description: "A curated collection of essential techniques for software architects, covering strategy, design, decision-making, documentation, risk management, and continuous improvement."
 keywords:
   - software architect

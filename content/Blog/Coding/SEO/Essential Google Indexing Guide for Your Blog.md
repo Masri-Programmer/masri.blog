@@ -5,7 +5,7 @@ tags:
   - "#BloggingTips"
   - "#WebDev"
 source: "https://bloggerspassion.com/google-index-website/"
-author: "[[BloggersPassion: Learn Blogging & SEO from Anil Agarwal]]"
+author: "BloggersPassion"
 description: "A step-by-step guide for bloggers and developers on how to get their new websites and blog posts indexed quickly by Google using Search Console, Sitemaps, robots.txt, and link building."
 keywords: "Google indexing, SEO, get indexed fast, submit site to Google, XML sitemap, robots.txt, backlinks, blog visibility"
 date created: 2025-04-16

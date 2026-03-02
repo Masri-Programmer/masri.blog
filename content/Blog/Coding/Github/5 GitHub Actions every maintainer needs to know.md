@@ -2,8 +2,8 @@
 title: "5 GitHub Actions every maintainer needs to know"
 source: "https://github.blog/open-source/maintainers/5-github-actions-every-maintainer-needs-to-know/?ref=dailydev"
 author:
-  - "[[Klint Finley]]"
-  - "[[Gwen Davis]]"
+  - "Klint Finley"
+  - "Gwen Davis"
 published: 2025-03-27
 created: 2025-04-27
 description: "With these actions, you can keep your open source projects organized, minimize repetitive and manual tasks, and focus more on writing code."

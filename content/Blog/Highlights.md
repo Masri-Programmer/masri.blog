@@ -1,1 +1,5 @@
-[A study plan to become a software developer](/Blog/Coding/Learning/Your-Roadmap-to-Top-Tech-Interviews)
+---
+tags: [highlights, notes, reading]
+---
+
+[[Your Roadmap to Top Tech Interviews|A study plan to become a software developer]]

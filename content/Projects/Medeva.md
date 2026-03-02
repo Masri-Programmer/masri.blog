@@ -1,3 +1,7 @@
+---
+tags: [project, healthcare, telemedicine, react, tailwind-css, medical-assistance, france]
+---
+
 [Med-Evasan.com](https://www.med-evasan.com/) (also known as MED EVASAN or Medeva) is a prominent European medical assistance provider based in France, established in 1984. It specializes in offering a comprehensive range of medical services, particularly focused on **medical assistance, medical transport, telemedicine, and cost containment for individuals, expatriates, and companies.**
 
 Here's an overview of their key services and characteristics:

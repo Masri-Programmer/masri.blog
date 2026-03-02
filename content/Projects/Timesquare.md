@@ -1,4 +1,8 @@
 
+---
+tags: [project, ecommerce, react, vite, redux, firebase, stripe, tailwind-css]
+---
+
 **[UltraStore.me](https://ultrastore.me/ultra-store)**, often represented by the "Time Square" e-commerce application, presents itself as a comprehensive and user-friendly online shopping platformTit aims to provide a seamless and enjoyable shopping journey with a broad product range and a focus on user experience.
 
 **Key Aspects and Features (as advertised):**
