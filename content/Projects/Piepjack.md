@@ -19,7 +19,7 @@ Piepjack Clothing is an emerging German fashion brand requiring a digital flagsh
 *   **Objective:** Build a pixel-perfect, high-performance e-commerce platform with full data sovereignty.
 *   **Status:** Currently in **Closed Beta / Internal Audit** on a secured staging environment.
 
-> [!quote] **Client Testimonial**
+> [!quote] Client Testimonial
 > "The web design process perfectly fulfilled all my wishes." — *Marvin Piepjack*
 
 ---
@@ -56,7 +56,7 @@ The backend features a tailored dashboard built with **FilamentPHP**, allowing t
 ## 🚀 Strategic Outcome: Custom vs. SaaS
 Choosing a custom Laravel stack over Shopify allows Piepjack to avoid transaction fees, maintain 100% data ownership, and scale features (like AI-driven sizing tools) without plugin limitations.
 
-> [!info] **DevOps Pipeline**
+> [!info] DevOps Pipeline
 > The project utilizes a mature CI/CD pipeline. Code is pushed to a private GitHub repository, compiled via GitHub Actions, and deployed to a secured `testing` subdomain for client validation (UAT) before going live.
 
 ---

@@ -19,7 +19,7 @@ I'm **Mohamad Masri** — a Full Stack Developer and VILT Stack Specialist dedic
 ## 🛠️ Solutions & Services
 I provide tailored digital solutions ranging from custom software architecture to modern web design and workflow automation.
 
-> [!abstract] **Our Service Ecosystem**
+> [!abstract] Our Service Ecosystem
 > Explore my specialized offerings and packages:
 > - 💻 [[Services/index]] (VILT Stack, SaaS, APIs)
 > - 🌐 [[Services/index]] (Design, SEO, E-commerce)
@@ -29,12 +29,12 @@ I provide tailored digital solutions ranging from custom software architecture t
 ---
 
 ## 💼 Professional Resources
-> [!tip] **ATS-Friendly Resume Template**
+> [!tip] ATS-Friendly Resume Template
 > Download my 100% ATS-Friendly Digital Resume Template for professionals.
 > [Demo](http://resume.masri.blog/) | [Source Code](https://github.com/Masri-Programmer/resume)
 > #resume #templates
 
-> [!info] **Daily Session Tracker**
+> [!info] Daily Session Tracker
 > Optimize your productivity with my custom tracking tool for work hours.
 > [Try the Tracker](https://tracker.masri.blog)
 > #productivity #tracking-tool
@@ -67,7 +67,7 @@ LIMIT 5
 ## 📚 Developer Knowledge Base
 *Curated resources and foundational coding guides.*
 
-> [!quote] **Knowledge Base Partials**
+> [!quote] Knowledge Base Partials
 > %% DATAVIEW_PUBLISHER: start
 > ```dataview
 > LIST

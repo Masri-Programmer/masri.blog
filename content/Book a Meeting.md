@@ -20,7 +20,7 @@ Whether you have a fully-formed project requirement or just an initial idea, I'm
 ## 📅 Schedule a Discovery Call
 Choose a time that works best for you. During this 30-minute session, we'll discuss your goals, technical challenges, and how my services can add value to your business.
 
-> [!abstract] **30-Minute Intro Call**
+> [!abstract] 30-Minute Intro Call
 > <div align="center" style="margin: 20px 0;">
 >   <a href="https://cal.com/mohamad-masri-jfc90n/30min" target="_blank" rel="noopener noreferrer">
 >     <img 
@@ -35,7 +35,7 @@ Choose a time that works best for you. During this 30-minute session, we'll disc
 ## 📩 Other Ways to Connect
 If you prefer traditional messaging or want to connect on professional networks, use the channels below.
 
-> [!info] **Direct Contact**
+> [!info] Direct Contact
 > **Email:** [hallo@masri-programmer.de](mailto:hallo@masri-programmer.de)
 > 
 > <div align="center" style="margin-top: 15px;">

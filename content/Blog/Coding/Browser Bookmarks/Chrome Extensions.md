@@ -13,7 +13,7 @@ This list is automatically generated from my local Google Chrome profile. These 
 ---
 
 ## 💻 Web Development & Design
-> [!abstract] **Core Dev Tools**
+> [!abstract] Core Dev Tools
 > - **[React Developer Tools](https://chromewebstore.google.com/detail/fmkadmapgofadopljbjfkapdkoienihi)** – Debugging React applications.
 > - **[Wappalyzer](https://chromewebstore.google.com/detail/gppongmhjkpfnbhagpmjfkannfbllamg)** – Identify technology stacks on any website.
 > - **[Fonts Ninja](https://chromewebstore.google.com/detail/eljapbgkmlngdpckoiiibecpemleclhh)** – Identify fonts used on web pages.
@@ -24,7 +24,7 @@ This list is automatically generated from my local Google Chrome profile. These 
 ---
 
 ## 🚀 Productivity & Utilities
-> [!info] **Workflow Enhancements**
+> [!info] Workflow Enhancements
 > - **[Grammarly](https://chromewebstore.google.com/detail/kbfnbcaeplbcioakkpcpgfkobkghlhen)** – AI writing assistant and grammar checker.
 > - **[SavedTabs](https://chromewebstore.google.com/detail/lcdhjlnmjiijahoffbhfikkcnmladakb)** – A better new tab and start page.
 > - **[EverSync](https://chromewebstore.google.com/detail/iohcojnlgnfbmjfjfkbhahhmppcggdog)** – Sync bookmarks and backup favorites.
@@ -48,7 +48,7 @@ This list is automatically generated from my local Google Chrome profile. These 
 
 ---
 
-> [!tip] **Tip**
+> [!tip] Tip
 > You can find most of these by searching for their names in the [Chrome Web Store](https://chromewebstore.google.com/).
 
 #chrome #extensions #webdev #productivity #tools

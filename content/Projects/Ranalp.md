@@ -17,13 +17,13 @@ Ranalp is a visionary digital marketplace designed to bridge the gap between ide
 ## 💎 Core Strategic Pillars
 We built Ranalp on a foundation of trust, simplicity, and transparency to ensure every project reaches its potential.
 
-> [!abstract] **Visionary Platform**
+> [!abstract] Visionary Platform
 > A versatile space for ideas ranging from small personal milestones to global social initiatives.
 
-> [!success] **Collective Action**
+> [!success] Collective Action
 > Bespoke tools designed to simplify fundraising, community engagement, and social support.
 
-> [!info] **Transparency & Trust**
+> [!info] Transparency & Trust
 > Rigorous verification processes for non-profits and secure, multi-party payment processing.
 
 ---
@@ -56,7 +56,7 @@ Ranalp features four distinct listing types, each optimized for specific user ne
 ## 💻 Technical Infrastructure: Fintech Power
 The heart of Ranalp is a robust financial engine built to handle complex multi-party transactions.
 
-> [!tip] **Stripe Connect Integration**
+> [!tip] Stripe Connect Integration
 > We utilized **Stripe Connect** to manage the entire payout lifecycle. This enables:
 > - **KYC Verification:** Seamless onboarding for individuals and associations.
 > - **Automated Split-Payments:** Directing proceeds to charity while managing platform fees.

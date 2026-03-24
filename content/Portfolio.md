@@ -22,13 +22,13 @@ tags: [portfolio, full-stack, vilt-stack, open-source]
 
 ## ⚡ Professional Snapshot
 
-> [!abstract] **Current Focus**
+> [!abstract] Current Focus
 > 🔭 **Full-time Software Developer** specializing in high-performance web applications.
 > 🌱 Currently engineering several [[Projects/Main|Bespoke Projects]] and SaaS solutions.
 > ✨ Deep-diving into problem-solving and architectural design patterns.
 > 👯 Active contributor to the **Open Source Ecosystem**.
 
-> [!info] **Strategic Goals & Interests**
+> [!info] Strategic Goals & Interests
 > 🥅 **2027 Vision:** Scaling my digital service business to 3,000€+ monthly recurring revenue.
 > 🏊 **Beyond the Code:** Dedicated to health and fitness through Gym and Swimming.
 
@@ -72,7 +72,7 @@ tags: [portfolio, full-stack, vilt-stack, open-source]
   </a>
 </div>
 
-> [!tip] **Looking for a partner?**
+> [!tip] Looking for a partner?
 > Whether you're looking for [[Services/index|Professional Services]] or interested in a collaboration, I'm always open to new opportunities.
 > 📅 [[Book a Meeting|Schedule a discovery call]]
 

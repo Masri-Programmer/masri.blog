@@ -18,11 +18,11 @@ status: live
 ## 💎 Strategic Core Services
 The website highlights the firm's comprehensive approach to energy optimization and financial planning for homeowners.
 
-> [!abstract] **Certification & Analysis**
+> [!abstract] Certification & Analysis
 > - **Energy Performance Certificates:** Professional creation of mandatory legal documents for property sales and rentals.
 > - **Hydraulic Balancing:** Technical optimization of heating systems to ensure maximum efficiency and comfort.
 
-> [!success] **Subsidy Management**
+> [!success] Subsidy Management
 > Expert guidance through the complex landscape of German government grants:
 > - **BAFA & KfW Applications:** Full support in securing maximum funding for renovation projects.
 > - **iSFP Bonus:** Expertise in the *Individual Renovation Roadmap*, securing an **extra 5% bonus** for clients.

@@ -17,7 +17,7 @@ For my professional operations and career blog, I rely on a robust suite of self
 ## ⏱️ Project & Time Management: **Kimai**
 I utilize **[Kimai](https://www.kimai.org/)** as the central hub for managing project lifecycles and customer data.
 
-> [!info] **Why Kimai?**
+> [!info] Why Kimai?
 > - **Precision Tracking:** Detailed time-tracking for diverse client projects.
 > - **Invoicing:** Streamlined generation of professional invoices based on tracked hours.
 > - **Data Control:** Self-hosted on my private infrastructure to ensure client confidentiality.
@@ -27,7 +27,7 @@ I utilize **[Kimai](https://www.kimai.org/)** as the central hub for managing pr
 ## 🚦 Service Monitoring: **Uptime Kuma**
 Maintaining high availability for my digital solutions is critical. I use **[Uptime Kuma](https://uptimekuma.org/)** to monitor all service status and availability in real-time.
 
-> [!tip] **Monitoring Strategy**
+> [!tip] Monitoring Strategy
 > - **Status Pages:** Public and private status dashboards for transparency.
 > - **Instant Alerts:** Real-time notifications for service downtime or performance degradation.
 > - **Multi-Protocol Support:** Monitoring HTTP(s), Ping, DNS, and Docker containers seamlessly.
@@ -37,7 +37,7 @@ Maintaining high availability for my digital solutions is critical. I use **[Upt
 ## 🏗️ Custom Administration: **FilamentPHP**
 For bespoke administration interfaces and internal tooling, I leverage the power of the **[FilamentPHP](https://filamentphp.com/)** ecosystem within my Laravel applications.
 
-> [!abstract] **VILT Stack Synergy**
+> [!abstract] VILT Stack Synergy
 > - **Rapid Development:** Building beautiful, TALL-stack powered admin panels in record time.
 > - **Resource Management:** Highly customizable CRUD interfaces for complex database schemas.
 > - **User Experience:** Delivering a polished, modern backend experience for internal stakeholders.

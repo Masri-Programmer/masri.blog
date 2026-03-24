@@ -17,13 +17,13 @@ status: live
 ## 💎 Core Philosophy & Features
 We believe that high-performance software should be accessible, secure, and respectful of user privacy.
 
-> [!success] **Performance & Security**
+> [!success] Performance & Security
 > We deliver stable, secure, and SEO-friendly websites optimized for Core Web Vitals. Every project is built for speed and long-term reliability.
 
-> [!info] **Compliance & Data Sovereignty**
+> [!info] Compliance & Data Sovereignty
 > All solutions are **GDPR (DSGVO) compliant** from the ground up. We operate with a strict **No User Tracking** and **No Third-Party Advertising** policy, offering full self-hosting options.
 
-> [!abstract] **Customization & Design**
+> [!abstract] Customization & Design
 > - **Figma-First:** High-fidelity UI/UX design files provided for every project.
 > - **Fully Responsive:** Flawless performance across mobile, tablet, and desktop.
 > - **Theme Flexibility:** Built-in support for light and dark modes.

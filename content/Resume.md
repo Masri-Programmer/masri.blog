@@ -51,7 +51,7 @@ Senior-level Full Stack Developer with **5+ years of experience** specializing i
 
 ## **📥 Action Center**
 > [!success] [Download PDF Resume](http://resume.masri.blog/download)
-> [!tip] **Looking for a template?** 
+> [!tip] Looking for a template? 
 > Check out my 100% ATS-Friendly Digital Resume Template: [Demo](http://resume.masri.blog/) | [Source](https://github.com/Masri-Programmer/resume)
 
 #resume #viltstack #laravel #vuejs #fullstack

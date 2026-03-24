@@ -16,7 +16,7 @@ Welcome to my digital garden. Here, I document my journey through complex techni
 ## 🚀 Featured Tutorials
 *Insights and deep dives into modern development.*
 
-> [!abstract] **VILT Stack & AI**
+> [!abstract] VILT Stack & AI
 > - [[Blog/Coding/AI/Mastering AI Prompts for the VILT Stack|Mastering AI Prompts for the VILT Stack]]
 > - [[Blog/Coding/AI/AI Prompting|AI Prompting Techniques]]
 > - [[Blog/Coding/AI/Build your Second Brain AI assistant|Building an AI Second Brain]]
@@ -49,7 +49,7 @@ LIMIT 5
 ## 📚 Developer Knowledge Base
 *Curated bookmarks and foundational resources.*
 
-> [!info] **Browser Bookmarks**
+> [!info] Browser Bookmarks
 > %% DATAVIEW_PUBLISHER: start
 > ```dataview
 > LIST
@@ -70,7 +70,7 @@ LIMIT 5
 ---
 
 ## 📂 Explore Categories
-> [!tip] **Browse by Topic**
+> [!tip] Browse by Topic
 > - 💻 [[Blog/Coding/Backend/🖥️ Backend Resources|Backend Development]]
 > - 🎨 [[Blog/Coding/Frontend/Resources|Frontend Resources]]
 > - 🤖 [[Blog/Coding/AI/🤖 AI Resources|Artificial Intelligence]]
