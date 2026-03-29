@@ -1,409 +1,82 @@
-**FinTech**
-PaymentsPayment gateways, transactions, payment statuses.
-
-Recommended
-
-WalletUser wallets, balances, multi-currency support, top-up/withdrawal.
-
-Recommended
-
-Transactions HistoryTransaction logs, filters, statuses, exports, audit trail.
-
-Recommended
-
-Admin Dashboard & CMS (Back office)Admin panel and CMS: CRUD entities, content, roles, system settings, audit log.
-
-Recommended
-
-Product Catalog & InventoryCatalog/attributes/categories, leftovers/options.
-
-Recommended
-
-Orders & FulfillmentOrders, delivery, returns/refunds, statuses.
-
-Recommended
-
-Search & FiltersSearch, sorting, filters, facets.
-
-Recommended
-
-ShippingShipping methods, rates, zones, carriers, tracking, delivery options.
-
-Recommended
-
-3rd party integrationExternal APIs, webhooks, data sync, OAuth, integrations management.
-
-Recommended
-
-KYC/KYB & ComplianceIdentity verification, document upload, AML checks, regulatory compliance.
-
-Risk & Fraud DetectionFraud rules, anomaly detection, scoring, alerts, blocking actions.
-
-Promotions & DiscountsCoupons/discounts/vouchers, pricing rules, loyalty.
-
-Organizations & Multi-TenancyWorkspace/tenant, data isolation at the organizational level.
-**Education**
-Content Feed/TimelineContent/activity feed, likes/comments.
-
-Recommended
-
-Quiz / VotingTests, polls/votes, counting/results.
-
-Recommended
-
-Video Conferencing / Live StreamVideo calls/webinars/streams, recordings (optional).
-
-Recommended
-
-Admin Dashboard & CMS (Back office)Admin panel and CMS: CRUD entities, content, roles, system settings, audit log.
-
-Recommended
-
-Product Catalog & InventoryCatalog/attributes/categories, leftovers/options.
-
-Recommended
-
-Orders & FulfillmentOrders, delivery, returns/refunds, statuses.
-
-Recommended
-
-PaymentsPayment gateways, transactions, payment statuses.
-
-Recommended
-
-Search & FiltersSearch, sorting, filters, facets.
-
-Recommended
-
-ShippingShipping methods, rates, zones, carriers, tracking, delivery options.
-
-Recommended
-
-3rd party integrationExternal APIs, webhooks, data sync, OAuth, integrations management.
-
-Recommended
-
-Booking & SchedulingCalendars, notes, time slots, availability.
-
-Promotions & DiscountsCoupons/discounts/vouchers, pricing rules, loyalty.
-
-Organizations & Multi-TenancyWorkspace/tenant, data isolation at the organizational level.
-**Logistic**
-Logistics: Fleet & TrackingShipment routes/tracking, drivers/transportation, last mile.
-
-Recommended
-
-Maps & GeolocationMaps, geocoding, routes, addresses.
-
-Recommended
-
-Route OptimizationOptimal route calculation, constraints, cost/time optimization.
-
-Recommended
-
-Delivery ETAEstimated delivery time, real-time updates, delay predictions.
-
-Recommended
-
-Admin Dashboard & CMS (Back office)Admin panel and CMS: CRUD entities, content, roles, system settings, audit log.
-
-Recommended
-
-Product Catalog & InventoryCatalog/attributes/categories, leftovers/options.
-
-Recommended
-
-Orders & FulfillmentOrders, delivery, returns/refunds, statuses.
-
-Recommended
-
-PaymentsPayment gateways, transactions, payment statuses.
-
-Recommended
-
-Search & FiltersSearch, sorting, filters, facets.
-
-Recommended
-
-ShippingShipping methods, rates, zones, carriers, tracking, delivery options.
-
-Recommended
-
-3rd party integrationExternal APIs, webhooks, data sync, OAuth, integrations management.
-
-Recommended
-
-Driver ManagementDriver profiles, schedules, performance, availability, assignments.
-
-Promotions & DiscountsCoupons/discounts/vouchers, pricing rules, loyalty.
-
-Organizations & Multi-TenancyWorkspace/tenant, data isolation at the organizational level.
-**HR / Recruitment**
-Applicant Tracking System (ATS)Job postings, candidate pipeline, interviews, hiring stages.
-
-Recommended
-
-Resume ParserCV parsing, skill extraction, candidate profiling, ranking.
-
-Recommended
-
-Admin Dashboard & CMS (Back office)Admin panel and CMS: CRUD entities, content, roles, system settings, audit log.
-
-Recommended
-
-Product Catalog & InventoryCatalog/attributes/categories, leftovers/options.
-
-Recommended
-
-Orders & FulfillmentOrders, delivery, returns/refunds, statuses.
-
-Recommended
-
-PaymentsPayment gateways, transactions, payment statuses.
-
-Recommended
-
-Search & FiltersSearch, sorting, filters, facets.
-
-Recommended
-
-ShippingShipping methods, rates, zones, carriers, tracking, delivery options.
-
-Recommended
-
-3rd party integrationExternal APIs, webhooks, data sync, OAuth, integrations management.
-
-Recommended
-
-Booking & SchedulingCalendars, notes, time slots, availability.
-
-Employee OnboardingNew hire workflows, documents, tasks, access provisioning.
-
-Promotions & DiscountsCoupons/discounts/vouchers, pricing rules, loyalty.
-
-Organizations & Multi-TenancyWorkspace/tenant, data isolation at the organizational level.
-**Marketing**
-Subscriptions & BillingPlans, subscriptions, invoices, billing cycles.
-
-Recommended
-
-Campaign ManagementCampaign creation, channels, targeting, performance tracking.
-
-Recommended
-
-Admin Dashboard & CMS (Back office)Admin panel and CMS: CRUD entities, content, roles, system settings, audit log.
-
-Recommended
-
-Product Catalog & InventoryCatalog/attributes/categories, leftovers/options.
-
-Recommended
-
-Orders & FulfillmentOrders, delivery, returns/refunds, statuses.
-
-Recommended
-
-PaymentsPayment gateways, transactions, payment statuses.
-
-Recommended
-
-Search & FiltersSearch, sorting, filters, facets.
-
-Recommended
-
-ShippingShipping methods, rates, zones, carriers, tracking, delivery options.
-
-Recommended
-
-3rd party integrationExternal APIs, webhooks, data sync, OAuth, integrations management.
-
-Recommended
-
-Lead ScoringLead evaluation, scoring rules, segmentation, CRM sync.
-
-Promotions & DiscountsCoupons/discounts/vouchers, pricing rules, loyalty.
-
-Organizations & Multi-TenancyWorkspace/tenant, data isolation at the organizational level.
-**Real Estate**
-Property ListingProperty listings, filters, media, availability, pricing.
-
-Recommended
-
-Property ComparisonSide-by-side comparison, key parameters, pricing, features.
-
-Recommended
-
-Property SearchProperty search and search results.
-
-Recommended
-
-Admin Dashboard & CMS (Back office)Admin panel and CMS: CRUD entities, content, roles, system settings, audit log.
-
-Recommended
-
-Product Catalog & InventoryCatalog/attributes/categories, leftovers/options.
-
-Recommended
-
-Orders & FulfillmentOrders, delivery, returns/refunds, statuses.
-
-Recommended
-
-PaymentsPayment gateways, transactions, payment statuses.
-
-Recommended
-
-Search & FiltersSearch, sorting, filters, facets.
-
-Recommended
-
-ShippingShipping methods, rates, zones, carriers, tracking, delivery options.
-
-Recommended
-
-3rd party integrationExternal APIs, webhooks, data sync, OAuth, integrations management.
-
-Recommended
-
-Virtual Tours3D/VR tours, interactive views, media hosting.
-
-Mortgage CalculatorLoan calculations, rates, schedules, affordability estimates.
-
-Promotions & DiscountsCoupons/discounts/vouchers, pricing rules, loyalty.
-
-Organizations & Multi-TenancyWorkspace/tenant, data isolation at the organizational level.
-**Healthcare**
-Patient Portal & EHR IntegrationPatient profiles, records access, EHR sync.
-
-Recommended
-
-Booking & SchedulingCalendars, notes, time slots, availability.
-
-Recommended
-
-TelemedicineVideo consultations, scheduling, chat.
-
-Recommended
-
-Admin Dashboard & CMS (Back office)Admin panel and CMS: CRUD entities, content, roles, system settings, audit log.
-
-Recommended
-
-Product Catalog & InventoryCatalog/attributes/categories, leftovers/options.
-
-Recommended
-
-Orders & FulfillmentOrders, delivery, returns/refunds, statuses.
-
-Recommended
-
-PaymentsPayment gateways, transactions, payment statuses.
-
-Recommended
-
-Search & FiltersSearch, sorting, filters, facets.
-
-Recommended
-
-ShippingShipping methods, rates, zones, carriers, tracking, delivery options.
-
-Recommended
-
-3rd party integrationExternal APIs, webhooks, data sync, OAuth, integrations management.
-
-Recommended
-
-Prescription ManagementE-prescriptions, renewals, medication tracking.
-
-Lab Results IntegrationLab data import, results display, notifications.
-
-Promotions & DiscountsCoupons/discounts/vouchers, pricing rules, loyalty.
-
-Organizations & Multi-TenancyWorkspace/tenant, data isolation at the organizational level.
-**Travel/Hospitality**
-Maps & GeolocationMaps, geocoding, routes, addresses.
-
-Recommended
-
-Booking & SchedulingCalendars, notes, time slots, availability.
-
-Recommended
-
-Admin Dashboard & CMS (Back office)Admin panel and CMS: CRUD entities, content, roles, system settings, audit log.
-
-Recommended
-
-Product Catalog & InventoryCatalog/attributes/categories, leftovers/options.
-
-Recommended
-
-Orders & FulfillmentOrders, delivery, returns/refunds, statuses.
-
-Recommended
-
-PaymentsPayment gateways, transactions, payment statuses.
-
-Recommended
-
-Search & FiltersSearch, sorting, filters, facets.
-
-Recommended
-
-ShippingShipping methods, rates, zones, carriers, tracking, delivery options.
-
-Recommended
-
-3rd party integrationExternal APIs, webhooks, data sync, OAuth, integrations management.
-
-Recommended
-
-Content Feed/TimelineContent/activity feed, likes/comments.
-
-Promotions & DiscountsCoupons/discounts/vouchers, pricing rules, loyalty.
-
-Organizations & Multi-TenancyWorkspace/tenant, data isolation at the organizational level.
-**Other**
-
-Admin Dashboard & CMS (Back office)Admin panel and CMS: CRUD entities, content, roles, system settings, audit log.
-
-Recommended
-
-Product Catalog & InventoryCatalog/attributes/categories, leftovers/options.
-
-Recommended
-
-Orders & FulfillmentOrders, delivery, returns/refunds, statuses.
-
-Recommended
-
-PaymentsPayment gateways, transactions, payment statuses.
-
-Recommended
-
-Search & FiltersSearch, sorting, filters, facets.
-
-Recommended
-
-ShippingShipping methods, rates, zones, carriers, tracking, delivery options.
-
-Recommended
-
-3rd party integrationExternal APIs, webhooks, data sync, OAuth, integrations management.
-
-Recommended
-
-User Management & AuthRegistration, login, SSO, 2FA, password recovery, account management.
-
-User Profile & SettingsUser profile, personal settings, language/time zone, notification preferences.
-
-Notifications SystemEmail/SMS/Push/Alerts with templates, schedule, notification log.
-
-Analytics, Dashboards & ReportingEvents/tracks, KPI dashboards, basic reports/exports.
-
-Reviews & RatingsReviews/evaluations, moderation, aggregation.
-
-Organizations & Multi-TenancyWorkspace/tenant, data isolation at the organizational level.
-
-ChatBot BuilderChatbot/flow, intent/response builder.
-
-Promotions & DiscountsCoupons/discounts/vouchers, pricing rules, loyalty.
+# E-commerce Platform Modules
+
+A comprehensive list of modules for online stores, B2B/B2C platforms, and commerce-driven applications, categorized by industry focus.
+
+---
+
+## 🏗️ Core Commerce Modules
+*These modules form the backbone of any e-commerce or retail application.*
+
+- **Product Catalog & Inventory:** Multi-level categories, attributes, variations, and real-time stock tracking. `Recommended`
+- **Orders & Fulfillment:** Order lifecycle management, delivery tracking, returns, and refunds. `Recommended`
+- **Shipping Management:** Methods, zones, carrier integration (UPS, DHL, etc.), and real-time tracking. `Recommended`
+- **Payments:** Secure payment gateways, transactions, multi-currency support, and status tracking. `Recommended`
+- **Search & Filters:** Faceted search, filtering by attributes, and smart discovery. `Recommended`
+- **Promotions & Discounts:** Coupons, vouchers, loyalty programs, and automated pricing rules. `Recommended`
+- **Admin Dashboard (CMS):** Back-office control for products, orders, customers, and system settings. `Recommended`
+- **3rd Party Integration:** Logistics, CRM, and ERP API synchronization. `Recommended`
+
+---
+
+## 🏢 Industry Specific Add-ons
+
+### **FinTech**
+- **Wallet:** User wallets, top-up/withdrawal, and digital balance management. `Recommended`
+- **Transactions History:** Full audit trails, logs, filters, and financial exports. `Recommended`
+- **KYC/KYB & Compliance:** Identity verification and AML checks for B2B/high-value commerce.
+- **Risk & Fraud Detection:** Fraud scoring, anomaly detection, and automated blocking.
+
+### **Education**
+- **Content Feed/Timeline:** Educational activity feeds, updates, and interactions. `Recommended`
+- **Quiz / Voting:** Knowledge checks, polls, and results tracking for courses. `Recommended`
+- **Video Conferencing:** Live sessions, webinars, and lesson recordings. `Recommended`
+- **Booking & Scheduling:** Lesson scheduling and tutor availability calendars.
+
+### **Logistics**
+- **Fleet & Tracking:** Driver transportation, shipment routes, and last-mile tracking. `Recommended`
+- **Maps & Geolocation:** Geocoding, address validation, and interactive routing. `Recommended`
+- **Route Optimization:** Cost/time optimization and delivery constraint management. `Recommended`
+- **Delivery ETA:** Real-time update predictions and delay alerts. `Recommended`
+- **Driver Management:** Performance metrics, schedules, and assignments.
+
+### **HR / Recruitment**
+- **Applicant Tracking System (ATS):** Candidate pipeline and hiring stages. `Recommended`
+- **Resume Parser:** AI skill extraction and candidate ranking. `Recommended`
+- **Booking & Scheduling:** Interview management and interview calendars.
+
+### **Marketing**
+- **Subscriptions & Billing:** Recurring billing cycles, plans, and invoices. `Recommended`
+- **Campaign Management:** Multichannel marketing creation and performance tracking. `Recommended`
+- **Lead Scoring:** Evaluation rules, segmentation, and CRM sync.
+
+### **Real Estate**
+- **Property Listing:** Property filters, media hosting, and availability management. `Recommended`
+- **Property Comparison:** Side-by-side analysis of key property parameters. `Recommended`
+- **Property Search:** Advanced real estate facets and discovery results. `Recommended`
+- **Virtual Tours:** 3D/VR interactive views and media hosting.
+- **Mortgage Calculator:** Loan rates and affordability estimates.
+
+### **Healthcare**
+- **Patient Portal & EHR:** Secure record access and medical record synchronization. `Recommended`
+- **Telemedicine:** Video consultations and integrated healthcare chat. `Recommended`
+- **Booking & Scheduling:** Appointment slots and patient calendars. `Recommended`
+- **Prescription Management:** E-prescriptions and medication tracking.
+- **Lab Results:** Data import and results notifications.
+
+### **Travel & Hospitality**
+- **Maps & Geolocation:** Destination mapping and route planning. `Recommended`
+- **Booking & Scheduling:** Reservation management and availability calendars. `Recommended`
+- **Content Feed:** Social activity and destination updates. `Recommended`
+
+---
+
+## ⚙️ General Platform Modules
+*Standard modules included in most enterprise applications.*
+
+- **User Management & Auth:** SSO, 2FA, and secure account management.
+- **User Profile & Settings:** Personalization, localization, and preferences.
+- **Notifications System:** Multi-channel alerts (Email, SMS, Push).
+- **Organizations & Multi-Tenancy:** Workspace isolation and organizational data management.
+- **Analytics & Reporting:** Sales tracking, KPI dashboards, and data exports.
+- **Reviews & Ratings:** User evaluations, moderation, and aggregate scoring.
+- **ChatBot Builder:** Basic AI/flow builder for automated customer support.
