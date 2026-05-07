@@ -42,6 +42,7 @@ export const defaultContentPageLayout: PageLayout = {
           grow: true,
         },
         { Component: Component.Darkmode() },
+        { Component: Component.ReaderMode() },
       ],
     }),
     Component.RecentNotes({ showTags: false, filter: (f) => f.slug?.startsWith("Blog") ?? false }),
