@@ -1,5 +1,6 @@
 import type { Element as HastElement } from "hast"
-import { clone } from "./clone"
+import { clone } from './clone'
+import Slugger from 'github-slugger'
 
 // this file must be isomorphic so it can't use node libs (e.g. path)
 
@@ -177,7 +178,7 @@ export function splitAnchor(link: string): [string, string] {
   if (fp.endsWith(".pdf")) {
     return [fp, anchor === undefined ? "" : `#${anchor}`]
   }
-  anchor = anchor === undefined ? "" : "#" + slugAnchor(anchor)
+  const slugger = new Slugger(); anchor = anchor === undefined ? '' : '#' + slugger.slug(anchor)
   return [fp, anchor]
 }
 
