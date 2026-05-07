@@ -1,7 +1,13 @@
 ---
-title: "Masri.blog | Full Stack Developer & Digital Strategist"
-description: "Professional portfolio and blog of Mohamad Masri. Expertise in VILT stack, software architecture, and digital automation solutions."
-tags: [web-development, portfolio, software-engineering, blog, ai, developer-resources]
+title: Masri.blog | Full Stack Developer & Digital Strategist
+description: Professional portfolio and blog of Mohamad Masri. Expertise in VILT stack, software architecture, and digital automation solutions.
+tags:
+  - web-development
+  - portfolio
+  - software-engineering
+  - blog
+  - ai
+  - developer-resources
 created: 2025-03-20
 updated: 2026-03-01
 author: Mohamad Masri

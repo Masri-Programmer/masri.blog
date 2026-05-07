@@ -5,7 +5,6 @@ tags: [marketplace, fintech, social-impact, stripe-connect, laravel, vuejs]
 category: Platform Development
 status: live
 ---
-
 # 🏔️ Ranalp: Empowering Collective Vision
 
 ![Community Marketplace](https://images.unsplash.com/photo-1556742044-3c52d6e88c62?q=80&w=2070&auto=format&fit=crop)
