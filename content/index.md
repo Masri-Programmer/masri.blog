@@ -47,6 +47,13 @@ I provide tailored digital solutions ranging from custom software architecture t
 
 ---
 
+> [!star] Featured Posts
+> - [[Apocalypse List|🧟 Apocalypse Survival List]]
+> - [[Blog/Coding/AI/LunkedIn prompt|LinkedIn Profile Optimization Prompt]]
+> - [[Blog/Coding/AI/AI Prompting|AI Prompting Strategies]]
+
+---
+
 ## ✍️ Latest Insights & Tutorials
 *My journey through code, architecture, and performance.*
 

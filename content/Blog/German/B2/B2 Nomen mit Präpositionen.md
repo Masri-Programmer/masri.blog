@@ -13,6 +13,25 @@ status: Review
 > [!info] Grammatik-Tipp
 > Nomen-Präposition-Verbindungen sind ein zentraler Bestandteil des B2-Niveaus. Achten Sie besonders auf den richtigen Kasus (Akkusativ oder Dativ).
 
+## Table of Contents
+
+- [🟢 Präposition: **als**](#präposition-als)
+- [🔵 Präposition: **an**](#präposition-an)
+- [🟡 Präposition: **auf**](#präposition-auf)
+- [🟠 Präposition: **aus**](#präposition-aus)
+- [🟣 Präposition: **bei**](#präposition-bei)
+- [🏮 Präposition: **für**](#präposition-für)
+- [🚫 Präposition: **gegen**](#präposition-gegen)
+- [📥 Präposition: **in**](#präposition-in)
+- [🤝 Präposition: **mit**](#präposition-mit)
+- [👃 Präposition: **nach**](#präposition-nach)
+- [☁️ Präposition: **über**](#präposition-über)
+- [🔄 Präposition: **um**](#präposition-um)
+- [🔻 Präposition: **unter**](#präposition-unter)
+- [📤 Präposition: **von**](#präposition-von)
+- [🛡️ Präposition: **vor**](#präposition-vor)
+- [🎯 Präposition: **zu**](#präposition-zu)
+
 ---
 
 ## 🟢 Präposition: **als**
