@@ -9,7 +9,7 @@ status: live
 
 ![Community Marketplace](https://images.unsplash.com/photo-1556742044-3c52d6e88c62?q=80&w=2070&auto=format&fit=crop)
 
-Ranalp is a visionary digital marketplace designed to bridge the gap between ideas and impact. Whether it's a personal milestone, a creative startup, or a large-scale social initiative, Ranalp provides the specialized tools to turn collective effort into tangible results.
+[Ranalp](https://ranalp.com) is a visionary digital marketplace designed to bridge the gap between ideas and impact. Whether it's a personal milestone, a creative startup, or a large-scale social initiative, Ranalp provides the specialized tools to turn collective effort into tangible results.
 
 ---
 

@@ -10,7 +10,7 @@ status: internal-audit
 
 ![Fashion E-commerce](https://images.unsplash.com/photo-1441986300917-64674bd600d8?q=80&w=2070&auto=format&fit=crop)
 
-Piepjack Clothing is an emerging German fashion brand requiring a digital flagship that balances sleek, modern aesthetics with rigorous performance and data privacy standards. This project serves as a strategic deviation from common SaaS solutions, opting for a custom-engineered "Modern Monolith."
+[Piepjack Clothing](https://piepjack-clothing.de) is an emerging German fashion brand requiring a digital flagship that balances sleek, modern aesthetics with rigorous performance and data privacy standards. This project serves as a strategic deviation from common SaaS solutions, opting for a custom-engineered "Modern Monolith."
 
 ---
 
