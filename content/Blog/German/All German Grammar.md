@@ -11,6 +11,32 @@ This note serves as the central hub for German grammar study. It is organized by
 - 🟢 **Internal Links**: [[Links like this]] point to notes already in the vault.
 - 🔵 **External Links**: (External links) point to DeutschAkademie for supplementary study.
 
+## 🗺️ Proficiency Roadmap (CEFR)
+
+### 🟢 Niveau A1 (Anfänger)
+*Basic communication and immediate needs.*
+- **Core Notes**: [[Artikel von Nomen]], [[Dativ verben]], [[Ordinalzahlen & Temporal]]
+- **Milestones**: Präsens, Modalverben, Nominativ/Akkusativ, Trennbare Verben.
+
+### 🟡 Niveau A2 (Grundlagen)
+*Routine tasks and detailed descriptions.*
+- **Core Notes**: [[A2 Gramatik]], [[A2 Gramatik 1]], [[A2 Verben]], [[A2 Vocab]], [[A2 Wortschatz]]
+- **Milestones**: Perfekt, Präteritum (haben/sein), Reflexive Verben, Dativ, Adjektivdeklination.
+
+### 🟠 Niveau B1 (Mittelstufe)
+*Opinions, dreams, and complex travel situations.*
+- **Core Notes**: [[Sprechen]], [[Wortschatz]]
+- **Milestones**: Plusquamperfekt, Passiv (Präsens), Futur 1, Konjunktiv 2, Genitiv.
+
+### 🔴 Niveau B2 (Gute Mittelstufe)
+*Complex texts and spontaneous interaction.*
+- **Core Notes**: [[B2 Nomen mit Präpositionen]], [[B2 Redemittel]], [[B2 Verben, Adjektive und Präpositionen]], [[B2 Wortchatz]], [[Notizen]]
+- **Milestones**: Futur 2, Konjunktiv 2 (Vergangenheit), Nominalisierung, Partizipien als Adjektive.
+
+### 🟣 Niveau C1 (Fortgeschritten)
+*Academic language and stylistic nuances.*
+- **Milestones**: Konjunktiv 1, Gerundiv, Verbalstil vs. Nominalstil.
+
 ## Vier Fälle
 
 ## Adjektive
@@ -125,186 +151,3 @@ ok
 - [Verben mit Dativ](https://www.deutschakademie.de/online-deutschkurs/deutsche-grammatik/wortarten/verben/mit-dativ/)
 - [Verben mit Dativ und Akkusativ](https://www.deutschakademie.de/online-deutschkurs/deutsche-grammatik/wortarten/verben/mit-dativ-akkusativ/)
 - [Verben mit Präpositionen](https://www.deutschakademie.de/online-deutschkurs/deutsche-grammatik/wortarten/verben/mit-praepositionen/)
-## Niveau A1 (Anfänger)
-
-Auf diesem Niveau geht es um die grundlegenden Bausteine der Sprache, einfache Handlungen und Zustände.
-
-**Verben & Zeiten**
-
-- Deutsche Zeitformen: Präsens
-    
-- Sein und haben im Präsens
-    
-- Regelmäßige und unregelmäßige Verben (inkl. Verben mit Vokalwechsel)
-    
-- Trennbare Verben
-    
-- Verben mit Akkusativ
-    
-- Modus: Imperativ
-    
-- Infinitiv (Grundform)
-    
-- Spezifische Verben: kommen, sprechen, fliegen (Grundbedeutungen)
-    
-
-**Modalverben**
-
-- dürfen, können, möchten/mögen, müssen, sollen, wollen (im Präsens)
-    
-
-## Niveau A2 (Grundlagen)
-
-Hier werden Beschreibungen detaillierter, die Vergangenheit wird eingeführt und Sätze werden durch erste Nebensätze verknüpft.
-
-**Verben & Zeiten**
-
-- Deutsche Zeitformen: Perfekt
-    
-- Deutsche Zeitformen: Präteritum (Einführung, regelmäßige Verben)
-    
-- Präteritum von haben und sein
-    
-- Modalverben im Präteritum
-    
-- Reflexive Verben
-    
-- Verben mit Dativ
-    
-- Verben mit Dativ und Akkusativ
-    
-- Spezifische Verben: werden, lassen, hängen
-    
-
-**Adjektive**
-
-- Adjektivdeklination mit bestimmtem Artikel
-    
-- Adjektivdeklination mit unbestimmtem Artikel
-    
-- Adjektivdeklination ohne Artikel
-    
-- Komparation: Adjektive im Komparativ und Superlativ
-    
-- Komparation mit wie und als
-    
-- Unregelmäßige Adjektive
-    
-
-**Konjunktionen (Satzverbindungen)**
-
-- Konjunktion dass
-    
-- Kausale Konjunktion weil
-    
-- Kausaler Konnektor denn
-    
-- Temporale Konjunktion wenn
-    
-
-## Niveau B1 (Mittelstufe)
-
-Auf dieser Stufe werden komplexe Zusammenhänge, Wünsche, irreale Bedingungen und das Passiv erlernt.
-
-**Verben, Zeiten & Modi**
-
-- Deutsche Zeitformen: Plusquamperfekt
-    
-- Deutsche Zeitformen: Futur 1
-    
-- Perfekt mit Modalverben
-    
-- Verb brauchen (häufig in Kombination mit "nur zu")
-    
-- Verben mit Präpositionen
-    
-- Reflexive Verben mit Präpositionen
-    
-- Modus: Konjunktiv 2 der Gegenwart (Hätte, wäre, würde)
-    
-
-**Passiv**
-
-- Vorgangspassiv
-    
-- Passiv Präsens, Passiv Präteritum, Passiv Perfekt
-    
-- Passiv mit Modalverben
-    
-- Zustandspassiv
-    
-
-**Adjektive & Partikel**
-
-- Adjektivdeklination im Genitiv
-    
-- Adjektivdeklination mit Komparativ und Superlativ
-    
-- Negative Adjektive
-    
-- Nominalisierte Adjektive
-    
-- Modalpartikel (Einführung)
-    
-
-**Konjunktionen**
-
-- Kausale Konjunktion da
-    
-- Finale Konjunktion damit
-    
-- Konzessive Konjunktion obwohl
-    
-- Temporale Konjunktionen: als, bevor, bis, nachdem, seit, während
-    
-- Konditionale Konjunktion falls
-    
-- Konsekutive Konjunktion sodass
-    
-
-## Niveau B2 (Gute Mittelstufe)
-
-Hier wird die Sprache abstrakter und nuancierter. Partizipien werden oft als Adjektive genutzt und das Passiv erhält Alternativen.
-
-**Verben, Zeiten & Modi**
-
-- Deutsche Zeitformen: Futur 2
-    
-- Konjunktiv 2 der Vergangenheit
-    
-- Subjektive Bedeutung von Modalverben
-    
-- Nomen-Verb-Verbindungen
-    
-- Partizip 1 (als Adjektiv)
-    
-- Partizip 2 (als Adjektiv)
-    
-- Passiv Ersatzformen (z.B. sich lassen + Infinitiv, -bar, -lich)
-    
-
-**Adjektive & Konjunktionen**
-
-- Graduierung von Adjektiven
-    
-- Modale Konjunktion indem
-    
-
-## Niveau C1 (Fortgeschritten)
-
-Auf diesem Niveau liegt der Fokus auf akademischer, hochgradig formeller Sprache und feinen stilistischen Nuancen (z. B. indirekte Rede in den Nachrichten).
-
-**Verben, Modi & Stil**
-
-- Modus: Konjunktiv 1
-    
-- Konjunktiv 1 der Vergangenheit
-    
-- Gerundiv (zu + Partizip 1)
-    
-- Verbalstil (und die Umformung in den Nominalstil)
-    
-
-**Adjektive & Syntax**
-
-- Komma bei Adjektiven (in komplexen Aufzählungen und nachgestellten Attributen)
