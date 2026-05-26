@@ -157,3 +157,15 @@ ok
 - [Verben mit Dativ](https://www.deutschakademie.de/online-deutschkurs/deutsche-grammatik/wortarten/verben/mit-dativ/)
 - [Verben mit Dativ und Akkusativ](https://www.deutschakademie.de/online-deutschkurs/deutsche-grammatik/wortarten/verben/mit-dativ-akkusativ/)
 - [Verben mit Präpositionen](https://www.deutschakademie.de/online-deutschkurs/deutsche-grammatik/wortarten/verben/mit-praepositionen/)
+
+---
+## 🆕 Recently Updated Notes
+*Automatically tracks recent changes in your German grammar collection.*
+
+```dataview
+LIST
+FROM "Blog/German"
+WHERE file.name != this.file.name
+SORT file.mtime DESC
+LIMIT 5
+```
