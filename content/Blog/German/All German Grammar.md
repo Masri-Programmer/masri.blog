@@ -41,6 +41,8 @@ This note serves as the central hub for German grammar study. It is organized by
 
 ## Adjektive
 
+- **Internal Mastery**: [[B2 Verben, Adjektive und Präpositionen]]
+
 - [Adjektivdeklination](https://www.deutschakademie.de/online-deutschkurs/deutsche-grammatik/wortarten/adjektive/deklination/)
 	- [im Genitiv](https://www.deutschakademie.de/online-deutschkurs/deutsche-grammatik/wortarten/adjektive/deklination/mit-genitiv/)
 		- [mit bestimmtem Artikel](https://www.deutschakademie.de/online-deutschkurs/deutsche-grammatik/wortarten/adjektive/deklination/mit-bestimmtem-artikel/)
@@ -84,6 +86,8 @@ This note serves as the central hub for German grammar study. It is organized by
 
 ## Nomen
 
+- **Internal Mastery**: [[Artikel von Nomen]], [[B2 Nomen mit Präpositionen]]
+
 ## Partikel
 ok
 - [Modalpartikel](https://www.deutschakademie.de/online-deutschkurs/deutsche-grammatik/wortarten/partikel/modal/)
@@ -93,6 +97,8 @@ ok
 ## Pronomen
 
 ## Verben
+
+- **Internal Mastery**: [[A2 Verben]], [[Dativ verben]], [[B2 Verben, Adjektive und Präpositionen]]
 
 - [Deutsche Zeitformen](https://www.deutschakademie.de/online-deutschkurs/deutsche-grammatik/wortarten/verben/deutsche-zeitformen/)
 	- [Futur 1](https://www.deutschakademie.de/online-deutschkurs/deutsche-grammatik/wortarten/verben/deutsche-zeitformen/futur-1/)
