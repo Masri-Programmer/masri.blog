@@ -1,0 +1,2 @@
+
+I want to practice German B2 grammar, specifically two-way prepositions and adjective endings. Act as my conversation partner. Ask me one question at a time. I will answer in German. Before replying to my answer, you must strictly correct any grammatical mistakes I made, explain the rule briefly, and then continue the conversation
