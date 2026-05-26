@@ -89,7 +89,7 @@ This note serves as the central hub for German grammar study. It is organized by
 - **Internal Mastery**: [[Artikel von Nomen]], [[B2 Nomen mit Präpositionen]]
 
 ## Partikel
-ok
+
 - [Modalpartikel](https://www.deutschakademie.de/online-deutschkurs/deutsche-grammatik/wortarten/partikel/modal/)
 
 ## Präpositionen
