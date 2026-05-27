@@ -50,11 +50,6 @@ I provide tailored digital solutions ranging from custom software architecture t
 > [[Projects/Project Dashboard|🚀 Open Command Center]]
 > #management #dashboard
 
-> [!tip] Creativity & Flow
-> Rapidly capture thoughts and brainstorm without friction.
-> [[private/Idea Inbox|💡 Idea Inbox]] | [[private/Brain Dump|🧠 Brain Dump]]
-> #productivity #flow
-
 ---
 
 > [!star] Featured Posts
