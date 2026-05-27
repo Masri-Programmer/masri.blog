@@ -1,3 +1,11 @@
+---
+type: project
+status: 🟢 active
+priority: 🔥 high
+area: [[Services]]
+tags: [project, fashion, web3, 3d, webgl, react, laravel, inertia-js]
+---
+
 **👗 Maison Anthony: Next-Generation Digital Showroom Engineering**
 
 Maison Anthony requires a cutting-edge digital presence that bridges the gap between high-end physical fashion and immersive virtual environments. This project departs from traditional template-based e-commerce, utilizing a highly customized architecture to deliver an interactive 3D digital apparel showroom with robust performance and strict data control.

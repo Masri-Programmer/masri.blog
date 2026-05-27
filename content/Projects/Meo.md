@@ -1,4 +1,8 @@
 ---
+type: project
+status: 🟢 active
+priority: 🟡 medium
+area: [[Services]]
 tags: [project, ecommerce, web-to-print, laravel, vue, inertia-js, tailwind-css, marketing-automation]
 ---
 

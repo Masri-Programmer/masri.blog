@@ -45,6 +45,16 @@ I provide tailored digital solutions ranging from custom software architecture t
 > [Try the Tracker](https://tracker.masri.blog)
 > #productivity #tracking-tool
 
+> [!example] Project Command Center
+> Manage all active client projects, deadlines, and priorities in one place.
+> [[Projects/Project Dashboard|🚀 Open Command Center]]
+> #management #dashboard
+
+> [!tip] Creativity & Flow
+> Rapidly capture thoughts and brainstorm without friction.
+> [[private/Idea Inbox|💡 Idea Inbox]] | [[private/Brain Dump|🧠 Brain Dump]]
+> #productivity #flow
+
 ---
 
 > [!star] Featured Posts

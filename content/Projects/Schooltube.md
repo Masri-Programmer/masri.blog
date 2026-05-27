@@ -1,4 +1,8 @@
 ---
+type: project
+status: 🟢 active
+priority: 🟡 medium
+area: [[Services]]
 tags: [project, education, video-platform, k12, lms, curation]
 ---
 

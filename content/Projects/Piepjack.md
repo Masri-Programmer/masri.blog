@@ -1,9 +1,12 @@
 ---
+type: project
+status: 🟢 active
+priority: 🟡 medium
+area: [[Services]]
 title: "Piepjack Clothing: Bespoke E-Commerce Architecture"
 description: "A technical deep-dive into the development of a high-performance, GDPR-compliant fashion platform built with the VILT stack."
 tags: [e-commerce, laravel, vuejs, inertiajs, tailwindcss, gdpr]
 category: E-Commerce Development
-status: internal-audit
 ---
 
 # 👕 Piepjack Clothing: Modern Retail Engineering

@@ -1,5 +1,6 @@
 ---
 title: Projects
+type: MOC
 tags:
   - projects
   - UI
