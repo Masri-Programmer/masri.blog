@@ -14,7 +14,7 @@ type: dashboard
 
 ## 🔥 High Priority & Overdue
 > [!danger] Immediate Action Required
-> Projects that are either High Priority or have passed their due date.
+> Projects and tasks that are passed their due date.
 
 ```dataview
 TABLE 
@@ -27,6 +27,18 @@ WHERE type = "project"
     AND status != "✅ completed" 
     AND (priority = "🔥 high" OR due_date < date(today))
 SORT due_date ASC
+```
+
+---
+
+## 🔔 Reminders (Invoices & Meetings)
+> [!todo] Upcoming Tasks
+> All tasks with due dates tracked in your vault.
+
+```tasks
+not done
+due before in 2 weeks
+short mode
 ```
 
 ---
@@ -82,6 +94,7 @@ LIMIT 10
 
 ## 🛠️ Project Management Quick Links
 - [[private/Templates/Project|➕ New Project Template]]
+- [[private/Templates/Automation - Kimai Invoice Follow-up|🧾 Log Kimai Invoice]]
 - [[private/To Do Kanban|📋 Kanban Board]]
 - [[Portfolio|🌐 Public Portfolio]]
 
