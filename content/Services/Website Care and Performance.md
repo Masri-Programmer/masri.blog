@@ -2,6 +2,11 @@
 title: Website Care & Performance Package
 category: Web & Digital Presence
 tags: [maintenance, hosting, security]
+price: 99
+currency: EUR
+billing_period: monthly
+type: subscription
+description: "Basic website care subscription"
 ---
 
 # Website Care & Performance Package

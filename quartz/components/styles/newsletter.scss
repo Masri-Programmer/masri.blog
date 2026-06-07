@@ -1,0 +1,64 @@
+.newsletter-component {
+  margin: 2rem 0;
+  padding: 1.5rem;
+  background-color: var(--highlight);
+  border-radius: 8px;
+  border: 1px solid var(--lightgray);
+
+  h3 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-size: 1.2rem;
+    color: var(--dark);
+  }
+
+  .newsletter-desc {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 0.9rem;
+    color: var(--gray);
+  }
+
+  .newsletter-form {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+
+    .newsletter-input {
+      padding: 0.75rem 1rem;
+      border: 1px solid var(--lightgray);
+      border-radius: 4px;
+      font-family: var(--fontOrigin);
+      font-size: 1rem;
+      background-color: var(--light);
+      color: var(--dark);
+      transition: border-color 0.2s ease;
+
+      &:focus {
+        outline: none;
+        border-color: var(--tertiary);
+      }
+    }
+
+    .newsletter-submit {
+      padding: 0.75rem 1rem;
+      background-color: var(--secondary);
+      color: var(--light);
+      border: none;
+      border-radius: 4px;
+      font-family: var(--fontOrigin);
+      font-size: 1rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: background-color 0.2s ease, transform 0.1s ease;
+
+      &:hover {
+        background-color: var(--tertiary);
+      }
+      
+      &:active {
+        transform: scale(0.98);
+      }
+    }
+  }
+}

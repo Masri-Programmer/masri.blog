@@ -2,6 +2,17 @@
 title: Custom Software
 category: Software Development
 tags: [custom-software, development, apps]
+prices:
+  - value: 1500
+    currency: EUR
+    billing_period: one-time
+    type: one-time
+    description: "Starter Development Plan"
+  - value: 4500
+    currency: EUR
+    billing_period: monthly
+    type: subscription
+    description: "Dedicated developer monthly retainer"
 ---
 
 # Custom Software (Built Just For You)

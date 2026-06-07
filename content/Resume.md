@@ -7,7 +7,6 @@ author: Mohamad Masri
 created: 2025-03-26
 updated: 2026-03-01
 ---
-
 # **Mohamad Masri**
 
 > **Full Stack Developer | VILT Stack Specialist | UI/UX Designer**

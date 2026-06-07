@@ -49,3 +49,5 @@ The interface leverages headless components from `@radix-ui/react-*` (including 
 
 By engineering a custom Laravel and React architecture, Maison Anthony retains complete ownership over its platform logic and 3D assets, avoiding the strict limitations of traditional SaaS storefronts. The application's Node services are managed and kept alive using PM2 rather than Supervisor, ensuring high availability for the frontend asset servers and providing a scalable foundation for future digital apparel expansions.
 
+
+![[by.maisonanthony.com_.png]]

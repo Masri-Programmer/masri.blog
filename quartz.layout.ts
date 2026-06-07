@@ -52,6 +52,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
+    Component.Newsletter(),
   ],
 }
 
@@ -79,6 +80,7 @@ export const defaultListPageLayout: PageLayout = {
       title: "Recent Blog Posts",
       filter: (f) => f.slug?.startsWith("Blog") ?? false,
     }),
+    Component.Newsletter(),
   ],
 }
 
