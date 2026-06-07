@@ -30,6 +30,7 @@ export default ((userOpts?: Partial<Options>) => {
         >
           <input type="hidden" name="nonce" />
           <input type="hidden" name="l" value={opts.listUuid} />
+          <input type="hidden" name="attribs.source" value="masri.blog" />
           
           <input 
             type="email" 
