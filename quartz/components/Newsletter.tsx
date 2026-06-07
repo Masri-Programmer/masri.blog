@@ -23,7 +23,7 @@ export default ((userOpts?: Partial<Options>) => {
         <h3>{opts.title}</h3>
         <p class="newsletter-desc">Get the latest articles directly in your inbox.</p>
 
-        <form class="newsletter-form" data-url={opts.subscribeUrl}>
+        <form class="newsletter-form" method="post" data-url={opts.subscribeUrl}>
           <input
             type="email"
             name="email"

@@ -2,13 +2,18 @@ document.addEventListener("nav", () => {
   const forms = document.querySelectorAll(".newsletter-form") as NodeListOf<HTMLFormElement>
 
   forms.forEach((form) => {
-    const messageDiv = form.parentElement?.querySelector(".newsletter-message") as HTMLDivElement
-    const input = form.querySelector(".newsletter-input") as HTMLInputElement
-    const submitBtn = form.querySelector(".newsletter-submit") as HTMLButtonElement
+    const messageDiv = form.parentElement?.querySelector(".newsletter-message") as HTMLDivElement | null
+    const input = form.querySelector(".newsletter-input") as HTMLInputElement | null
+    const submitBtn = form.querySelector(".newsletter-submit") as HTMLButtonElement | null
+
+    // Guard: if critical elements are missing, skip binding
+    if (!input || !submitBtn) return
+
     const targetUrl = form.getAttribute("data-url") || "https://masri-programmer.de/newsletter/subscribe"
 
     const handleSubmit = async (e: Event) => {
       e.preventDefault()
+      e.stopPropagation()
       const email = input.value.trim()
 
       if (!email) {
