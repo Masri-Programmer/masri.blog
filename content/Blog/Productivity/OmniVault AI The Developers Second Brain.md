@@ -21,13 +21,17 @@ date created: 2026-06-08T10:00:00
 
 ## OmniVault AI: The Developer's "Second Brain" and AI Command Center
 
+![[Screenshot 2026-06-04 164142.png]]
+
 In the fast-paced world of software engineering, information isn't just power—it's noise. To cut through that noise, I’ve developed **OmniVault AI**, a professional-grade Obsidian environment designed to bridge the gap between high-level knowledge management and cutting-edge AI orchestration.
 
-Whether you're managing complex VILT stack projects or building your personal knowledge base, OmniVault AI provides the structural integrity and AI-native workflows to scale your productivity.
+[omnivault.masri-programmer.de](https://omnivault.masri-programmer.de) is the central nerve center for my digital life. It is a highly customized, self-hosted environment designed to capture, organize, and synthesize information from diverse sources into a cohesive knowledge base.
 
 ---
 
 ### 🛠️ The Architecture: PARA on Steroids
+
+![[Screenshot 2026-06-04 210820.png]]
 
 At its core, OmniVault AI is built on a refined version of the **PARA Method**, optimized for technical depth and clarity:
 
@@ -54,6 +58,8 @@ OmniVault AI isn't just a place to store text; it’s an **AI Command Center**. 
 ---
 
 ### 📊 The "Bento Box" Dashboard
+
+![[Screenshot 2026-06-04 155649.png]]
 
 Information visibility is critical. OmniVault AI features a **Control Center** built with a "Brutalist Minimalist" design language.
 
