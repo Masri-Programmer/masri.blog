@@ -84,7 +84,7 @@ All these metrics automatically roll up into **Weekly and Monthly Reviews**, pro
 
 ### 🚀 The Future of Personal Knowledge
 
-OmniVault AI is more than a template—it’s a philosophy. It treats information as a dynamic asset that can be indexed, automated, and enhanced by artificial intelligence. 
+OmniVault AI is more than a static template—it’s a living, evolving philosophy. The system is **constantly updated** with new features, refined system prompts, and enhanced automation scripts to ensure it keeps pace with the rapidly advancing AI and productivity landscapes. 
 
 By centralizing my "Second Brain" in an environment that is both human-readable and AI-optimized, I can focus on what actually matters: **Creating and building.**
 
