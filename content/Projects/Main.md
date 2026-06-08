@@ -11,14 +11,17 @@ tags:
 ---
 
 * [Meo Media - Digital Services](Meo.md)
-* [Flyerheaven - Digital Services](Projects/Flyerheaven)
-* [Amazon Pages - Ads](Projects/Amazon)
-* [Hk Energieberatung](Projects/Hk-Energieberatung)
-* [Gameacademy - NGO Training & Blog](Projects/Gameacademy)
-* [Propackstore - Sales platform](Projects/Propackstore)
-* [Timesquare - E-commerce site](Projects/Timesquare)
-* [Medeva - Medical](Projects/Medeva) 
-* [Schooltube - E-Learning Platform](Projects/Schooltube)
+* [Flyerheaven - Digital Services](Flyerheaven.md)
+* [Amazon Pages - Ads](Amazon.md)
+* [Hk Energieberatung](Hk-Energieberatung.md)
+* [Gameacademy - NGO Training & Blog](Gameacademy.md)
+* [Propackstore - Sales platform](Propackstore.md)
+* [Timesquare - E-commerce site](Timesquare.md)
+* [Medeva - Medical](Medeva.md) 
+* [Schooltube - E-Learning Platform](Schooltube.md)
+* [Listmonk - Newsletter Manager](Listmonk.md)
+* [Omnivault - Digital Second Brain](Omnivault.md)
+* [Open Source Ecosystem - Business Infrastructure](Open Source - Kimai - Kuma - Filament.md)
 
 * [Others in Portfolio Website](https://masri-programmer.github.io/mohamad-masri/) :
 
