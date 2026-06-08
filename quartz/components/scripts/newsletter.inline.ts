@@ -46,12 +46,8 @@ document.addEventListener("nav", () => {
           if (messageDiv) {
             messageDiv.style.display = "block"
             messageDiv.classList.add("success")
-            if (data.message === "already_subscribed") {
-              messageDiv.textContent = "You are already subscribed to our newsletter!"
-            } else {
-              messageDiv.textContent = "Successfully subscribed! Welcome to the newsletter."
-              input.value = "" // clear input on success
-            }
+            messageDiv.textContent = "Successfully subscribed! Welcome to the newsletter."
+            input.value = "" // clear input on success
           }
         } else {
           throw new Error(
