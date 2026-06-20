@@ -108,9 +108,10 @@ LIMIT 5
 ## 🤝 Let's Connect
 > [!question] Have a project in mind?
 > Whether you're here to collaborate, learn, or simply browse — welcome aboard! 
+> - 🔗 **[Social & Contact Links Hub](https://links.masri-programmer.de/)** (WhatsApp, LinkedIn, Email, etc.)
 > - 📂 [[Portfolio|View Project Portfolio]]
 > - 📄 [[Resume|Full Resume]]
 > - 📅 [[Book a Meeting|Schedule a Call]]
-> - 📞 [[Blog/Personal/contact|Contact Me Directly]]
+> - 📞 [[Blog/Personal/contact|Contact Details & Location]]
 
 #webdev #laravel #vuejs #ai #automation #fullstack

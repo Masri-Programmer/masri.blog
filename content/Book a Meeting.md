@@ -35,10 +35,14 @@ Choose a time that works best for you. During this 30-minute session, we'll disc
 ## 📩 Other Ways to Connect
 If you prefer traditional messaging or want to connect on professional networks, use the channels below.
 
-> [!info] Direct Contact
+> [!info] Direct Contact & Social Links
+> **Links Hub:** **[links.masri-programmer.de](https://links.masri-programmer.de/)** (All social profiles & channels)
 > **Email:** [hallo@masri-programmer.de](mailto:hallo@masri-programmer.de)
 > 
 > <div align="center" style="margin-top: 15px;">
+>   <a href="https://links.masri-programmer.de/" target="_blank">
+>     <img src="https://img.shields.io/badge/Links_Hub-00C853?style=for-the-badge&logo=linktree&logoColor=white" />
+>   </a>
 >   <a href="mailto:hallo@masri-programmer.de">
 >     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 >   </a>

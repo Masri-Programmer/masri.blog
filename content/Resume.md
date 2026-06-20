@@ -10,7 +10,7 @@ updated: 2026-03-01
 # **Mohamad Masri**
 
 > **Full Stack Developer | VILT Stack Specialist | UI/UX Designer**
-> 📍 Oldenburg, Germany | 📧 [hallo@masri-programmer.de](mailto:hallo@masri-programmer.de)
+> 📍 Oldenburg, Germany | 📧 [hallo@masri-programmer.de](mailto:hallo@masri-programmer.de) | 🔗 [links.masri-programmer.de](https://links.masri-programmer.de/)
 
 ---
 
