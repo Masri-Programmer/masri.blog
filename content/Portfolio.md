@@ -2,7 +2,7 @@
 title: Portfolio | Mohamad Masri
 author: Mohamad Masri
 published: 2025-04-09
-updated: 2026-03-01
+updated: 2026-06-24
 tags: [portfolio, full-stack, vilt-stack, open-source]
 banner: "Assets/banners/banner-concept-board.jpg"
 banner_y: 0.5
@@ -22,20 +22,6 @@ banner_y: 0.5
 
 ---
 
-## ⚡ Professional Snapshot
-
-> [!abstract] Current Focus
-> 🔭 **Full-time Software Developer** specializing in high-performance web applications.
-> 🌱 Currently engineering several [[Projects/Main|Bespoke Projects]] and SaaS solutions.
-> ✨ Deep-diving into problem-solving and architectural design patterns.
-> 👯 Active contributor to the **Open Source Ecosystem**.
-
-> [!info] Strategic Goals & Interests
-> 🥅 **2027 Vision:** Scaling my digital service business to 3,000€+ monthly recurring revenue.
-> 🏊 **Beyond the Code:** Dedicated to health and fitness through Gym and Swimming.
-
----
-
 ## 🛠️ Technical Arsenal
 
 <div align="center">
@@ -45,6 +31,43 @@ banner_y: 0.5
   <br>
   <img src="https://skillicons.dev/icons?i=github,git,linux,windows,vscode,figma,postman,docker" />
 </div>
+
+---
+
+## 📂 Featured Projects
+
+Explore my active and completed software engineering projects, web applications, and open-source contributions.
+
+> [!info] Portfolio Showcases
+> These projects are tracked dynamically via the [[Projects/Project Dashboard|Project Command Center]].
+
+%% DATAVIEW_PUBLISHER: start
+```dataview
+TABLE 
+    category as Category,
+    description as Description,
+    status as Status
+FROM "Projects"
+WHERE type = "project"
+SORT status ASC, file.name ASC
+```
+%%
+
+- [[Projects/Masri Programmer|Masri Programmer]] — Flagship Portfolio & Agency Platform (Vue, Laravel, Inertia, Tailwind)
+- [[Projects/Flyerheaven|Flyerheaven]] — High-Performance B2B E-commerce Framework (Vue, Laravel, Shopware)
+- [[Projects/Hk-Energieberatung|HK Energieberatung]] — Certified Energy Consulting Portal (Vue, Laravel, Inertia, Tailwind)
+- [[Projects/Medeva|Medeva]] — Healthcare & Medical Service Platform
+- [[Projects/Timesquare|Timesquare]] — Bespoke Clothing E-commerce Site
+- [[Projects/Ranalp|Ranalp]] — Collaborative Marketplace Platform
+- [[Projects/Piepjack|Piepjack Clothing]] — E-commerce Architecture
+- [[Projects/Gameacademy|Gameacademy]] — NGO Training Platform & Blog
+- [[Projects/Propackstore|Propackstore]] — B2B Sales Platform
+- [[Projects/Schooltube|Schooltube]] — Interactive E-Learning Platform
+- [[Projects/Omnivault|Omnivault]] — Centralized Digital Second Brain
+- [[Projects/Listmonk|Listmonk]] — Self-Hosted Newsletter Management
+- [[Projects/Open Source - Kimai - Kuma - Filament|Open Source Ecosystem]] — Self-Hosted Business Infrastructure
+
+%% DATAVIEW_PUBLISHER: end %%
 
 ---
 
