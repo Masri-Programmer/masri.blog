@@ -18,7 +18,6 @@ banner_y: 0.5
 ---
 # 👋 Welcome to Masri.blog
 
-![[Assets/Img/Pasted image 20250325171638.webp]]
 
 I'm **Mohamad Masri** — a Full Stack Developer and VILT Stack Specialist dedicated to crafting clean, high-performance digital experiences. This platform is a curated intersection of my professional portfolio, deep-dive technical tutorials, and a growing knowledge base for the modern developer.
 

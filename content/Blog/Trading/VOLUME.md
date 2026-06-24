@@ -13,11 +13,7 @@ Volume can also signal a **reversal**. If a price is making new highs but the vo
 
 Finally, you can use indicators like **On-Balance Volume (OBV)** or the **Volume-Weighted Average Price (VWAP)** to get a clearer picture of the volume trend. In short, volume gives you insight into the conviction behind price moves. 
 
-![[IMAGES/Pasted image 20251003223852.jpg]]
 
-![[IMAGES/Pasted image 20251003223935.png]]
-
-![[IMAGES/Pasted image 20251003223721.png]]
 ### High Volume, High Price vs. High Volume, Low Price
 
 Here's the crucial difference:

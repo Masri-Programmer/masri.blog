@@ -1,6 +1,5 @@
 ON MEAN REVERTING STOCKS
 
-![[IMAGES/Pasted image 20251003224614.png]]![[IMAGES/Pasted image 20251003224633.jpg]]![[IMAGES/Pasted image 20251003224652.png]]
 
 Bollinger Bands are a volatility indicator with a middle moving average plus upper and lower bands.
 
@@ -17,10 +16,6 @@ The Relative Strength Index (RSI) is a momentum indicator that measures the spee
 It's mainly used to identify overbought (typically above 70) and oversold (below 30) conditions.
 
 Traders also watch for "divergence"—when the price trend and the RSI trend move in opposite directions—as a potential signal of a coming trend reversal.
-![[IMAGES/Pasted image 20251003224904.jpg]]
-
-![[IMAGES/Pasted image 20251003224833.png]]
-
 # ATR
 
 The **Average True Range (ATR)** is purely a **volatility indicator**. It tells you how much an asset's price is moving on average, but it **does not indicate the direction** of the trend.

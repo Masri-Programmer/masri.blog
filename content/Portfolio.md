@@ -53,19 +53,22 @@ SORT status ASC, file.name ASC
 ```
 %%
 
-- [[Projects/Masri Programmer|Masri Programmer]] — Flagship Portfolio & Agency Platform (Vue, Laravel, Inertia, Tailwind)
-- [[Projects/Flyerheaven|Flyerheaven]] — High-Performance B2B E-commerce Framework (Vue, Laravel, Shopware)
-- [[Projects/Hk-Energieberatung|HK Energieberatung]] — Certified Energy Consulting Portal (Vue, Laravel, Inertia, Tailwind)
-- [[Projects/Medeva|Medeva]] — Healthcare & Medical Service Platform
-- [[Projects/Timesquare|Timesquare]] — Bespoke Clothing E-commerce Site
-- [[Projects/Ranalp|Ranalp]] — Collaborative Marketplace Platform
-- [[Projects/Piepjack|Piepjack Clothing]] — E-commerce Architecture
-- [[Projects/Gameacademy|Gameacademy]] — NGO Training Platform & Blog
-- [[Projects/Propackstore|Propackstore]] — B2B Sales Platform
-- [[Projects/Schooltube|Schooltube]] — Interactive E-Learning Platform
-- [[Projects/Omnivault|Omnivault]] — Centralized Digital Second Brain
-- [[Projects/Listmonk|Listmonk]] — Self-Hosted Newsletter Management
-- [[Projects/Open Source - Kimai - Kuma - Filament|Open Source Ecosystem]] — Self-Hosted Business Infrastructure
+| File                                                                                         | Category                         | Description                                                                                                                                | Status    |
+| -------------------------------------------------------------------------------------------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | --------- |
+| [[Projects/Amazon.md\|Amazon]]                                                               | \-                               | \-                                                                                                                                         | 🟢 active |
+| [[Projects/Flyerheaven.md\|Flyerheaven]]                                                     | \-                               | \-                                                                                                                                         | 🟢 active |
+| [[Projects/Gameacademy.md\|Gameacademy]]                                                     | \-                               | \-                                                                                                                                         | 🟢 active |
+| [[Projects/Hk-Energieberatung.md\|Hk-Energieberatung]]                                       | Professional Services Web Design | A professional web presence for certified energy consultants in Bremen, focusing on efficiency, sustainability, and government subsidies.  | 🟢 active |
+| [[Projects/Listmonk.md\|Listmonk]]                                                           | Infrastructure                   | A high-performance, self-hosted newsletter and mailing list manager used for professional communication and community engagement.          | 🟢 active |
+| [[Projects/Maison Anthony.md\|Maison Anthony]]                                               | \-                               | \-                                                                                                                                         | 🟢 active |
+| [[Projects/Masri Programmer.md\|Masri Programmer]]                                           | Agency Portfolio                 | The flagship portfolio and agency platform of Mohamad Masri, showcasing expert web design, e-commerce, and bespoke software engineering.   | 🟢 active |
+| [[Projects/Medeva.md\|Medeva]]                                                               | \-                               | \-                                                                                                                                         | 🟢 active |
+| [[Projects/Meo.md\|Meo]]                                                                     | \-                               | \-                                                                                                                                         | 🟢 active |
+| [[Projects/Omnivault.md\|Omnivault]]                                                         | Infrastructure                   | A comprehensive, self-hosted knowledge management system and digital vault for centralizing information, projects, and personal workflows. | 🟢 active |
+| [[Projects/Open Source - Kimai - Kuma - Filament.md\|Open Source - Kimai - Kuma - Filament]] | Infrastructure                   | A showcase of the self-hosted open-source tools powering my business operations, from time tracking to service monitoring.                 | 🟢 active |
+| [[Projects/Piepjack.md\|Piepjack]]                                                           | E-Commerce Development           | A technical deep-dive into the development of a high-performance, GDPR-compliant fashion platform built with the VILT stack.               | 🟢 active |
+| [[Projects/Ranalp.md\|Ranalp]]                                                               | Platform Development             | A technical showcase of Ranalp, a sophisticated community marketplace for fundraising, social initiatives, and charitable auctions.        | 🟢 active |
+| [[Projects/Schooltube.md\|Schooltube]]                                                       | \-                               | \-                                                                                                                                         | 🟢 active |
 
 %% DATAVIEW_PUBLISHER: end %%
 
