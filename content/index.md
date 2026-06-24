@@ -13,6 +13,8 @@ updated: 2026-03-01
 author: Mohamad Masri
 layout: homepage
 status: published
+banner: "Assets/banners/banner-dashboard.jpg"
+banner_y: 0.5
 ---
 # 👋 Welcome to Masri.blog
 
@@ -27,6 +29,7 @@ I provide tailored digital solutions ranging from custom software architecture t
 
 > [!abstract] Our Service Ecosystem
 > Explore my specialized offerings and packages:
+> - 💼 [[Services/Services Dashboard|Services & Pricing Dashboard (Dynamic)]]
 > - 💻 [[Services/index]] (VILT Stack, SaaS, APIs)
 > - 🌐 [[Services/index]] (Design, SEO, E-commerce)
 > - 🧠 [[Services/index]] (Fractional CTO, Strategy)

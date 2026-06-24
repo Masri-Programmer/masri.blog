@@ -1,0 +1,93 @@
+{
+  "nodes": [
+    {
+      "type": "text",
+      "id": "s_center_00000001",
+      "x": 0,
+      "y": 0,
+      "width": 320,
+      "height": 150,
+      "text": "# 💼 Service Ecosystem Map\n\nVisual overview of Mohamad Masri's software services and product modules."
+    },
+    {
+      "type": "group",
+      "id": "s_grp_softdev",
+      "x": -500,
+      "y": -200,
+      "width": 380,
+      "height": 500,
+      "label": "💻 Software Development",
+      "color": "1"
+    },
+    {
+      "type": "file",
+      "id": "s_file_dashboard",
+      "x": -470,
+      "y": -150,
+      "width": 320,
+      "height": 180,
+      "file": "Services/Services Dashboard.md"
+    },
+    {
+      "type": "file",
+      "id": "s_file_custsoft",
+      "x": -470,
+      "y": 60,
+      "width": 320,
+      "height": 200,
+      "file": "Services/Custom Software.md"
+    },
+    {
+      "type": "group",
+      "id": "s_grp_strategy",
+      "x": 500,
+      "y": -200,
+      "width": 380,
+      "height": 500,
+      "label": "🧠 Strategy & Consulting",
+      "color": "6"
+    },
+    {
+      "type": "file",
+      "id": "s_file_servindex",
+      "x": 530,
+      "y": -150,
+      "width": 320,
+      "height": 180,
+      "file": "Services/index.md"
+    },
+    {
+      "type": "file",
+      "id": "s_file_fraccto",
+      "x": 530,
+      "y": 60,
+      "width": 320,
+      "height": 200,
+      "file": "Services/Fractional CTO.md"
+    }
+  ],
+  "edges": [
+    {
+      "id": "s_edge_1",
+      "fromNode": "s_center_00000001",
+      "fromSide": "left",
+      "toNode": "s_grp_softdev",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "color": "1"
+    },
+    {
+      "id": "s_edge_2",
+      "fromNode": "s_center_00000001",
+      "fromSide": "right",
+      "toNode": "s_grp_strategy",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "color": "6"
+    }
+  ],
+  "metadata": {
+    "version": "1.0-1.0",
+    "frontmatter": {}
+  }
+}

@@ -4,6 +4,8 @@ author: Mohamad Masri
 published: 2025-04-09
 updated: 2026-03-01
 tags: [portfolio, full-stack, vilt-stack, open-source]
+banner: "Assets/banners/banner-concept-board.jpg"
+banner_y: 0.5
 ---
 
 # 🚀 Portfolio

@@ -9,6 +9,9 @@ tags: [e-commerce, laravel, vuejs, inertiajs, tailwindcss, gdpr]
 category: E-Commerce Development
 ---
 
+**Project Progress:** `$= const tasks = dv.current().file.tasks; const total = tasks.length; if (total === 0) { "No tasks found." } else { const completed = tasks.filter(t => t.completed).length; const percent = Math.round((completed / total) * 100); "<progress value='" + percent + "' max='100'></progress> <span style='font-size:smaller;color:var(--text-muted)'>" + percent + "% &nbsp;|&nbsp; " + (total - completed) + " left</span>"; }`
+
+
 # 👕 Piepjack Clothing: Modern Retail Engineering
 
 ![Fashion E-commerce](https://images.unsplash.com/photo-1441986300917-64674bd600d8?q=80&w=2070&auto=format&fit=crop)

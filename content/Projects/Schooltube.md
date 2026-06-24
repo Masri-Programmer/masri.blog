@@ -6,6 +6,9 @@ area: [[Services]]
 tags: [project, education, video-platform, k12, lms, curation]
 ---
 
+**Project Progress:** `$= const tasks = dv.current().file.tasks; const total = tasks.length; if (total === 0) { "No tasks found." } else { const completed = tasks.filter(t => t.completed).length; const percent = Math.round((completed / total) * 100); "<progress value='" + percent + "' max='100'></progress> <span style='font-size:smaller;color:var(--text-muted)'>" + percent + "% &nbsp;|&nbsp; " + (total - completed) + " left</span>"; }`
+
+
 # SchoolTube.online: A Safe and Curated Video Platform for K-12 Education
 
 [SchoolTube.online](https://schooltube.online/) is an online educational platform specifically designed to provide a **safe and moderated video-sharing environment for K-12 students, teachers, and school districts.** It serves as a dedicated alternative to commercial video platforms like YouTube, which often contain content unsuitable for classroom use.

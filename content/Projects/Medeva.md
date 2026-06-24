@@ -6,6 +6,9 @@ area: [[Services]]
 tags: [project, healthcare, telemedicine, react, tailwind-css, medical-assistance, france]
 ---
 
+**Project Progress:** `$= const tasks = dv.current().file.tasks; const total = tasks.length; if (total === 0) { "No tasks found." } else { const completed = tasks.filter(t => t.completed).length; const percent = Math.round((completed / total) * 100); "<progress value='" + percent + "' max='100'></progress> <span style='font-size:smaller;color:var(--text-muted)'>" + percent + "% &nbsp;|&nbsp; " + (total - completed) + " left</span>"; }`
+
+
 [Med-Evasan.com](https://www.med-evasan.com/) (also known as MED EVASAN or Medeva) is a prominent European medical assistance provider based in France, established in 1984. It specializes in offering a comprehensive range of medical services, particularly focused on **medical assistance, medical transport, telemedicine, and cost containment for individuals, expatriates, and companies.**
 
 Here's an overview of their key services and characteristics:

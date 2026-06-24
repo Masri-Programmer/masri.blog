@@ -1,0 +1,1 @@
+Start-Process node -ArgumentList "C:\Users\super\Desktop\obsidian\conductor\llm-proxy-router.js" -WorkingDirectory "C:\Users\super\Desktop\obsidian\conductor" -WindowStyle Hidden -ErrorAction Stop

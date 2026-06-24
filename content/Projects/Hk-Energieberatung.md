@@ -9,6 +9,9 @@ tags: [energy-consulting, web-design, sustainability, bremen, vilt-stack]
 category: Professional Services Web Design
 ---
 
+**Project Progress:** `$= const tasks = dv.current().file.tasks; const total = tasks.length; if (total === 0) { "No tasks found." } else { const completed = tasks.filter(t => t.completed).length; const percent = Math.round((completed / total) * 100); "<progress value='" + percent + "' max='100'></progress> <span style='font-size:smaller;color:var(--text-muted)'>" + percent + "% &nbsp;|&nbsp; " + (total - completed) + " left</span>"; }`
+
+
 # 🏠 HK Energieberatung: Engineering a Greener Future
 
 ![[hk-energieberatung.de_ (1).png]]

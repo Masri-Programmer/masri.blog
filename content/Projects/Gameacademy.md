@@ -6,6 +6,9 @@ area: [[Services]]
 tags: [project, education, non-profit, gaming, react, vite, mui, sel]
 ---
 
+**Project Progress:** `$= const tasks = dv.current().file.tasks; const total = tasks.length; if (total === 0) { "No tasks found." } else { const completed = tasks.filter(t => t.completed).length; const percent = Math.round((completed / total) * 100); "<progress value='" + percent + "' max='100'></progress> <span style='font-size:smaller;color:var(--text-muted)'>" + percent + "% &nbsp;|&nbsp; " + (total - completed) + " left</span>"; }`
+
+
 ## The Game Academy: Fostering Growth Through Tabletop Gaming
 
 [The Game Academy](https://gameacademy.ngo/home) is a 501(c)(3) **educational non-profit organization** dedicated to promoting the **social, emotional, and academic success of learners of all ages**. They achieve this through the engaging and collaborative use of **tabletop role-playing games (TTRPGs) and live-action role play (LARP)**. A significant aspect of their mission is to encourage and support **neuro-divergent participants**, leveraging the unique benefits of gaming to cater to diverse learning styles and needs.

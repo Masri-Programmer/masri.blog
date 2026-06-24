@@ -6,6 +6,9 @@ area: [[Services]]
 tags: [project, ecommerce, web-to-print, laravel, vue, inertia-js, tailwind-css, marketing-automation]
 ---
 
+**Project Progress:** `$= const tasks = dv.current().file.tasks; const total = tasks.length; if (total === 0) { "No tasks found." } else { const completed = tasks.filter(t => t.completed).length; const percent = Math.round((completed / total) * 100); "<progress value='" + percent + "' max='100'></progress> <span style='font-size:smaller;color:var(--text-muted)'>" + percent + "% &nbsp;|&nbsp; " + (total - completed) + " left</span>"; }`
+
+
 # Meo Media's "Shopsysteme": A Tailored E-commerce and Web-to-Print Powerhouse
 
 [Meo Media](https://meo-media.de/) doesn't offer a single product called "Meo Shop." Instead, they provide a range of **customized e-commerce and shop solutions**, generally referred to as "MEO Media Shopsystemen" or "Shoplösungen." Their core focus is on delivering functional, user-friendly, and highly integrated online shops that align with existing client systems and marketing strategies.

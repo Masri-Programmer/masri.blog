@@ -6,6 +6,9 @@ area: [[Services]]
 tags: [project, advertising, amazon-ads, digital-marketing]
 ---
 
+**Project Progress:** `$= const tasks = dv.current().file.tasks; const total = tasks.length; if (total === 0) { "No tasks found." } else { const completed = tasks.filter(t => t.completed).length; const percent = Math.round((completed / total) * 100); "<progress value='" + percent + "' max='100'></progress> <span style='font-size:smaller;color:var(--text-muted)'>" + percent + "% &nbsp;|&nbsp; " + (total - completed) + " left</span>"; }`
+
+
 Flyerheaven.de is a German online printing company that offers a wide range of custom print products, primarily for businesses and promotional purposes. The links provided lead to specific categories and seasonal offerings within their extensive product catalog.
 
 ### 1. [https://www.flyerheaven.de/deine-messe.html](https://www.flyerheaven.de/deine-messe.html) (Your Trade Fair/Exhibition Materials)

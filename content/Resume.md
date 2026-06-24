@@ -6,6 +6,8 @@ title: Mohamad Masri - Full Stack Developer
 author: Mohamad Masri
 created: 2025-03-26
 updated: 2026-03-01
+banner: "Assets/banners/banner-personal-01.jpg"
+banner_y: 0.5
 ---
 # **Mohamad Masri**
 

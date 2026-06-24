@@ -3,11 +3,11 @@ title: Recent Articles & Tutorials
 tags: [blog, articles, recent, tutorials, development]
 description: "Explore the latest insights on VILT stack development, AI prompting, software architecture, and developer productivity."
 updated: 2026-03-01
+banner: "Assets/banners/banner-notes.jpg"
+banner_y: 0.5
 ---
 
 # ✍️ Recent Articles & Insights
-
-![Writing and Technology](https://images.unsplash.com/photo-1499750310107-5fef28a66643?q=80&w=2070&auto=format&fit=crop)
 
 Welcome to my digital garden. Here, I document my journey through complex technical challenges, share tutorials on modern web stacks, and curate high-value resources for developers and tech leaders.
 
@@ -70,7 +70,9 @@ LIMIT 5
 ---
 
 ## 📂 Explore Categories
-> [!tip] Browse by Topic
+> [!tip] Content & Resource Navigation
+> - 🔖 [[Bookmarks Finder|Bookmarks Search Engine (Interactive)]]
+> - ✍️ [[Blog Manager|Blog Manager & Content Planner]]
 > - 💻 [[Blog/Coding/Backend/🖥️ Backend Resources|Backend Development]]
 > - 🎨 [[Blog/Coding/Frontend/Resources|Frontend Resources]]
 > - 🤖 [[Blog/Coding/AI/🤖 AI Resources|Artificial Intelligence]]

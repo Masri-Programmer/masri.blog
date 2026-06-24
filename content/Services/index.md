@@ -57,5 +57,10 @@ Our automation-ready services are summarized below. You can find detailed config
 
 ---
 
+## 💼 Dynamic Pricing Catalog
+To query pricing structures and browse services dynamically, check out our [[Services/Services Dashboard|Dynamic Services & Pricing Dashboard]].
+
+---
+
 > [!tip] Contact Us
 > Dreaming of a system that truly understands your business? [[Blog/Personal/contact|Contact us]] to discuss your specific requirements or email **hallo@masri-programmer.de**.

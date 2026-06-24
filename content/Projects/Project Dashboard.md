@@ -93,9 +93,11 @@ LIMIT 10
 ---
 
 ## 🛠️ Project Management Quick Links
+- [[Projects/Active Projects.base|📊 Interactive Projects Database (Base)]]
 - [[private/Templates/Project|➕ New Project Template]]
 - [[private/Templates/Automation - Kimai Invoice Follow-up|🧾 Log Kimai Invoice]]
 - [[private/To Do Kanban|📋 Kanban Board]]
 - [[Portfolio|🌐 Public Portfolio]]
+
 
 ---

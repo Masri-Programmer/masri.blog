@@ -6,6 +6,9 @@ area: [[Services]]
 tags: [project, fashion, web3, 3d, webgl, react, laravel, inertia-js]
 ---
 
+**Project Progress:** `$= const tasks = dv.current().file.tasks; const total = tasks.length; if (total === 0) { "No tasks found." } else { const completed = tasks.filter(t => t.completed).length; const percent = Math.round((completed / total) * 100); "<progress value='" + percent + "' max='100'></progress> <span style='font-size:smaller;color:var(--text-muted)'>" + percent + "% &nbsp;|&nbsp; " + (total - completed) + " left</span>"; }`
+
+
 **👗 Maison Anthony: Next-Generation Digital Showroom Engineering**
 
 Maison Anthony requires a cutting-edge digital presence that bridges the gap between high-end physical fashion and immersive virtual environments. This project departs from traditional template-based e-commerce, utilizing a highly customized architecture to deliver an interactive 3D digital apparel showroom with robust performance and strict data control.

@@ -7,6 +7,9 @@ area: [[Services]]
 tags: [project, ecommerce, sports, collectibles, custom-products, fut-cards]
 ---
 
+**Project Progress:** `$= const tasks = dv.current().file.tasks; const total = tasks.length; if (total === 0) { "No tasks found." } else { const completed = tasks.filter(t => t.completed).length; const percent = Math.round((completed / total) * 100); "<progress value='" + percent + "' max='100'></progress> <span style='font-size:smaller;color:var(--text-muted)'>" + percent + "% &nbsp;|&nbsp; " + (total - completed) + " left</span>"; }`
+
+
 [Propackstore.org](https://propackstore.org/home) is an online store specializing in **personalized sports cards, particularly "FUT cards"** (likely referring to cards inspired by popular football/soccer video games like FIFA/EA Sports FC Ultimate Team).
 
 **Core Business and Products:**

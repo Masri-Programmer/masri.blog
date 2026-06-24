@@ -8,6 +8,9 @@ description: "A technical showcase of Ranalp, a sophisticated community marketpl
 tags: [marketplace, fintech, social-impact, stripe-connect, laravel, vuejs]
 category: Platform Development
 ---
+
+**Project Progress:** `$= const tasks = dv.current().file.tasks; const total = tasks.length; if (total === 0) { "No tasks found." } else { const completed = tasks.filter(t => t.completed).length; const percent = Math.round((completed / total) * 100); "<progress value='" + percent + "' max='100'></progress> <span style='font-size:smaller;color:var(--text-muted)'>" + percent + "% &nbsp;|&nbsp; " + (total - completed) + " left</span>"; }`
+
 # 🏔️ Ranalp: Empowering Collective Vision
 
 ![Community Marketplace](https://images.unsplash.com/photo-1556742044-3c52d6e88c62?q=80&w=2070&auto=format&fit=crop)

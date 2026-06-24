@@ -9,6 +9,9 @@ tags: [portfolio, web-design, software-engineering, branding, vilt-stack]
 category: Agency Portfolio
 ---
 
+**Project Progress:** `$= const tasks = dv.current().file.tasks; const total = tasks.length; if (total === 0) { "No tasks found." } else { const completed = tasks.filter(t => t.completed).length; const percent = Math.round((completed / total) * 100); "<progress value='" + percent + "' max='100'></progress> <span style='font-size:smaller;color:var(--text-muted)'>" + percent + "% &nbsp;|&nbsp; " + (total - completed) + " left</span>"; }`
+
+
 # 🚀 Masri Programmer: Turning Visions into Reality
 
 ![[masri-programmer.de_ (1).png]]

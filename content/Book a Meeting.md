@@ -9,6 +9,8 @@ tags:
   - consulting
   - business
   - cal-com
+banner: "Assets/banners/banner-learning.jpg"
+banner_y: 0.5
 ---
 
 # 🤝 Let's Build Something Great Together

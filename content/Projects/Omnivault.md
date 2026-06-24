@@ -9,6 +9,9 @@ tags: [knowledge-management, second-brain, self-hosted, personal-productivity, o
 category: Infrastructure
 ---
 
+**Project Progress:** `$= const tasks = dv.current().file.tasks; const total = tasks.length; if (total === 0) { "No tasks found." } else { const completed = tasks.filter(t => t.completed).length; const percent = Math.round((completed / total) * 100); "<progress value='" + percent + "' max='100'></progress> <span style='font-size:smaller;color:var(--text-muted)'>" + percent + "% &nbsp;|&nbsp; " + (total - completed) + " left</span>"; }`
+
+
 # 🏛️ Omnivault: Your Digital Second Brain
 
 ![[Screenshot 2026-06-04 164142.png]]

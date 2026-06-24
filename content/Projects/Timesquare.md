@@ -7,6 +7,9 @@ area: [[Services]]
 tags: [project, ecommerce, react, vite, redux, firebase, stripe, tailwind-css]
 ---
 
+**Project Progress:** `$= const tasks = dv.current().file.tasks; const total = tasks.length; if (total === 0) { "No tasks found." } else { const completed = tasks.filter(t => t.completed).length; const percent = Math.round((completed / total) * 100); "<progress value='" + percent + "' max='100'></progress> <span style='font-size:smaller;color:var(--text-muted)'>" + percent + "% &nbsp;|&nbsp; " + (total - completed) + " left</span>"; }`
+
+
 **[UltraStore.me](https://ultrastore.me/ultra-store)**, often represented by the "Time Square" e-commerce application, presents itself as a comprehensive and user-friendly online shopping platformTit aims to provide a seamless and enjoyable shopping journey with a broad product range and a focus on user experience.
 
 **Key Aspects and Features (as advertised):**

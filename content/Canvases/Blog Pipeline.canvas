@@ -1,0 +1,114 @@
+{
+  "nodes": [
+    {
+      "type": "group",
+      "id": "b_grp_research",
+      "x": -450,
+      "y": -200,
+      "width": 380,
+      "height": 400,
+      "label": "1. Research & Ideas",
+      "color": "5"
+    },
+    {
+      "type": "text",
+      "id": "b_txt_research",
+      "x": -420,
+      "y": -150,
+      "width": 320,
+      "height": 100,
+      "text": "### Inspiration & Reference\nUse the dynamic Bookmarks Finder to search your curated browser bookmarks and research material."
+    },
+    {
+      "type": "file",
+      "id": "b_file_bookmarks",
+      "x": -420,
+      "y": -30,
+      "width": 320,
+      "height": 200,
+      "file": "Bookmarks Finder.md"
+    },
+    {
+      "type": "group",
+      "id": "b_grp_drafting",
+      "x": 0,
+      "y": -200,
+      "width": 380,
+      "height": 400,
+      "label": "2. Content Planning & Drafting",
+      "color": "4"
+    },
+    {
+      "type": "text",
+      "id": "b_txt_drafting",
+      "x": 30,
+      "y": -150,
+      "width": 320,
+      "height": 100,
+      "text": "### Content & Word Tracking\nUse the Blog Manager dashboard to review draft statuses, tag distribution, and word count estimates."
+    },
+    {
+      "type": "file",
+      "id": "b_file_manager",
+      "x": 30,
+      "y": -30,
+      "width": 320,
+      "height": 200,
+      "file": "Blog Manager.md"
+    },
+    {
+      "type": "group",
+      "id": "b_grp_production",
+      "x": 450,
+      "y": -200,
+      "width": 380,
+      "height": 400,
+      "label": "3. Production & Web Index",
+      "color": "6"
+    },
+    {
+      "type": "text",
+      "id": "b_txt_publishing",
+      "x": 480,
+      "y": -150,
+      "width": 320,
+      "height": 100,
+      "text": "### Live Web Articles\nWhen files have `status: published`, the static site builder parses them into the homepage and recent article feeds."
+    },
+    {
+      "type": "file",
+      "id": "b_file_recent",
+      "x": 480,
+      "y": -30,
+      "width": 320,
+      "height": 200,
+      "file": "Recent Articles.md"
+    }
+  ],
+  "edges": [
+    {
+      "id": "b_edge_1",
+      "fromNode": "b_file_bookmarks",
+      "fromSide": "right",
+      "toNode": "b_file_manager",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Draft Article",
+      "color": "4"
+    },
+    {
+      "id": "b_edge_2",
+      "fromNode": "b_file_manager",
+      "fromSide": "right",
+      "toNode": "b_file_recent",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Publish",
+      "color": "6"
+    }
+  ],
+  "metadata": {
+    "version": "1.0-1.0",
+    "frontmatter": {}
+  }
+}

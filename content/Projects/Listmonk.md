@@ -9,6 +9,9 @@ tags: [newsletter, email-marketing, self-hosted, listmonk, masri-programmer]
 category: Infrastructure
 ---
 
+**Project Progress:** `$= const tasks = dv.current().file.tasks; const total = tasks.length; if (total === 0) { "No tasks found." } else { const completed = tasks.filter(t => t.completed).length; const percent = Math.round((completed / total) * 100); "<progress value='" + percent + "' max='100'></progress> <span style='font-size:smaller;color:var(--text-muted)'>" + percent + "% &nbsp;|&nbsp; " + (total - completed) + " left</span>"; }`
+
+
 # 📧 Listmonk: Professional Newsletter Management
 
 ![[Screenshot 2026-06-07 190340 1.png]]
