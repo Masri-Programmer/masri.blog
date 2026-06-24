@@ -13,11 +13,11 @@
 ### Task 1: Create Cheat Sheet Directory and File
 
 **Files:**
-- Create: `private/Work/MasriGMBH/Meetings/Meeting_Smalltalk_Cheat_Sheet.md`
+- Create: `private/💼 Work/🏢 MasriGMBH/🤝 Meetings/Meeting_Smalltalk_Cheat_Sheet.md`
 
 - [x] **Step 1: Create the directory**
 ```bash
-mkdir -p private/Work/MasriGMBH/Meetings/
+mkdir -p private/💼 Work/🏢 MasriGMBH/🤝 Meetings/
 ```
 
 - [x] **Step 2: Create and write the initial content**
@@ -73,11 +73,11 @@ mkdir -p private/Work/MasriGMBH/Meetings/
 ```
 
 - [x] **Step 3: Verify the file exists and content is correct**
-Run: `ls private/Work/MasriGMBH/Meetings/Meeting_Smalltalk_Cheat_Sheet.md`
-Run: `cat private/Work/MasriGMBH/Meetings/Meeting_Smalltalk_Cheat_Sheet.md`
+Run: `ls private/💼 Work/🏢 MasriGMBH/🤝 Meetings/Meeting_Smalltalk_Cheat_Sheet.md`
+Run: `cat private/💼 Work/🏢 MasriGMBH/🤝 Meetings/Meeting_Smalltalk_Cheat_Sheet.md`
 
 - [x] **Step 4: Commit the new file**
 ```bash
-git add private/Work/MasriGMBH/Meetings/Meeting_Smalltalk_Cheat_Sheet.md
+git add private/💼 Work/🏢 MasriGMBH/🤝 Meetings/Meeting_Smalltalk_Cheat_Sheet.md
 git commit -m "feat: add meeting smalltalk cheat sheet"
 ```

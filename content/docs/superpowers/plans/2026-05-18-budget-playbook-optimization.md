@@ -13,7 +13,7 @@
 ### Task 1: Apply Layout Optimizations
 
 **Files:**
-- Modify: `private/Work/MasriGMBH/Meetings/Budget.md`
+- Modify: `private/💼 Work/🏢 MasriGMBH/🤝 Meetings/Budget.md`
 
 - [x] **Step 1: Replace the entire file content with the optimized version**
 
@@ -89,10 +89,10 @@ If the client objects at the end, loop them back to the cost of doing nothing.
 ```
 
 - [x] **Step 2: Verify the file content**
-Run: `cat private/Work/MasriGMBH/Meetings/Budget.md`
+Run: `cat private/💼 Work/🏢 MasriGMBH/🤝 Meetings/Budget.md`
 
 - [x] **Step 3: Commit the changes**
 ```bash
-git add private/Work/MasriGMBH/Meetings/Budget.md
+git add private/💼 Work/🏢 MasriGMBH/🤝 Meetings/Budget.md
 git commit -m "style: optimize layout of budget playbook for scannability"
 ```

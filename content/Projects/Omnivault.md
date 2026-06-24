@@ -2,7 +2,7 @@
 type: project
 status: 🟢 active
 priority: 🟡 medium
-area: [[Services]]
+area: [[💼 Services]]
 title: "Omnivault: The Centralized Digital Second Brain"
 description: "A comprehensive, self-hosted knowledge management system and digital vault for centralizing information, projects, and personal workflows."
 tags: [knowledge-management, second-brain, self-hosted, personal-productivity, obsidian]

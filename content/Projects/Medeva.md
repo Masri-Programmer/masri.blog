@@ -2,7 +2,7 @@
 type: project
 status: 🟢 active
 priority: 🟡 medium
-area: [[Services]]
+area: [[💼 Services]]
 tags: [project, healthcare, telemedicine, react, tailwind-css, medical-assistance, france]
 ---
 

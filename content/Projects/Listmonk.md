@@ -2,7 +2,7 @@
 type: project
 status: 🟢 active
 priority: 🔵 low
-area: [[Services]]
+area: [[💼 Services]]
 title: "Listmonk: Self-Hosted Newsletter Management"
 description: "A high-performance, self-hosted newsletter and mailing list manager used for professional communication and community engagement."
 tags: [newsletter, email-marketing, self-hosted, listmonk, masri-programmer]

@@ -13,7 +13,7 @@
 ### Task 1: Apply Accordion Layout
 
 **Files:**
-- Modify: `private/Work/MasriGMBH/Meetings/Häufig gestellte Fragen.md`
+- Modify: `private/💼 Work/🏢 MasriGMBH/🤝 Meetings/Häufig gestellte Fragen.md`
 
 - [ ] **Step 1: Replace the entire file content with the accordion version**
 
@@ -244,10 +244,10 @@ Haben Sie Fragen? Wir haben die Antworten. Hier sind einige der häufigsten Frag
 ```
 
 - [ ] **Step 2: Verify the file content**
-Run: `cat private/Work/MasriGMBH/Meetings/Häufig\ gestellte\ Fragen.md`
+Run: `cat private/💼 Work/🏢 MasriGMBH/🤝 Meetings/Häufig\ gestellte\ Fragen.md`
 
 - [ ] **Step 3: Commit the changes**
 ```bash
-git add "private/Work/MasriGMBH/Meetings/Häufig gestellte Fragen.md"
+git add "private/💼 Work/🏢 MasriGMBH/🤝 Meetings/Häufig gestellte Fragen.md"
 git commit -m "refactor: convert FAQ to accordion layout"
 ```

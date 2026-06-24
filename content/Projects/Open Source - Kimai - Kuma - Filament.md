@@ -2,7 +2,7 @@
 type: project
 status: 🟢 active
 priority: 🟡 medium
-area: [[Services]]
+area: [[💼 Services]]
 title: "Open Source Ecosystem: Kimai, Uptime Kuma & Filament"
 description: "A showcase of the self-hosted open-source tools powering my business operations, from time tracking to service monitoring."
 tags: [open-source, devops, laravel, productivity, monitoring]

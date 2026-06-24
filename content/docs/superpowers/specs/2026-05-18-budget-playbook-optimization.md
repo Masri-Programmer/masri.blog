@@ -1,7 +1,7 @@
 # Budget & Investment Playbook Optimization Design
 
 ## Goal
-Optimize the layout of `private/Work/MasriGMBH/Meetings/Budget.md` for scannability and professional formatting in Google Docs, while strictly preserving all existing content.
+Optimize the layout of `private/💼 Work/🏢 MasriGMBH/🤝 Meetings/Budget.md` for scannability and professional formatting in Google Docs, while strictly preserving all existing content.
 
 ## Structural Changes
 ### 1. Header Optimization
@@ -23,4 +23,4 @@ Optimize the layout of `private/Work/MasriGMBH/Meetings/Budget.md` for scannabil
 - **CRITICAL:** No text, scripts, or phrasing will be modified. The optimization is strictly structural and visual.
 
 ## Target File
-- `private/Work/MasriGMBH/Meetings/Budget.md` (Update in place)
+- `private/💼 Work/🏢 MasriGMBH/🤝 Meetings/Budget.md` (Update in place)

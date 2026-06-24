@@ -2,7 +2,7 @@
 type: project
 status: 🟢 active
 priority: 🟡 medium
-area: [[Services]]
+area: [[💼 Services]]
 tags: [project, advertising, amazon-ads, digital-marketing]
 ---
 

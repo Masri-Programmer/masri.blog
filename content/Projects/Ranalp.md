@@ -2,7 +2,7 @@
 type: project
 status: 🟢 active
 priority: 🟡 medium
-area: [[Services]]
+area: [[💼 Services]]
 title: "Ranalp: A Visionary Marketplace for Collective Action"
 description: "A technical showcase of Ranalp, a sophisticated community marketplace for fundraising, social initiatives, and charitable auctions."
 tags: [marketplace, fintech, social-impact, stripe-connect, laravel, vuejs]

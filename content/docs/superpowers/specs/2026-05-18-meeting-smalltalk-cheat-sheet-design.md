@@ -27,4 +27,4 @@ The cheat sheet will be divided into the following sections:
 - Optimized for copy-pasting into Google Docs (uses standard MD headers).
 
 ## Location
-- Target file: `private/Work/MasriGMBH/Meetings/Meeting_Smalltalk_Cheat_Sheet.md`
+- Target file: `private/💼 Work/🏢 MasriGMBH/🤝 Meetings/Meeting_Smalltalk_Cheat_Sheet.md`

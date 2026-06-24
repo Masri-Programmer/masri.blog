@@ -2,7 +2,7 @@
 type: project
 status: 🟢 active
 priority: 🟡 medium
-area: [[Services]]
+area: [[💼 Services]]
 title: "HK Energieberatung: Sustainable Energy Solutions"
 description: "A professional web presence for certified energy consultants in Bremen, focusing on efficiency, sustainability, and government subsidies."
 tags: [energy-consulting, web-design, sustainability, bremen, vilt-stack]

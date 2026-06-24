@@ -2,7 +2,7 @@
 type: project
 status: 🟢 active
 priority: 🟡 medium
-area: [[Services]]
+area: [[💼 Services]]
 title: "Masri Programmer: High-Performance Digital Solutions"
 description: "The flagship portfolio and agency platform of Mohamad Masri, showcasing expert web design, e-commerce, and bespoke software engineering."
 tags: [portfolio, web-design, software-engineering, branding, vilt-stack]

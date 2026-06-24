@@ -2,7 +2,7 @@
 type: project
 status: 🟢 active
 priority: 🔥 high
-area: [[Services]]
+area: [[💼 Services]]
 tags: [project, fashion, web3, 3d, webgl, react, laravel, inertia-js]
 ---
 

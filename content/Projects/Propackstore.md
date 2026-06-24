@@ -3,7 +3,7 @@
 type: project
 status: 🟢 active
 priority: 🟡 medium
-area: [[Services]]
+area: [[💼 Services]]
 tags: [project, ecommerce, sports, collectibles, custom-products, fut-cards]
 ---
 

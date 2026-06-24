@@ -18,7 +18,7 @@ Your terminal uses a shell program (like Bash or Zsh). These shells have configu
 
 You'll need to open this file in a text editor. You can use commands like `nano`, `vim`, or `code` (if you have VS Code's command-line tools installed).
 
-[[private/📁 General/Development/Bash|Bash Settings]]
+[[private/📁 General/💻 Development/Bash|Bash Settings]]
 
 ```
 # For Bash
@@ -32,7 +32,7 @@ nano ~/.zshrc
 
 Inside the configuration file, add the following line at the end:
 
-[[private/📁 General/Development/Bash|Bash Settings]]
+[[private/📁 General/💻 Development/Bash|Bash Settings]]
 
 ```
 alias a='php artisan'
@@ -46,7 +46,7 @@ alias a='php artisan'
 
 Next, add the following line to your configuration file:
 
-[[private/📁 General/Development/Bash|Bash Settings]]
+[[private/📁 General/💻 Development/Bash|Bash Settings]]
 
 ```
 alias forge='rm composer.lock bootstrap/cache/{packages.php,services.php} && composer i && sh scripts/{update.sh,fix-permissions.sh} && php artisan migrate:fresh --seed && php artisan ziggy:generate && php artisan xxxx:lang:js && php artisan route:clear && php artisan config:clear && php artisan view:clear'
