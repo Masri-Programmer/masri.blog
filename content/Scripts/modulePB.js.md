@@ -21,7 +21,7 @@ there are 4 different versions of the same code for
 2. single note with a text filter
 3. multiple notes overview header filter
 4. multiple notes overview text filter
-you can see how they work inside [[30_Knowledge/33_Permanent/002 Queries/Progress bar]]
+you can see how they work inside [[private/📝 To Do Progress Bar|Progress Bar]]
 
 ## PBSingleNoteHeader
 

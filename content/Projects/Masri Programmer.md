@@ -14,7 +14,7 @@ category: Agency Portfolio
 
 # 🚀 Masri Programmer: Turning Visions into Reality
 
-![[masri-programmer.de_ (1).png]]
+![[Assets/Img/masri-programmer.github.io_mohamad-masri_ (1).png]]
 
 [Masri-programmer.de](https://masri-programmer.de/) is the digital flagship for my professional development services. It serves as a living demonstration of my commitment to crafting technically flawless, customer-focused web solutions that balance aesthetic beauty with engineering rigor.
 

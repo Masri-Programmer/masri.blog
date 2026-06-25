@@ -72,7 +72,7 @@ alias: {
 ## 🧠 Phase 5: Obsidian Integration
 - [ ] **Create Project Note:** Create `Projects/{{project_name}}.md`.
 - [ ] **PARA Tagging:** Apply `status: 🟢 active` and `area: professional`.
-- [ ] **Kanban:** Add the project to the [[private/To Do Kanban|Kanban Board]].
+- [ ] **Kanban:** Add the project to the [[private/📋 To Do Kanban|Kanban Board]].
 
 ---
 

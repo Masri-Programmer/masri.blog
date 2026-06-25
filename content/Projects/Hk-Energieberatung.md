@@ -14,7 +14,7 @@ category: Professional Services Web Design
 
 # 🏠 HK Energieberatung: Engineering a Greener Future
 
-![[hk-energieberatung.de_ (1).png]]
+![[Assets/Img/hk-energieberatung.de.webp]]
 
 
 [HK-energieberatung.de](https://hk-energieberatung.de/) is the digital portal for a team of certified energy consultants based in Bremen, Germany. The platform is designed to connect homeowners with expert advice on making residential buildings more efficient, economical, and sustainable.
