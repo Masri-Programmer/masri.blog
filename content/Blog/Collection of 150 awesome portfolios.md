@@ -16,6 +16,7 @@ created: 2025-04-19
 
 * [https://afridi.dev](https://afridi.dev)
 
+
 * [https://afrid-eta.vercel.app/home](https://afrid-eta.vercel.app/home)
 
 * [https://ameersami.com/](https://ameersami.com/)
