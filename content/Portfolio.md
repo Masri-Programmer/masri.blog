@@ -2,21 +2,22 @@
 title: Portfolio | Mohamad Masri
 author: Mohamad Masri
 published: 2025-04-09
-updated: 2026-06-24
+updated: 2026-06-25
 tags:
   - portfolio
   - full-stack
   - vilt-stack
   - open-source
-banner: |-
-  <p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="320px" height="200">
-    <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="320px" height="200">
-  </p>
+banner: "Assets/banners/banner-concept-board.jpg"
 banner_y: 0.5
 ---
 
 # 🚀 Portfolio
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="320px" height="200">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="320px" height="200">
+</p>
 
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohamad+Masri!;" />
