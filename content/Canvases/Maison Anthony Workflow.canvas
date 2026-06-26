@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"ma10000000000001","type":"group","x":0,"y":0,"width":1000,"height":450,"color":"1","label":"1. The Client's Request (Maison Anthony)"},
+		{"id":"ma20000000000001","type":"group","x":0,"y":500,"width":1000,"height":450,"color":"2","label":"2. Strategy & Architecture"},
+		{"id":"ma30000000000001","type":"group","x":0,"y":1000,"width":1000,"height":450,"color":"4","label":"3. Delivery & Results"},
+		{"id":"ma10000000000002","type":"text","text":"### What Anthony Kenwea Asked For\n\n- **Immersive Environment:** Build a digital showroom that bridges high-end physical fashion with virtual worlds.\n- **Core Features:** Add 3D product gallery/carousels for clothing (jackets, pants) with hover-over info.\n- **Media Integration:** Insert film at exact minute markers and add autoplay piano sound.\n- **Marketing & SEO:** Add email capture for newsletters, professional email signatures, and English/German translations.\n- **UI Updates:** Remove outdated sections, add 'Fashion' and 'Atelier Showroom' navigation, and resolve all mobile scrolling issues.","x":20,"y":40,"width":550,"height":380},
+		{"id":"ma10000000000003","type":"text","text":"> [!info] Kanban Tracking\n> All requests were tracked and completed systematically via the client's dedicated Kanban board, ensuring nothing from the WhatsApp chats was missed.","x":600,"y":40,"width":380,"height":380},
+		{"id":"ma20000000000002","type":"text","text":"### The RILT + WebGL Stack\n\nTo achieve real-time 3D rendering alongside a robust architecture, I built a custom stack:\n\n- **Frontend (React 19.2 + Tailwind 4.0):** Component-driven UI handling complex state for 3D canvases.\n- **3D Engine (Three.js & R3F):** High-performance WebGL rendering for detailed `.glb` digital clothing models. Uploaded 3 models of images from fashion artist into `.glb` format.\n- **Backend (Laravel 13.7):** Enterprise-grade routing and API capabilities.\n- **Bridge (Inertia.js 3.0):** Eliminated complex REST APIs, keeping the SPA tightly coupled to the backend.\n- **Infrastructure:** Configured an **AWS Bucket** for the large fashion media assets and PM2 for Node services.","x":20,"y":540,"width":550,"height":380},
+		{"id":"ma30000000000002","type":"text","text":"### What Maison Anthony Got\n\n- **Next-Generation Showroom:** A cutting-edge digital presence that acts as a real-time 3D canvas, moving away from basic e-commerce templates.\n- **Maximized Performance:** Engineered with Vite 8 and React Compiler so heavy WebGL computations don't bottleneck the UI.\n- **Seamless Experience:** Fluid camera transitions, scroll-driven interactions, and entrance animations powered by GSAP.\n- **Full Ownership:** Complete ownership over their platform logic and 3D assets, free from traditional SaaS storefront limitations.","x":20,"y":1040,"width":550,"height":380},
+		{"id":"ma30000000000003","type":"file","file":"Projects/Maison Anthony.md","x":600,"y":1040,"width":380,"height":380},
+		{"id":"ma20000000000003","type":"file","file":"Assets/private/work/Pasted image 20260521213525.png","x":600,"y":540,"width":380,"height":169}
+	],
+	"edges":[
+		{"id":"edge000000000001","fromNode":"ma10000000000001","fromSide":"bottom","toNode":"ma20000000000001","toSide":"top"},
+		{"id":"edge000000000002","fromNode":"ma20000000000001","fromSide":"bottom","toNode":"ma30000000000001","toSide":"top"}
+	]
+}

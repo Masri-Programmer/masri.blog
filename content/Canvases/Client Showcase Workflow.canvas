@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"1a1a1a1a1a1a1a1a","type":"group","x":0,"y":0,"width":1000,"height":400,"label":"1. The Client's Request","color":"1"},
+		{"id":"1b1b1b1b1b1b1b1b","type":"text","x":20,"y":40,"width":400,"height":340,"text":"### What the Client Asked For\n\n(Waiting for WhatsApp screenshots...)\n\nWe will list the client's core pain points and requirements here."},
+		{"id":"1c1c1c1c1c1c1c1c","type":"text","x":440,"y":40,"width":540,"height":340,"text":"> [!info] WhatsApp Screenshots\n> Drop the screenshots here once provided by the client."},
+		{"id":"2a2a2a2a2a2a2a2a","type":"group","x":0,"y":450,"width":1000,"height":350,"label":"2. Strategy & Architecture","color":"2"},
+		{"id":"2b2b2b2b2b2b2b2b","type":"text","x":20,"y":490,"width":960,"height":290,"text":"### Tech Stack & Workflow\n\nBased on my **Technical Arsenal** (VILT Stack, React, Laravel, DevOps):\n\n1. **Frontend:** (To be defined based on request)\n2. **Backend:** (To be defined based on request)\n3. **Infrastructure:** (To be defined based on request)"},
+		{"id":"3a3a3a3a3a3a3a3a","type":"group","x":0,"y":850,"width":1000,"height":400,"label":"3. Delivery & Results","color":"4"},
+		{"id":"3b3b3b3b3b3b3b3b","type":"text","x":20,"y":890,"width":460,"height":340,"text":"### What They Got\n\n- (Project outcome details)\n- (Performance metrics)\n- (Client feedback)"},
+		{"id":"3c3c3c3c3c3c3c3c","type":"text","x":500,"y":890,"width":480,"height":340,"text":"> [!success] Final Product\n> Link to the delivered project in the `Projects/` folder and showcase screenshots of the result."}
+	],
+	"edges":[
+		{"id":"e1e1e1e1e1e1e1e1","fromNode":"1a1a1a1a1a1a1a1a","fromSide":"bottom","toNode":"2a2a2a2a2a2a2a2a","toSide":"top","toEnd":"arrow"},
+		{"id":"e2e2e2e2e2e2e2e2","fromNode":"2a2a2a2a2a2a2a2a","fromSide":"bottom","toNode":"3a3a3a3a3a3a3a3a","toSide":"top","toEnd":"arrow"}
+	]
+}
