@@ -1,6 +1,6 @@
 ---
-title: "Blog Manager"
-description: "Content management dashboard for published posts, drafts, and coding tutorials."
+title: Blog Manager
+description: Content management dashboard for published posts, drafts, and coding tutorials.
 tags:
   - dashboard
   - blog
@@ -9,9 +9,10 @@ created: 2026-06-24
 updated: 2026-06-24
 author: Mohamad Masri
 layout: default
-status: published
-banner: "Assets/banners/banner-journal.jpg"
+status:
+banner: Assets/banners/banner-journal.jpg
 banner_y: 0.5
+publish: true
 ---
 
 # ✍️ Blog Manager & Content Planner
@@ -23,6 +24,7 @@ banner_y: 0.5
 
 ## 📅 Published & Active Articles
 
+```markdown
 ```dataview
 TABLE 
     status as Status, 
@@ -39,6 +41,7 @@ SORT date DESC
 
 ## 📝 Drafts & Brainstorming
 
+```markdown
 ```dataview
 TABLE 
     round(file.size / 5) as "~ Words",

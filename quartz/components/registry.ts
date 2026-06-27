@@ -1,4 +1,9 @@
 import { QuartzComponent, QuartzComponentConstructor } from "./types"
+import Navigation from "./Navigation"
+import Newsletter from "./Newsletter"
+import RecentNotes from "./RecentNotes"
+import Banner from "./Banner"
+import Footer from "./Footer"
 
 export interface ComponentManifest {
   name: string
@@ -130,3 +135,23 @@ export function defineComponent<Options extends object | undefined = undefined>(
   ;(factory as any).__quartzComponent = { manifest }
   return factory
 }
+
+componentRegistry.register("Navigation.tsx", Navigation, "local")
+componentRegistry.register("Navigation", Navigation, "local")
+componentRegistry.register("navigation", Navigation, "local")
+
+componentRegistry.register("Newsletter.tsx", Newsletter, "local")
+componentRegistry.register("Newsletter", Newsletter, "local")
+componentRegistry.register("newsletter", Newsletter, "local")
+
+componentRegistry.register("RecentNotes.tsx", RecentNotes, "local")
+componentRegistry.register("RecentNotes", RecentNotes, "local")
+componentRegistry.register("recent-notes", RecentNotes, "local")
+
+componentRegistry.register("Banner.tsx", Banner, "local")
+componentRegistry.register("Banner", Banner, "local")
+componentRegistry.register("banner", Banner, "local")
+
+componentRegistry.register("Footer.tsx", Footer, "local")
+componentRegistry.register("Footer", Footer, "local")
+componentRegistry.register("footer", Footer, "local")

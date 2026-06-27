@@ -22,6 +22,7 @@ import { getStaticResourcesFromPlugins } from "./plugins"
 import { randomIdNonSecure } from "./util/random"
 import { ChangeEvent } from "./plugins/types"
 import { minimatch } from "minimatch"
+import { renderDataviews } from "./util/dataview"
 
 function reportSlugCollisions(content: ProcessedContent[]): void {
   const collisions = detectSlugCollisions(content)
@@ -92,6 +93,9 @@ async function buildQuartz(argv: Argv, mut: Mutex, clientRefresh: () => void) {
 
   const parsedFiles = await parseMarkdown(ctx, filePaths)
   reportSlugCollisions(parsedFiles)
+  for (const [tree] of parsedFiles) {
+    renderDataviews(tree, parsedFiles, ctx)
+  }
   const filteredContent = filterContent(ctx, parsedFiles)
 
   await emitContent(ctx, filteredContent)
@@ -289,6 +293,9 @@ async function rebuild(changes: ChangeEvent[], clientRefresh: () => void, buildD
       .filter((file) => file.type === "markdown")
       .map((file) => file.content)
     reportSlugCollisions(markdownContent)
+    for (const [tree] of markdownContent) {
+      renderDataviews(tree, markdownContent, ctx)
+    }
     let processedFiles = filterContent(ctx, markdownContent)
 
     let emittedFiles = 0

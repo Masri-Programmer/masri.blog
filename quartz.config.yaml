@@ -41,6 +41,29 @@ configuration:
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
 plugins:
+  - source: ./quartz/components/Navigation.tsx
+    enabled: true
+    layout:
+      position: beforeBody
+      priority: 1
+  - source: ./quartz/components/Banner.tsx
+    enabled: true
+    layout:
+      position: beforeBody
+      priority: 7
+  - source: ./quartz/components/Newsletter.tsx
+    enabled: true
+    layout:
+      position: right
+      priority: 60
+  - source: ./quartz/components/RecentNotes.tsx
+    enabled: true
+    layout:
+      position: left
+      priority: 40
+    options:
+      limit: 7
+      showTags: false
   - source: github:quartz-community/created-modified-date
     enabled: true
     options:
@@ -82,7 +105,7 @@ plugins:
     order: 50
     layout:
       position: right
-      priority: 30
+      priority: 20
   - source: github:quartz-community/crawl-links
     enabled: true
     options:
@@ -186,7 +209,7 @@ plugins:
       position: beforeBody
       priority: 20
   - source: github:quartz-community/tag-list
-    enabled: false
+    enabled: true
     layout:
       position: beforeBody
       priority: 30
@@ -218,10 +241,10 @@ plugins:
     options:
       provider: giscus
       options:
-        repo: masri/masri.blog
-        repoId: ""
+        repo: masri-programmer/masri.blog
+        repoId: R_kgDOONST2Q
         category: Announcements
-        categoryId: ""
+        categoryId: DIC_kwDOONST2c4Co7lM
         mapping: pathname
         strict: false
         reactionsEnabled: true
@@ -233,12 +256,11 @@ plugins:
     layout:
       position: afterBody
       priority: 10
-  - source: github:quartz-community/footer
+  - source: ./quartz/components/Footer.tsx
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        GitHub: https://github.com/Masri-Programmer/masri.blog
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
@@ -300,12 +322,16 @@ layout:
     folder:
       exclude:
         - reader-mode
-      positions:
-        right: []
+        - tag-list
+        - graph
+        - table-of-contents
+        - backlinks
     tag:
       exclude:
         - reader-mode
-      positions:
-        right: []
+        - tag-list
+        - graph
+        - table-of-contents
+        - backlinks
     canvas: {}
     bases: {}

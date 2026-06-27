@@ -308,7 +308,8 @@ function findPluginByPackageName(packageName: string): string | null {
  */
 function trySymlink(target: string, linkPath: string): void {
   try {
-    fs.symlinkSync(target, linkPath, "dir")
+    const type = process.platform === "win32" ? "junction" : "dir"
+    fs.symlinkSync(target, linkPath, type)
   } catch (err: unknown) {
     if ((err as NodeJS.ErrnoException).code === "EEXIST") return
     throw err
@@ -439,14 +440,18 @@ export async function installPlugin(
       }
     }
 
-    // Clean up if force reinstall or existing non-symlink entry
-    if (fs.existsSync(pluginDir)) {
+    // Clean up existing entry (handles broken symlinks properly where existsSync returns false)
+    try {
       const stat = fs.lstatSync(pluginDir)
       if (stat.isSymbolicLink()) {
         fs.unlinkSync(pluginDir)
-      } else {
+      } else if (stat.isDirectory()) {
         fs.rmSync(pluginDir, { recursive: true })
+      } else {
+        fs.unlinkSync(pluginDir)
       }
+    } catch {
+      // Doesn't exist, proceed
     }
 
     // Ensure parent directory exists
@@ -459,7 +464,18 @@ export async function installPlugin(
       console.log(styleText("cyan", `→`), `Linking ${spec.name} from ${spec.repo}...`)
     }
 
-    fs.symlinkSync(spec.repo, pluginDir, "dir")
+    const isFile = fs.statSync(spec.repo).isFile()
+    if (isFile) {
+      try {
+        fs.symlinkSync(spec.repo, pluginDir, "file")
+      } catch (err) {
+        // Fallback to copy if symlink fails (e.g. no developer mode/admin rights on Windows)
+        fs.copyFileSync(spec.repo, pluginDir)
+      }
+    } else {
+      const type = process.platform === "win32" ? "junction" : "dir"
+      fs.symlinkSync(spec.repo, pluginDir, type)
+    }
 
     if (options.verbose) {
       console.log(styleText("green", `✓`), `Linked ${spec.name}`)
