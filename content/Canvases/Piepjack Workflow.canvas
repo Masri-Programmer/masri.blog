@@ -8,7 +8,7 @@
 		{"id":"pj30000000000001","type":"group","x":0,"y":1100,"width":1300,"height":1600,"color":"4","label":"3. Delivery & Results"},
 		{"id":"pj30000000000002","type":"text","text":"### What Piepjack Got\n\n- **Performance-First UX:** Vite asset bundling and CompressX image optimization guarantee lightning-fast load times.\n- **Data Sovereignty:** Complete GDPR compliance out-of-the-box.\n- **Custom Administration:** A tailored FilamentPHP dashboard allows the brand to manage inventory, orders, and lookbooks seamlessly.\n- **Scalable E-Commerce:** Secure Stripe checkout and zero SaaS transaction fees.","x":40,"y":1140,"width":780,"height":370},
 		{"id":"pj30000000000003","type":"file","file":"Projects/Piepjack.md","x":860,"y":1140,"width":400,"height":370},
-		{"id":"aba376c9b243a00b","type":"file","file":"Pasted image 20260627115202.png","x":40,"y":1550,"width":1220,"height":1100},
+		{"id":"aba376c9b243a00b","type":"file","file":"Assets/Img/Piepjack/Pasted image 20260627115202.png","x":40,"y":1550,"width":1220,"height":1100},
 		{"id":"pj10000000000004","type":"group","x":1400,"y":0,"width":730,"height":1550,"color":"3","label":"Client WhatsApp Messages"},
 		{"id":"pj10000000000005","type":"file","file":"Assets/Img/Piepjack/WhatsApp Image 2026-06-26 at 1.56.23 PM.jpeg","x":1440,"y":40,"width":650,"height":1470}
 	],

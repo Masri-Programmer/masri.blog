@@ -18,4 +18,11 @@ This section outlines the development of a high-performance, GDPR-compliant fash
 
 ![[Canvases/Piepjack Workflow.canvas]]
 
+---
 
+## Project 3: HK Energieberatung (Sustainable Energy Solutions)
+
+### Client Request & Delivery Workflow
+This section illustrates the web presence developed for certified energy consultants in Bremen, featuring the VILT stack implementation.
+
+![[Canvases/Hk-Energieberatung Workflow.canvas]]
