@@ -7,6 +7,17 @@ This section visually maps out exactly what the client asked for (via WhatsApp a
 
 ![[Canvases/Maison Anthony Workflow.canvas]]
 
+
+
+---
+
+## Project 2: Piepjack Clothing (Bespoke E-Commerce Architecture)
+
+### Client Request & Delivery Workflow
+This section outlines the development of a high-performance, GDPR-compliant fashion platform built with the VILT stack for Piepjack Clothing.
+
+![[Canvases/Piepjack Workflow.canvas]]
+
 ---
 
 ## Next Project: [Client Name/Project Title]
