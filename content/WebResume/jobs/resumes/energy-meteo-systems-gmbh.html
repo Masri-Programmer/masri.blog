@@ -1,0 +1,663 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- Primary Meta Tags -->
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="robots" content="index, follow" />
+  <meta name="description" content="Mohamad Masri's Resume" />
+  <meta name="author" content="Mohamad Masri" />
+  <title>Mohamad Masri - Resume</title>
+  <link rel="canonical" href="https://masri.blog/" />
+  <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:title" content="Mohamad Masri" />
+  <meta property="og:description" content="Short preview text." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://masri.blog" />
+  <!-- <meta property="og:image" content="https://masri.blog/preview.jpg"> -->
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Mohamad Masri" />
+  <meta name="twitter:description" content="Preview text for Twitter." />
+  <!-- <meta name="twitter:image" content="https://masri.blog/preview.jpg"> -->
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Lato&family=Playfair+Display+SC&display=swap" rel="stylesheet" />
+
+  <!-- Tailwind CDN (for prototyping only) -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>tailwind.config = {
+      darkMode: "class", theme: { extend: {}, },
+    };</script>
+
+  </style>
+</head>
+
+<body id="pdf-content"
+  class="text-stone-900 font-sans leading-relaxed bg-stone-100 dark:bg-stone-800 dark:text-neutral-300 overflow-x-hidden">
+
+  <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Mohamad Masri",
+        "url": "https://masri.blog",
+        "description": "Mohamad Masri's professional resume showcasing work experience in software development, technical skills in frontend and backend technologies, education, and projects."
+      }
+    </script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+
+  <!-- Custom Styles -->
+  <link rel="stylesheet" href="./style.css">
+    <div
+      id="resumeContent"
+      class="max-w-4xl mx-auto p-6 bg-stone-50 shadow-md dark:bg-stone-950 overflow-hidden"
+    >
+      <header id="header" class="border-b pb-6 mb-6">
+        <!-- Section: Header -->
+        <div
+          class="relative flex flex-col items-center gap-4 sm:flex-row sm:justify-start sm:gap-6 md:gap-10"
+        >
+          <img
+            class="h-16 w-16 rounded-full object-cover sm:h-16 sm:w-16"
+            src="https://resume.masri.blog/profile.jpg"
+            alt="Avatar"
+          />
+          <div class="grow w-full text-center sm:text-start">
+            <h3 class="text-2xl font-bold md:text-3xl">Mohamad Masri</h3>
+            <div
+              class="flex flex-col items-center sm:flex-row sm:items-baseline w-full text-center md:text-start mt-1"
+            >
+              <p>
+                Oldenburg, Germany |
+                <a target="_blank" href="mailto:hallo@masri-programmer.de"
+                  >hallo@masri-programmer.de</a
+                >
+                |
+                <a target="_blank" href="https://masri.blog">masri.blog</a> |
+                <a target="_blank" href="https://masri-programmer.de"
+                  >masri-programmer.de</a
+                >
+              </p>
+            </div>
+          </div>
+        </div>
+      </header>
+
+      <section id="work-experience" class="mb-4 md:mb-8">
+        <!-- Section: Work Experience -->
+        <h2
+          class="text-xl font-semibold mb-2 title-font"
+          data-lang-en="Work Experience"
+          data-lang-de="Berufserfahrung"
+        >
+          Work Experience
+        </h2>
+        <div class="mb-6">
+          <h3 class="font-bold">
+            <span
+              data-lang-en="Freelance Full Stack Developer & System Admin"
+              data-lang-de="Freelance Full-Stack-Entwickler & Systemadministrator"
+            >
+              Freelance Full Stack Developer & System Admin
+            </span>
+          </h3>
+          <p class="text-sm text-gray-600">
+            <span
+              data-lang-en="May 2020 – Present"
+              data-lang-de="Mai 2020 – Heute"
+              >May 2020 – Present</span
+            >
+          </p>
+          <ul class="list-disc ml-5 mt-2 text-sm">
+            <li
+              data-lang-en="Python & Programming Tutoring – Taught Python and programming fundamentals, including Clean Code concepts and software engineering principles, to university students."
+              data-lang-de="Python- & Programmier-Nachhilfe – Unterrichtete Python und Programmiergrundlagen, einschließlich Clean-Code-Konzepten und Software-Engineering-Prinzipien, für Studenten."
+            >
+              Python & Programming Tutoring – Taught Python and programming
+              fundamentals, including Clean Code concepts and software
+              engineering principles.
+            </li>
+            <li
+              data-lang-en="Infrastructure Tooling & DevOps – Managed self-hosted Linux infrastructure (Uberspace) including automation scripts, database management, backups, and maintenance for robust SaaS deployment."
+              data-lang-de="Infrastructure Tooling & DevOps – Verwaltung einer selbst gehosteten Linux-Infrastruktur (Uberspace) inkl. Automatisierungsskripten, Datenbankmanagement und Backups für robuste SaaS-Bereitstellungen."
+            >
+              Infrastructure Tooling & DevOps – Managed self-hosted Linux
+              infrastructure including automation scripts and backups for robust
+              SaaS deployment.
+            </li>
+            <li
+              data-lang-en="CI/CD Pipeline – Containerised applications with Docker and automated deployments via GitHub Actions, enabling efficient continuous delivery for cloud-based software."
+              data-lang-de="CI/CD-Pipeline – Containerisierung von Anwendungen mit Docker und automatisierte Deployments via GitHub Actions für effiziente Continuous-Delivery von Cloud-Software."
+            >
+              CI/CD Pipeline – Containerised applications with Docker and
+              automated deployments via GitHub Actions, enabling clean
+              continuous delivery.
+            </li>
+            <li
+              data-lang-en="VILT Stack Development – Built custom dashboards with data visualization (Google Analytics/Tag Manager integration) and optimized frontend for scientific data presentation."
+              data-lang-de="VILT-Stack-Entwicklung – Erstellung maßgeschneiderter Dashboards mit Datenvisualisierung (Google Analytics/Tag Manager) und optimiertem Frontend für wissenschaftliche Datendarstellung."
+            >
+              VILT Stack Development – Built custom dashboards with data
+              visualization and optimized frontend for scientific data
+              presentation.
+            </li>
+            <li
+              data-lang-en="AI-Powered Content – Integrated AI review generation using local models (Ollama) and cloud LLMs to enhance data enrichment pipelines."
+              data-lang-de="KI-gestützte Inhalte – Integration von KI-Bewertungsgenerierung mit lokalen Modellen (Ollama) und Cloud-LLMs zur Verbesserung von Datenanreicherungspipelines."
+            >
+              AI-Powered Content – Integrated AI review generation using local
+              models (Ollama) and cloud LLMs.
+            </li>
+          </ul>
+        </div>
+        <div class="mb-6">
+          <h3 class="font-bold">
+            <span
+              data-lang-en="Software Developer (REST APIs & Database Tuning)"
+              data-lang-de="Softwareentwickler (REST APIs & Datenbank-Tuning)"
+              >Software Developer (REST APIs & Database Tuning)</span
+            >
+            – Meinders & Elstermann GmbH & Co. KG (Hybrid)
+          </h3>
+          <p
+            class="text-sm text-gray-600"
+            data-lang-en-p="Apr 2024 – Present"
+            data-lang-de-p="Apr. 2024 – Heute"
+          >
+            Apr 2024 – Present
+          </p>
+          <ul class="list-disc ml-5 mt-2 text-sm">
+            <li
+              data-lang-en="REST API & Microservices – Developed scalable REST APIs and microservice-oriented components using Laravel and Vue.js for 35+ enterprise systems, ensuring robust inter-system communication."
+              data-lang-de="REST API & Microservices – Entwicklung skalierbarer REST APIs und Microservice-orientierter Komponenten mit Laravel/Vue.js für über 35 Enterprise-Systeme zur robusten Systemkommunikation."
+            >
+              REST API & Microservices – Developed scalable REST APIs and
+              microservice components for 35+ enterprise systems.
+            </li>
+            <li
+              data-lang-en="Database Performance & Tuning – Reduced database query execution time by 40% through advanced Redis caching strategies and optimized Eloquent ORM relationships."
+              data-lang-de="Datenbank-Performance & Tuning – Reduzierung der Datenbankabfragezeit um 40 % durch fortgeschrittene Redis-Caching-Strategien und optimierte Eloquent-ORM-Beziehungen."
+            >
+              Database Performance & Tuning – Reduced database query execution
+              time by 40% via Redis caching and optimized ORM relationships.
+            </li>
+            <li
+              data-lang-en="Enterprise System Management – Managing complex Shopware, Pimcore, and Symfony systems; actively utilizing S3, OpenSearch, and MariaDB for high-availability data storage."
+              data-lang-de="Enterprise-Systemverwaltung – Betreuung komplexer Shopware-, Pimcore- und Symfony-Systeme; aktive Nutzung von S3, OpenSearch und MariaDB für hochverfügbare Datenspeicherung."
+            >
+              Enterprise System Management – Managing complex Symfony-based
+              systems; utilizing S3 and OpenSearch for data storage.
+            </li>
+            <li
+              data-lang-en="Performance Optimization & Background Jobs – Cut page load time by 15s by eliminating N+1 queries and migrating heavy data pipelines to queued background jobs (Horizon)."
+              data-lang-de="Performance-Optimierung – Reduzierung der Ladezeit um 15s durch Beseitigung von N+1-Abfragen und Migration schwerer Daten-Pipelines in Hintergrund-Jobs (Queues)."
+            >
+              Performance Optimization – Cut page load time by 15s by offloading
+              heavy data pipelines to queued background jobs.
+            </li>
+            <li
+              data-lang-en="CI/CD & Container Platforms – Containerised Laravel/Vue apps with Docker; established automated GitHub Actions pipelines to streamline deployment to cloud platforms (Upsun)."
+              data-lang-de="CI/CD & Container-Plattformen – Containerisierung von Anwendungen mit Docker; Einrichtung automatisierter GitHub Actions-Pipelines zur Bereitstellung auf Cloud-Plattformen (Upsun)."
+            >
+              CI/CD & Container Platforms – Containerised apps with Docker and
+              established automated GitHub Actions pipelines.
+            </li>
+            <li
+              data-lang-en="Clean Code & Software Architecture – Applied SOLID principles and design patterns to build robust, secure, and maintainable software for long-term scalability."
+              data-lang-de="Clean Code & Software-Architektur – Anwendung von SOLID-Prinzipien und Design-Patterns zum Bau robuster, sicherer und wartbarer Software für langfristige Skalierbarkeit."
+            >
+              Clean Code & Software Architecture – Applied SOLID principles to
+              build robust, secure, and maintainable software.
+            </li>
+          </ul>
+        </div>
+
+        <div class="mb-6">
+          <h3 class="font-bold">Full Stack Developer – Brainkets (Hybrid)</h3>
+          <p class="text-sm text-gray-600">Jul 2022 – Sep 2023</p>
+          <ul class="list-disc ml-5 mt-2 text-sm">
+            <li
+              data-lang-en="Frontend Development & Data Visualization – Developed interactive UIs and data visualization components using React.js and Next.js, translating complex data into intuitive dashboards."
+              data-lang-de="Frontend-Entwicklung & Datenvisualisierung – Entwicklung interaktiver UIs und Datenvisualisierungskomponenten mit React.js/Next.js zur Darstellung komplexer Daten in Dashboards."
+            >
+              Frontend Development & Data Visualization – Developed interactive
+              UIs and data visualization components using React.js and Next.js.
+            </li>
+            <li
+              data-lang-en="Backend Development & API Integration – Built robust backend components and REST APIs with PHP and Yii2, following object-oriented programming standards."
+              data-lang-de="Backend-Entwicklung & API-Integration – Erstellung robuster Backend-Komponenten und REST APIs mit PHP/Yii2 unter Einhaltung von OOP-Standards."
+            >
+              Backend Development & API Integration – Built backend components
+              and REST APIs with PHP and Yii2.
+            </li>
+            <li
+              data-lang-en="Agile Collaboration & Version Control – Actively contributed to sprint planning and code reviews within an Agile team (GitHub, Git, SDLC)."
+              data-lang-de="Agile Zusammenarbeit & Versionskontrolle – Aktiver Beitrag zu Sprint-Planung und Code-Reviews in einer agilen Teamumgebung."
+            >
+              Agile Collaboration – Actively contributed to software development
+              within an Agile team environment.
+            </li>
+            <li
+              data-lang-en="Infrastructure & SEO – Enhanced application performance and search engine discoverability through server-side rendering (SSR) and optimized metadata."
+              data-lang-de="Infrastruktur & SEO – Verbesserung der Performance und Auffindbarkeit durch SSR und optimierte Metadaten."
+            >
+              Infrastructure & SEO – Enhanced performance and discoverability
+              through SSR and optimized metadata.
+            </li>
+          </ul>
+        </div>
+      </section>
+
+      <section id="technical-skills" class="mb-4 md:mb-8">
+        <!-- Section: Technical Skills -->
+        <h2
+          class="text-xl font-semibold mb-2"
+          data-lang-en="Technical Skills"
+          data-lang-de="Technische Fähigkeiten"
+        >
+          Technical Skills
+        </h2>
+        <div class="text-sm grid gap-1 space-y-2">
+          <div>
+            <h4
+              class="font-semibold"
+              data-lang-en="Languages & Paradigms"
+              data-lang-de="Sprachen & Paradigmen"
+            >
+              Languages & Paradigms
+            </h4>
+            <ul class="list-disc ml-5">
+              <li>
+                <strong>Python</strong> (Tutoring, Scripting, Automation) ·
+                <strong>PHP 8+</strong> (Laravel, Symfony)
+              </li>
+              <li>
+                <strong>TypeScript / JavaScript</strong> (ES6+, Vue.js, React) ·
+                Java (Fundamentals)
+              </li>
+              <li>
+                Object-Oriented Programming (OOP) · SOLID · Design Patterns
+              </li>
+            </ul>
+          </div>
+
+          <div>
+            <h4
+              class="font-semibold"
+              data-lang-en="Backend & Data Management"
+              data-lang-de="Backend & Datenmanagement"
+            >
+              Backend & Data Management
+            </h4>
+            <ul class="list-disc ml-5">
+              <li>
+                <strong>REST APIs</strong> · <strong>GraphQL</strong> ·
+                <strong>Database Tuning</strong> (MySQL, MariaDB, Redis)
+              </li>
+              <li>
+                <strong>Message Queues</strong> (Redis/Horizon, familiarity with
+                Kafka concepts)
+              </li>
+              <li>
+                <strong>Data Pipelines</strong> ·
+                <strong>Time Series Awareness</strong> · OpenSearch · AWS S3
+              </li>
+            </ul>
+          </div>
+
+          <div>
+            <h4
+              class="font-semibold"
+              data-lang-en="Infrastructure & DevOps"
+              data-lang-de="Infrastruktur & DevOps"
+            >
+              Infrastructure & DevOps
+            </h4>
+            <ul class="list-disc ml-5">
+              <li>
+                <strong>Docker</strong> ·
+                <strong>GitHub Actions (CI/CD)</strong> ·
+                <strong>Infrastructure Tooling</strong>
+              </li>
+              <li>
+                Linux (Nginx, Apache) · Cloud Platforms (Upsun, Platform.sh)
+              </li>
+              <li>Kubernetes (Learning/Concepts) · GitFlow · Lazygit</li>
+            </ul>
+          </div>
+
+          <div>
+            <h4
+              class="font-semibold"
+              data-lang-en="Frontend & Visualization"
+              data-lang-de="Frontend & Visualisierung"
+            >
+              Frontend & Visualisierung
+            </h4>
+            <ul class="list-disc ml-5">
+              <li>
+                <strong>Vue.js</strong> · <strong>React.js</strong> ·
+                <strong>Inertia.js</strong> · <strong>Tailwind CSS</strong>
+              </li>
+              <li>
+                <strong>Data Visualization</strong> (Google Charts, Custom
+                Dashboards) · Figma
+              </li>
+            </ul>
+          </div>
+
+          <div>
+            <h4
+              class="font-semibold"
+              data-lang-en="Competences"
+              data-lang-de="Kompetenzen"
+            >
+              Competences
+            </h4>
+            <ul class="list-disc ml-5">
+              <li
+                data-lang-en="Independent, solution-oriented, and responsible work style"
+                data-lang-de="Selbstständige, lösungsorientierte und verantwortungsbewusste Arbeitsweise"
+              >
+                Independent, solution-oriented, and responsible work style
+              </li>
+              <li
+                data-lang-en="Strong problem-solving ability & IT-affinity"
+                data-lang-de="Hohe Problemlösungsfähigkeit & IT-Affinität"
+              >
+                Strong problem-solving ability & IT-affinity
+              </li>
+              <li
+                data-lang-en="Motivated to contribute to the 'Energiewende' (Energy Transition)"
+                data-lang-de="Motiviert, einen Beitrag zur Energiewende zu leisten"
+              >
+                Motivated to contribute to the 'Energiewende' (Energy
+                Transition)
+              </li>
+            </ul>
+          </div>
+        </div>
+      </section>
+      <section id="education" class="mb-4 md:mb-8">
+        <!-- Section: Education -->
+        <h2
+          class="text-xl font-semibold mb-2"
+          data-lang-en="Education"
+          data-lang-de="Bildung"
+        >
+          Education
+        </h2>
+        <p>
+          <strong>
+            <span
+              >Bachelor of Science (B.Sc.) in Computer Science
+              (Informatik)</span
+            >
+          </strong>
+          <span
+            class="text-sm text-gray-600"
+            data-lang-en="- GPA: 3.44 / 4.0"
+            data-lang-de="- Noten: 1.8"
+          >
+            - Noten: 1.8
+          </span>
+        </p>
+        <p
+          class="text-sm mt-2"
+          data-lang-en="Focused on OOP, data structures, algorithm design, and complexity analysis – foundational for robust software engineering."
+          data-lang-de="Fokus auf OOP, Datenstrukturen, Algorithmenentwurf und Komplexitätsanalyse – Grundlage für robustes Software-Engineering."
+        >
+          Focused on OOP, data structures, algorithm design, and complexity
+          analysis – foundational for robust software engineering.
+        </p>
+      </section>
+
+      <section id="academic-achievements" class="mb-4 md:mb-8">
+        <!-- Section: Academic Achievements -->
+        <h2
+          class="text-xl font-semibold mb-2"
+          data-lang-en="Academic Achievements"
+          data-lang-de="Akademische Leistungen"
+        >
+          Academic Achievements
+        </h2>
+        <ul class="list-disc ml-5 text-sm">
+          <li
+            data-lang-en="Dean’s Honor List – Recognized for top academic performance"
+            data-lang-de="Dean’s List – Anerkennung für herausragende akademische Leistungen"
+          >
+            Dean’s Honor List – Recognized for top academic performance
+          </li>
+          <li
+            data-lang-en="Completed specialized courses in Software Design Patterns, Testing, and Scalable Backend Architecture"
+            data-lang-de="Absolvierte Spezialkurse in Software-Designmustern, Testing und skalierbarer Backend-Architektur"
+          >
+            Completed specialized courses in Software Design Patterns, Testing,
+            and Scalable Backend Architecture
+          </li>
+        </ul>
+      </section>
+
+      <div class="projects grid grid-cols-2 gap-5">
+        <!-- Section: Projects -->
+        <section id="projects" class="mb-4 md:mb-8">
+          <!-- Section: Projects -->
+          <h2
+            class="text-xl font-semibold mb-2"
+            data-lang-en="Projects"
+            data-lang-de="Projekte"
+          >
+            Projects
+          </h2>
+          <p class="text-sm">
+            <span
+              data-lang-en="For an overview of my projects including data-driven applications, please visit:"
+              data-lang-de="Für einen Überblick über meine Projekte, einschließlich datengetriebener Anwendungen, besuchen Sie bitte:"
+              >For an overview of my projects including data-driven
+              applications, please visit:</span
+            >
+            <a
+              target="_blank"
+              href="https://masri.blog/Projects/Main"
+              class="text-blue-200 underline hover:text-blue-300"
+            >
+              masri.blog/Projects/Main</a
+            >
+          </p>
+        </section>
+        <section id="languages" class="mb-4 md:mb-8">
+          <!-- Section: Languages -->
+          <h2
+            class="text-xl font-semibold mb-2 title-font"
+            data-lang-en="Languages"
+            data-lang-de="Sprachen"
+          >
+            Languages
+          </h2>
+          <ul class="ml-1 text-sm space-y-1">
+            <li>English (Advanced)</li>
+            <li>German (B2 Level)</li>
+            <li>Arabic (Native)</li>
+          </ul>
+        </section>
+      </div>
+
+      <blockquote cite="http://www.masri.blog" class="text-sm">
+        <!-- Blockquote -->
+        "Driven by a passion for solving complex problems and contributing to
+        sustainable technological advancements, I aim to leave a green footprint
+        through robust software engineering."
+      </blockquote>
+    </div>
+    <footer
+      id="footer"
+      class="text-center text-xs text-gray-500 mt-10 fixed bottom-0 right-0 px-2 pt-2 text-xs text-gray-600 z-[9999]"
+    >
+      <div class="print-signature">
+        <a
+          href="https://resume.masri.blog"
+          target="_blank"
+          rel="noopener noreferrer"
+          >https://resume.masri.blog</a
+        >
+      </div>
+    </footer>
+
+    <div class="fixed top-4 right-4 flex flex-col space-y-3 no-print">
+      <button
+        onClick="switchLanguage()"
+        class="flex items-center justify-center p-2 bg-gray-200 rounded-lg shadow-md"
+      >
+        <i data-lucide="languages" class="w-5 h-5"></i>
+      </button>
+      <button
+        id="theme-toggle"
+        class="flex items-center justify-center p-2 bg-gray-200 rounded-lg shadow-md"
+      >
+        <i data-lucide="sun-moon" class="w-5 h-5"></i>
+      </button>
+      <button
+        onClick="window.print()"
+        class="flex items-center justify-center p-2 bg-gray-200 rounded-lg shadow-md"
+      >
+        <i data-lucide="Printer" class="w-5 h-5"></i>
+      </button>
+      <button
+        onclick="downloadPdfHandler()"
+        id="downloadPdf"
+        class="flex items-center justify-center p-2 bg-gray-200 rounded-lg shadow-md"
+      >
+        <i data-lucide="Download" class="w-5 h-5"></i>
+      </button>
+    </div>
+  </body>
+</html>
+<!-- Production version -->
+<script src="https://unpkg.com/lucide@latest"></script>
+<script>
+  lucide.createIcons();
+</script>
+<!-- Toggle Theme -->
+<script>
+  const themeToggleBtn = document.getElementById("theme-toggle");
+  const htmlElement = document.documentElement;
+
+  function setTheme(theme) {
+    if (theme === "dark") {
+      htmlElement.classList.add("dark");
+      localStorage.setItem("theme", "dark");
+    } else {
+      htmlElement.classList.remove("dark");
+      localStorage.setItem("theme", "light");
+    }
+  }
+
+  const storedTheme = localStorage.getItem("theme");
+  if (storedTheme) {
+    setTheme(storedTheme);
+  } else if (window.matchMedia("(prefers-color-scheme: dark)").matches) {
+    setTheme("dark");
+  } else {
+    setTheme("light");
+  }
+
+  themeToggleBtn.addEventListener("click", () => {
+    if (htmlElement.classList.contains("dark")) {
+      setTheme("light");
+    } else {
+      setTheme("dark");
+    }
+  });
+</script>
+
+<!-- Toggle Language -->
+<script>
+  function switchLanguage() {
+    const languages = ["de", "en"];
+    let currentLang = localStorage.getItem("lang") || "en";
+
+    const newLang = currentLang === "en" ? "de" : "en";
+    localStorage.setItem("lang", newLang);
+
+    applyLanguage(newLang);
+  }
+
+  function applyLanguage(lang) {
+    document.documentElement.lang = lang;
+
+    const elements = document.querySelectorAll("[data-lang-en]");
+    elements.forEach((el) => {
+      const text = el.getAttribute(`data-lang-${lang}`);
+      if (text) el.textContent = text;
+    });
+  }
+
+  document.addEventListener("DOMContentLoaded", () => {
+    const savedLang = localStorage.getItem("lang") || "en";
+    applyLanguage(savedLang);
+  });
+</script>
+
+<!-- Download Function -->
+<script>
+  function downloadPdfHandler() {
+    const resumeElement = document.getElementById("resumeContent");
+
+    document.body.classList.add("pdf-export-active");
+
+    html2canvas(resumeElement, {
+      scale: 2,
+      useCORS: true,
+      backgroundColor: window
+        .getComputedStyle(document.body)
+        .getPropertyValue("background-color"),
+    })
+      .then((canvas) => {
+        const imgData = canvas.toDataURL("image/png");
+        const { jsPDF } = window.jspdf;
+        const pdf = new jsPDF({
+          orientation: "portrait",
+          unit: "pt",
+          format: "a4",
+        });
+
+        const imgProps = pdf.getImageProperties(imgData);
+        const pdfWidth = pdf.internal.pageSize.getWidth();
+        const pdfHeight = pdf.internal.pageSize.getHeight();
+
+        const bottomMargin = 10;
+
+        const usablePdfPageHeight = pdfHeight - bottomMargin;
+
+        const imgHeightInPdf = (imgProps.height * pdfWidth) / imgProps.width;
+
+        let heightLeft = imgHeightInPdf;
+        let position = 0;
+
+        // Add the first page
+        pdf.addImage(imgData, "PNG", 0, position, pdfWidth, imgHeightInPdf);
+        heightLeft -= usablePdfPageHeight;
+
+        while (heightLeft > 0) {
+          position = heightLeft - imgHeightInPdf;
+          pdf.addPage();
+          pdf.addImage(imgData, "PNG", 0, position, pdfWidth, imgHeightInPdf);
+          heightLeft -= usablePdfPageHeight;
+        }
+        pdf.save("01-CV-Mohamad-Masri.pdf");
+      })
+      .catch((err) => {
+        console.error("Error generating PDF:", err);
+      })
+      .finally(() => {
+        document.body.classList.remove("pdf-export-active");
+      });
+  }
+</script>

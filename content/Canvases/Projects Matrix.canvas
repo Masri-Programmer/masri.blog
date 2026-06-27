@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"type":"group","id":"p_col_high","x":-840,"y":-40,"width":923,"height":2080,"color":"1","label":"🔥 High Priority"},
+		{"type":"group","id":"p_col_medium","x":160,"y":-40,"width":923,"height":2080,"color":"3","label":"🟡 Medium Priority"},
+		{"type":"group","id":"p_col_low","x":1160,"y":-40,"width":923,"height":2080,"color":"5","label":"🟢 Low Priority"},
+		{"type":"group","id":"p_row_active","x":-1040,"y":40,"width":3179,"height":600,"color":"4","label":"🟢 Active Projects"},
+		{"type":"group","id":"p_row_hold","x":-1040,"y":720,"width":3179,"height":600,"color":"2","label":"🟡 On-Hold / Paused"},
+		{"type":"group","id":"p_row_backlog","x":-1040,"y":1400,"width":3179,"height":600,"color":"6","label":"📁 Backlog / Future"},
+		{"type":"file","id":"p_sidebar_dashboard","file":"Projects/Project Dashboard.md","x":-2880,"y":40,"width":1760,"height":1880},
+		{"type":"file","id":"p_file_medeva","file":"Projects/Medeva.md","x":260,"y":140,"width":320,"height":200},
+		{"type":"file","id":"p_file_timesquare","file":"Projects/Timesquare.md","x":640,"y":140,"width":320,"height":200},
+		{"type":"file","id":"p_file_flyerheaven","file":"Projects/Flyerheaven.md","x":260,"y":380,"width":320,"height":200},
+		{"type":"file","id":"p_file_amazon","file":"Projects/Amazon.md","x":640,"y":380,"width":320,"height":200},
+		{"type":"file","id":"p_file_start_project","file":"Projects/Starting a New Project.md","x":1260,"y":140,"width":320,"height":200}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

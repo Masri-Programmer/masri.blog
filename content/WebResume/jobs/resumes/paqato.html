@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+  <!-- Primary Meta Tags -->
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="robots" content="index, follow" />
+  <meta name="description" content="Mohamad Masri's Resume - Senior Backend Engineer (Laravel/PHP)" />
+  <meta name="author" content="Mohamad Masri" />
+  <title>Mohamad Masri - Senior Backend Engineer - PAQATO</title>
+  <link rel="canonical" href="https://masri.blog/" />
+  <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:title" content="Mohamad Masri" />
+  <meta property="og:description" content="Senior Software Engineer spezialisiert auf PHP/Laravel und skalierbare Backend-Architekturen." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://masri.blog" />
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Lato&family=Playfair+Display+SC&display=swap" rel="stylesheet" />
+
+  <!-- Tailwind CDN (for prototyping only) -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>tailwind.config = {
+      darkMode: "class", theme: { extend: {}, },
+    };</script>
+
+</head>
+
+<body id="pdf-content"
+  class="text-stone-900 font-sans leading-relaxed bg-stone-100 dark:bg-stone-800 dark:text-neutral-300 overflow-x-hidden">
+
+  <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Mohamad Masri",
+        "url": "https://masri.blog",
+        "description": "Mohamad Masri's professional resume showcasing work experience in PHP/Laravel backend development, technical skills, and AI integration."
+      }
+    </script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+
+  <!-- Custom Styles -->
+  <link rel="stylesheet" href="../../style.css">
+
+  <div id="resumeContent" class="max-w-4xl mx-auto p-6 bg-stone-50 shadow-md dark:bg-stone-950 overflow-hidden">
+
+    <header id="header" class="border-b pb-6 mb-6"> <!-- Section: Header -->
+      <div class="relative flex flex-col items-center gap-4 sm:flex-row sm:justify-start sm:gap-6 md:gap-10">
+        <img class="h-16 w-16 rounded-full object-cover sm:h-16 sm:w-16" src="https://resume.masri.blog/profile.jpg" alt="Avatar" />
+        <div class="grow w-full text-center sm:text-start">
+          <h3 class="text-2xl font-bold md:text-3xl">Mohamad Masri</h3>
+          <div class="flex flex-col items-center sm:flex-row sm:items-baseline w-full text-center md:text-start mt-1">
+            <p>
+              Oldenburg, Deutschland |
+              <a target="_blank" href="mailto:hallo@masri-programmer.de">hallo@masri-programmer.de</a>
+              |
+              <a target="_blank" href="https://masri.blog">masri.blog</a>     |
+              <a target="_blank" href="https://masri-programmer.de">masri-programmer.de</a>
+            </p>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <section id="work-experience" class="mb-4 md:mb-8"> <!-- Section: Work Experience -->
+      <h2 class="text-xl font-semibold mb-2 title-font" data-lang-en="Work Experience" data-lang-de="Berufserfahrung">
+        Berufserfahrung
+      </h2>
+      <div class="mb-6">
+        <h3 class="font-bold">
+          <span data-lang-en="Freelance Senior Backend Developer & System Admin" 
+                data-lang-de="Senior Backend-Entwickler & Systemadministrator (Freelance)">
+            Senior Backend-Entwickler & Systemadministrator (Freelance)
+          </span>
+        </h3>
+        <p class="text-sm text-gray-600">
+             <span data-lang-en="May 2020 – Present" data-lang-de="Mai 2020 – Heute">Mai 2020 – Heute</span>
+        </p>
+        <ul class="list-disc ml-5 mt-2 text-sm">
+          <li data-lang-en="Architektur & API-Design – Entwurf modularer Laravel-Architekturen für E-Commerce-Systeme (Lunar, FilamentPHP); Implementierung robuster RESTful APIs mit Fokus auf Skalierbarkeit."
+              data-lang-de="Architektur & API-Design – Entwurf modularer Laravel-Architekturen für E-Commerce-Systeme (Lunar, FilamentPHP); Implementierung robuster RESTful APIs mit Fokus auf Skalierbarkeit.">
+            Architektur &amp; API-Design – Entwurf modularer <strong>Laravel</strong>-Architekturen für E-Commerce-Systeme; Implementierung robuster <strong>RESTful APIs</strong> mit Fokus auf Skalierbarkeit.
+          </li>
+          <li data-lang-en="Infrastruktur & Cloud – Management von Container-basierten Umgebungen mit Docker; Automatisierung von CI/CD-Pipelines via GitHub Actions für zuverlässige Releases."
+              data-lang-de="Infrastruktur & Cloud – Management von Container-basierten Umgebungen mit Docker; Automatisierung von CI/CD-Pipelines via GitHub Actions für zuverlässige Releases.">
+            Infrastruktur &amp; Cloud – Management von Container-basierten Umgebungen mit <strong>Docker</strong>; Automatisierung von <strong>CI/CD-Pipelines</strong> via GitHub Actions.
+          </li>
+          <li data-lang-en="AI-Integration & Agentische Workflows – Entwicklung KI-gestützter Funktionen unter Nutzung von Gemini CLI, Claude Code und lokalen LLMs (Ollama) zur Prozessoptimierung."
+              data-lang-de="AI-Integration & Agentische Workflows – Entwicklung KI-gestützter Funktionen unter Nutzung von Gemini CLI, Claude Code und lokalen LLMs (Ollama) zur Prozessoptimierung.">
+            AI-Integration – Entwicklung KI-gestützter Funktionen unter Nutzung von <strong>Gemini CLI</strong>, <strong>Claude Code</strong> und <strong>Ollama</strong> zur Prozessoptimierung.
+          </li>
+          <li data-lang-en="Performance & Caching – Optimierung datenintensiver Anwendungen durch Redis-Caching und effizientes Query-Design in MySQL-Umgebungen."
+              data-lang-de="Performance & Caching – Optimierung datenintensiver Anwendungen durch Redis-Caching und effizientes Query-Design in MySQL-Umgebungen.">
+            Performance &amp; Caching – Optimierung datenintensiver Anwendungen durch <strong>Redis</strong>-Caching und effizientes Query-Design in MySQL.
+          </li>
+        </ul>
+      </div>
+      <div class="mb-6">
+        <h3 class="font-bold">
+          <span data-lang-en="Software Developer (Backend Focus)" data-lang-de="Softwareentwickler (Schwerpunkt Backend)">Softwareentwickler (Schwerpunkt Backend)</span>
+          – Meinders & Elstermann GmbH & Co. KG (Hybrid)
+        </h3>
+        <p class="text-sm text-gray-600">Apr 2024 – Heute</p>
+        <ul class="list-disc ml-5 mt-2 text-sm">
+          <li data-lang-en="Skalierbare Service-Architekturen – Betreuung von über 35 Enterprise-Systemen auf Basis von Laravel und Symfony; Reduzierung der API-Latenz um 40 % durch Architektur-Refactorings."
+              data-lang-de="Skalierbare Service-Architekturen – Betreuung von über 35 Enterprise-Systemen auf Basis von Laravel und Symfony; Reduzierung der API-Latenz um 40 % durch Architektur-Refactorings.">
+            Skalierbare Service-Architekturen – Betreuung von über 35 Enterprise-Systemen (Laravel/Symfony); Reduzierung der API-Latenz um 40 % durch Architektur-Refactorings.
+          </li>
+          <li data-lang-en="Datenmanagement & Suche – Optimierung komplexer Datenflüsse mit MariaDB und OpenSearch; Vorbereitung der Migration auf Elasticsearch-basierte Suchlösungen."
+              data-lang-de="Datenmanagement & Suche – Optimierung komplexer Datenflüsse mit MariaDB und OpenSearch; Vorbereitung der Migration auf Elasticsearch-basierte Suchlösungen.">
+            Datenmanagement – Optimierung komplexer Datenflüsse mit MariaDB und <strong>OpenSearch</strong>; Expertise in <strong>S3-Storage</strong> und verteilten Systemen.
+          </li>
+          <li data-lang-en="DevOps & Stabilität – Implementierung automatisierter Tests (Unit/Integration) und Monitoring-Lösungen zur Sicherstellung einer 99,9 %igen Systemverfügbarkeit."
+              data-lang-de="DevOps & Stabilität – Implementierung automatisierter Tests (Unit/Integration) und Monitoring-Lösungen zur Sicherstellung einer 99,9 %igen Systemverfügbarkeit.">
+            DevOps &amp; Stabilität – Implementierung automatisierter Tests (Unit/Integration) und Monitoring; Sicherstellung einer hohen Systemverfügbarkeit.
+          </li>
+          <li data-lang-en="Backend Performance – Beseitigung von N+1-Problemen und Offloading rechenintensiver Reports in Laravel Queues (Horizon), was die Seitenladezeit um 15s verbesserte."
+              data-lang-de="Backend Performance – Beseitigung von N+1-Problemen und Offloading rechenintensiver Reports in Laravel Queues (Horizon), was die Seitenladezeit um 15s verbesserte.">
+            Backend Performance – Beseitigung von N+1-Problemen und Nutzung von <strong>Laravel Queues (Horizon)</strong> zur Optimierung der Antwortzeiten.
+          </li>
+        </ul>
+      </div>
+
+<div class="mb-6">
+        <h3 class="font-bold">Full Stack Developer – Brainkets (Hybrid)</h3>
+        <p class="text-sm text-gray-600">Juli 2022 – Sep 2023</p>
+        <ul class="list-disc ml-5 mt-2 text-sm">
+          <li
+            data-lang-en="Backend-Entwicklung – Erstellung robuster PHP-Backend-Komponenten und REST APIs unter strikter Einhaltung von Clean Code und Design Patterns."
+            data-lang-de="Backend-Entwicklung – Erstellung robuster PHP-Backend-Komponenten und REST APIs unter strikter Einhaltung von Clean Code und Design Patterns.">
+            Backend-Entwicklung – Erstellung robuster PHP-Backend-Komponenten und REST APIs unter strikter Einhaltung von Clean Code und Design Patterns.
+          </li>
+          <li
+            data-lang-en="System-Integration – Anbindung von Frontend-Applikationen an verteilte Backend-Systeme via JSON/XML-Schnittstellen und SQL-Datenbanken."
+            data-lang-de="System-Integration – Anbindung von Frontend-Applikationen an verteilte Backend-Systeme via JSON/XML-Schnittstellen und SQL-Datenbanken.">
+            System-Integration – Anbindung von Frontend-Applikationen an verteilte Backend-Systeme via JSON/XML-Schnittstellen und SQL-Datenbanken.
+          </li>
+        </ul>
+      </div>
+    </section>
+
+    <section id="technical-skills" class="mb-4 md:mb-8"> <!-- Section: Technical Skills -->
+      <h2 class="text-xl font-semibold mb-2" data-lang-en="Technical Skills" data-lang-de="Technische Fähigkeiten">
+        Technische Fähigkeiten
+      </h2>
+      <div class="text-sm grid gap-1 space-y-2">
+        
+        <div>
+          <h4 class="font-semibold" data-lang-en="Backend (Primary Focus)" data-lang-de="Backend (Hauptfokus)">
+            Backend (Hauptfokus)
+          </h4>
+          <ul class="list-disc ml-5">
+            <li><strong>Laravel</strong> (Filament, Lunar, Sanctum, Horizon, Queues, MCP) · PHP 8+ · Symfony</li>
+            <li>RESTful APIs · GraphQL · Eloquent ORM · Microservices-Architektur</li>
+            <li>SQL (MySQL, MariaDB) · <strong>Redis</strong> · OpenSearch (Elasticsearch-kompatibel) · AWS S3</li>
+            <li><strong>RabbitMQ</strong> (Grundkenntnisse/Queuing-Konzepte) · Design Patterns · Clean Code</li>
+          </ul>
+        </div>
+
+        <div>
+          <h4 class="font-semibold" data-lang-en="AI & Agentic Workflows" data-lang-de="KI & Agentische Workflows">
+            KI &amp; Agentische Workflows
+          </h4>
+          <ul class="list-disc ml-5">
+            <li><strong>Gemini CLI</strong> · <strong>Claude Code</strong> · Ollama · LLM-Integrationen</li>
+            <li>Automatisierung von Entwicklungsprozessen durch KI-Agenten</li>
+          </ul>
+        </div>
+
+        <div>
+          <h4 class="font-semibold" data-lang-en="Infrastructure & Tools" data-lang-de="Infrastruktur & Werkzeuge">
+            Infrastruktur &amp; Werkzeuge
+          </h4>
+          <ul class="list-disc ml-5">
+            <li><strong>Docker</strong> · <strong>Kubernetes</strong> (Lernfokus) · GitHub Actions (CI/CD)</li>
+            <li>Linux / Nginx · GitFlow · Unit &amp; Integration Testing</li>
+          </ul>
+        </div>
+
+        <div>
+          <h4 class="font-semibold" data-lang-en="Frontend (Secondary)" data-lang-de="Frontend (Sekundär)">
+            Frontend (Sekundär)
+          </h4>
+          <ul class="list-disc ml-5">
+            <li>Vue.js (Inertia.js, Vite) · Tailwind CSS · React.js · TypeScript</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section id="education" class="mb-4 md:mb-8"> <!-- Section: Education -->
+      <h2 class="text-xl font-semibold mb-2" data-lang-en="Education" data-lang-de="Bildung">
+        Bildung
+      </h2>
+      <p>
+        <strong>Bachelor of Science (B.Sc.) in Computer Science (Informatik)</strong>
+        <span class="text-sm text-gray-600"> - Noten: 1.8</span>
+      </p>
+    </section>
+
+    <div class="projects grid grid-cols-2 gap-5"> <!-- Section: Projects -->
+      <section id="projects" class="mb-4 md:mb-8">
+        <h2 class="text-xl font-semibold mb-2" data-lang-en="Projects" data-lang-de="Projekte">
+          Projekte
+        </h2>
+        <p class="text-sm">
+          Detaillierte Übersicht meiner Backend-Projekte:
+          <a target="_blank" href="https://masri.blog/Projects/Main" class="text-blue-600 underline hover:text-blue-800">
+            masri.blog/Projects/Main</a>
+        </p>
+      </section>
+      <section id="languages" class="mb-4 md:mb-8">
+        <h2 class="text-xl font-semibold mb-2 title-font" data-lang-en="Languages" data-lang-de="Sprachen">
+          Sprachen
+        </h2>
+        <ul class="ml-1 text-sm space-y-1">
+          <li>Deutsch: Fließend (Berufserfahrung in DE)</li>
+          <li>Englisch: Fließend / Verhandlungssicher</li>
+          <li>Arabisch: Muttersprache</li>
+        </ul>
+      </section>
+    </div>
+
+  </div>
+</body>
+
+</html>

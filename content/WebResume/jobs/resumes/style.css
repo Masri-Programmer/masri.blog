@@ -1,0 +1,143 @@
+/* Basic body font and line height */
+body {
+  font-family: "Lato", sans-serif;
+  line-height: 1.5;
+}
+
+/* List style for li */
+li {
+  list-style: circle;
+}
+
+/* Font families for titles */
+.title-font,
+h1,
+h2,
+h3 {
+  font-family: "Playfair Display SC", serif;
+  font-weight: bold;
+}
+
+/* Border for h1 and h2 */
+h1,
+h2 {
+  border-bottom: 1px solid black;
+}
+
+/* Hover effect for a */
+a:hover {
+  text-decoration: underline;
+}
+
+/* Hide print signature by default */
+.print-signature {
+  display: none;
+}
+
+/* Print-specific styles */
+@media print {
+  /* Hide elements not needed for print */
+  .no-print,
+  blockquote {
+    display: none !important;
+  }
+
+  body {
+    background: white !important;
+    font-size: 10pt !important;
+  }
+
+  #resumeContent {
+    width: 100% !important;
+    padding: 10mm !important;
+    margin: 0 !important;
+    box-shadow: none !important;
+    background: white !important;
+  }
+
+  section {
+    margin-bottom: 0.5rem !important;
+  }
+
+  h2 {
+    margin-bottom: 0.25rem !important;
+    font-size: 1.25rem !important;
+  }
+
+  h3 {
+    font-size: 1rem !important;
+  }
+
+  ul {
+    margin-top: 0.25rem !important;
+  }
+
+  li {
+    margin-bottom: 0.1rem !important;
+  }
+
+  /* Show print signature */
+  .print-signature {
+    display: block;
+  }
+
+  /* Adjust link appearance in projects section for print */
+  .projects {
+    a[href]::after {
+      content: " (" attr(href) ")";
+      font-size: 0.8em;
+      color: #555; /* Adjust color for print readability */
+    }
+
+    a[href] {
+      text-decoration: none !important; /* Remove underline */
+      color: inherit; /* Inherit color from parent */
+    }
+
+    /* Specific color adjustment for blue links in print */
+    a.text-blue-200 {
+      color: #1a365d; /* Darker blue for better print contrast */
+    }
+  }
+}
+
+/* Styles for the main resume content area */
+#resumeContent {
+  width: 210mm; /* Standard A4 width */
+  padding: 20px;
+  margin: 20px auto; /* Center the content */
+}
+
+/* Styles applied when the PDF export is active (used by html2canvas/jsPDF) */
+.pdf-export-active h1,
+.pdf-export-active h2 {
+  padding-bottom: 16px !important; /* Adjust padding for PDF export */
+}
+
+/* Hide elements not needed for PDF export */
+.pdf-export-active .no-print,
+.pdf-export-active blockquote {
+  display: none !important;
+}
+
+/* Show print signature for PDF export */
+.pdf-export-active .print-signature {
+  display: block !important;
+}
+
+/* Adjust link appearance in projects section for PDF export */
+.pdf-export-active .projects a[href] {
+  text-decoration: none !important; /* Remove underline */
+  color: inherit !important; /* Inherit color from parent */
+}
+
+.pdf-export-active .projects a[href]::after {
+  content: " (" attr(href) ")";
+  font-size: 0.8em;
+  color: #555 !important; /* Adjust color for PDF readability */
+}
+
+/* Specific color adjustment for blue links in PDF export */
+.pdf-export-active .projects a.text-blue-200 {
+  color: #bee3f8 !important; /* Keep the light blue color if needed, or adjust */
+}

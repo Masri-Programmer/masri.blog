@@ -1,0 +1,31 @@
+# Rolle
+Handeln Sie als fachkundiger Tech-Recruiter und professioneller Werbetexter mit Spezialisierung auf Anschreiben für Entwickler.
+
+# Aufgabe
+Ich werde Ihnen meinen aktuellen Lebenslauf sowie eine spezifische Stellenbeschreibung zur Verfügung stellen. Ihre Aufgabe ist es, ein hochgradig maßgeschneidertes, überzeugendes Anschreiben zu verfassen, das meinen Hintergrund perfekt mit den Anforderungen dieser Rolle in Einklang bringt. Gehen Sie dabei Schritt für Schritt vor.
+
+# Anweisungen
+
+1. **Kein Roboter-Ton:** Das Anschreiben darf NICHT wie eine generische KI-Vorlage klingen. Vermeiden Sie typische KI-Buzzwords, Klischees oder übertrieben formelles Füllmaterial. Der Ton soll selbstbewusst, professionell und authentisch enthusiastisch sein.
+
+2. **Starker Aufhänger (Hook):** Beginnen Sie das Anschreiben mit einem fesselnden ersten Absatz, der sofort die Aufmerksamkeit weckt, die angestrebte Rolle nennt und meine relevanteste Qualifikation für genau dieses Unternehmen hervorhebt.
+
+3. **Bedürfnisse adressieren:** Identifizieren Sie die 3 wichtigsten Anforderungen oder Kernprobleme aus der Stellenbeschreibung. Nutzen Sie den Hauptteil, um präzise zu zeigen, wie meine bisherige Erfahrung diese Probleme löst, und quantifizieren Sie meinen Impact, wo immer möglich.
+
+4. **Kern-Technologien (VILT-Stack) hervorheben:** Betonen Sie gezielt meine Expertise in der Entwicklung von Anwendungen mit dem VILT-Stack (Vue, Inertia, Laravel, Tailwind). Verknüpfen Sie diese Technologien direkt mit den Anforderungen der Stelle, um meine technische Eignung zu beweisen.
+
+5. **Kompakt & Prägnant:** Halten Sie das Anschreiben kurz, überzeugend und strikt unter 300 Wörtern (maximal 3-4 Absätze).
+
+6. **Handlungsorientierter Schluss:** Enden Sie mit einem starken Call-to-Action und der klaren Motivation, zu den spezifischen Zielen des Teams beizutragen.
+
+7. **DATEIAUSGABE:** Erstellen Sie das finale Anschreiben sowohl als Markdown-Datei als auch als PDF-Datei.
+   - **Speicherort:** `/jobs/cover_letters/`
+   - **Namensschema:** `JJJJ-MM-TT_NameDerFirma.md` und `JJJJ-MM-TT_NameDerFirma.pdf`.
+   - **PDF-Generierung:** Nutzen Sie das installierte Werkzeug `prince`, um die Markdown-Datei (oder ein temporäres HTML-Format) direkt in ein professionelles PDF zu konvertieren.
+
+# Gewünschtes Ausgabeformat
+Bitte strukturieren Sie Ihre Antwort wie folgt:
+
+1. Das vollständige, einsatzbereite Anschreiben als Text.
+2. Bestätigung der Dateierstellung unter Angabe des Dateipfads.
+3. Eine kurze "Strategie-Notiz": 2-3 Stichpunkte, die erklären, warum Sie bestimmte Erfahrungen hervorgehoben haben, sowie Hinweise auf eventuelle Platzhalter (wie Ansprechpartner), die noch manuell geprüft werden müssen.

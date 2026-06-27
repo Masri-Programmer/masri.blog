@@ -1,0 +1,57 @@
+Senior Full-Stack Entwickler mit Schwerpunkt Laravel (all genders) - 100% Home Office
+ Vollzeit
+ 48000 - 84000 € / Jahr (geschätzt)
+ Home Office möglich
+Jetzt bewerben
+F
+Auf einen Blick
+Aufgaben: Gestalte innovative Softwarelösungen für Kanzleien und arbeite an spannenden Projekten.
+Arbeitgeber: KanzleiDrive, ein modernes Unternehmen mit digitalem Fokus.
+Mitarbeitervorteile: Remote Work, flexible Arbeitszeiten und individuelle Weiterbildungsmöglichkeiten.
+Warum dieser Job: Sei Teil eines dynamischen Teams und bringe deine Ideen aktiv ein.
+Gewünschte Qualifikationen: Mindestens 5 Jahre Erfahrung in der Web-Entwicklung und gute Kenntnisse in Laravel.
+Andere Informationen: Hundefreundliche Arbeitsplätze und flache Hierarchien für eine offene Kommunikation.
+Das voraussichtliche Gehalt liegt zwischen 48000 - 84000 € pro Jahr.
+
+Werde Teil des KanzleiDrive Teams und digitalisiere gemeinsam mit uns den Arbeitsalltag von Kanzleien. Bei KanzleiDrive arbeiten wir daran, den Arbeitsalltag in Kanzleien neu zu denken – digital, effizient und mandantenfreundlich. Wir entwickeln praxisnahe Lösungen mit echtem Mehrwert und bauen daraus neue, innovative Geschäftsmodelle etwa unsere eigene API für digitale Signaturen oder eine Vertragsmanagementlösung für KMUs – und du kannst sie mitgestalten. Klingt nach deinem Ding? Dann sollten wir uns kennenlernen!
+
+Aufgaben
+
+Du übernimmst eine zentrale Rolle bei der Weiterentwicklung unserer Softwarelösungen.
+Arbeit in einem motivierten Team an innovativen Produkten und aktive Mitgestaltung durch deine Expertise und Ideen.
+Entwicklung, Implementierung und Wartung neuer Funktionen, Module und Schnittstellen für unsere Webanwendungen.
+Proaktive Mitgestaltung unserer Produkt- und Prozessentwicklung durch eigene Ideen und technische Impulse.
+Arbeit mit modernen Frameworks wie Laravel, Inertia.js, Vue.js, Tailwindcss.
+Sicherstellung der Performance, Qualität und Sicherheit unserer Softwarelösungen.
+Durchführung von Code Reviews und Entwicklung automatisierter Tests.
+Mitwirkung an unserer Cloud-Infrastruktur für eine zuverlässige und skalierbare Auslieferung.
+Aktive Rolle bei Architekturentscheidungen und Lösungsdesigns im Team.
+Qualifikation
+
+Mindestens 5 Jahre praktische Erfahrung in der Web-Entwicklung - idealerweise ergänzt durch Beiträge zu Open Source-Projekten.
+Sehr gute Kenntnisse in Laravel sowie in modernen Frontend-Frameworks wie Vue.js oder React.
+Fundiertes Verständnis in IT-Sicherheit und deren Anwendung in der Webentwicklung.
+Vertraut im Einsatz von Container-Technologien wie Docker (gern auch Kubernetes).
+Erfahrung im Umgang mit RESTful APIs und modernen Webarchitekturen.
+Ausgeprägter Teamgeist und Freude daran, Wissen weiterzugeben z.B. durch Pair Programming, Code Reviews.
+Selbstständige, lösungsorientierte und strukturierte Arbeitsweise.
+Hohes Verantwortungsbewusstsein für Codequalität und Architekturentscheidungen.
+Fließende Deutschkenntnisse auf C2-Niveau.
+Benefits
+
+Remote Work & flexible Arbeitszeiten: Arbeite von überall aus und gestalte deinen Tag so, wie er zu deinem Leben passt.
+Viel Eigenverantwortung & Gestaltungsspielraum: Deine Ideen sind gefragt – du kannst wirklich etwas bewegen.
+Flache Hierarchien & offene Kommunikation: Bei uns geht es unkompliziert und direkt zu – schnelle Entscheidungen inklusive.
+Individuelle Weiterbildungsmöglichkeiten: Wir fördern deine persönliche und berufliche Entwicklung gezielt.
+Corporate Benefits: Nutze attraktive Mitarbeiterrabatte bei zahlreichen Partnern.
+EGYM Wellpass: Für deine Fitness – Zugang zu zahlreichen Sport- und Wellnesseinrichtungen.
+Betriebliche Krankenversicherung (bKV): Wir kümmern uns um deine Gesundheit mit zusätzlichen Vorsorgeleistungen.
+Betriebliche Altersvorsorge & Vermögenswirksame Leistungen (BAV & VWL): Damit du auch langfristig abgesichert bist.
+Jobticket: Umweltfreundlich unterwegs – wir bezuschussen deine Mobilität.
+Firmenparkplätze: Falls du mit dem Auto kommst, ist für deinen Platz gesorgt.
+Hundefreundliche Arbeitsplätze: Dein Vierbeiner ist bei uns willkommen!
+Bewerbungsprozess
+
+Sende uns deinen Lebenslauf (ein Anschreiben ist optional – wir freuen uns, wenn du einfach du selbst bist). Wir bestätigen den Eingang deiner Bewerbung per E-Mail. In einem persönlichen Gespräch möchten wir dich als Mensch kennenlernen – nicht nur als Entwickler:in.
+
+Klingt spannend? Dann bewirb dich jetzt – wir freuen uns darauf, dich kennenzulernen!

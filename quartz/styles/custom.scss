@@ -1,3 +1,15 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// custom CSS for file explorer/links
+.explorer ul li a::before {
+    content: "⊹";
+    color: var(--dark);
+    margin-right: 10px;
+}
+
+// Fallback for general links if explorer class is different
+a.internal::before {
+    content: "⊹";
+    color: var(--dark);
+    margin-right: 10px;
+}

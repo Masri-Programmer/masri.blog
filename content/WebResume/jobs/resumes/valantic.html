@@ -1,0 +1,308 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <!-- Primary Meta Tags -->
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Mohamad Masri - Fullstack Entwickler Resume für valantic"
+    />
+    <meta name="author" content="Mohamad Masri" />
+    <title>Mohamad Masri - Fullstack Entwickler</title>
+    <link rel="canonical" href="https://masri.blog/" />
+    <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+
+    <!-- Fonts -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lato&family=Playfair+Display+SC&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Tailwind CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        darkMode: "class",
+        theme: { extend: {} },
+      };
+    </script>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+
+  <body
+    id="pdf-content"
+    class="text-stone-900 font-sans leading-normal bg-stone-100 dark:bg-stone-800 dark:text-neutral-300 overflow-x-hidden"
+  >
+    <div
+      id="resumeContent"
+      class="max-w-4xl mx-auto p-4 sm:p-6 bg-stone-50 shadow-md dark:bg-stone-950 overflow-hidden"
+    >
+      <header id="header" class="border-b pb-3 mb-4">
+        <div
+          class="relative flex flex-col items-center gap-4 sm:flex-row sm:justify-start sm:gap-6 md:gap-10"
+        >
+          <img
+            class="h-16 w-16 rounded-full object-cover"
+            src="https://resume.masri.blog/profile.jpg"
+            alt="Mohamad Masri"
+          />
+          <div class="grow w-full text-center sm:text-start">
+            <h3 class="text-2xl font-bold md:text-3xl">Mohamad Masri</h3>
+            <div
+              class="flex flex-col items-center sm:flex-row sm:items-baseline w-full text-center md:text-start mt-1"
+            >
+              <p>
+                Oldenburg, Deutschland |
+                <a target="_blank" href="mailto:hallo@masri-programmer.de"
+                  >hallo@masri-programmer.de</a
+                >
+                | <a target="_blank" href="https://masri.blog">masri.blog</a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </header>
+
+      <section id="work-experience" class="mb-4">
+        <h2 class="text-xl font-semibold mb-2 title-font">Berufserfahrung</h2>
+
+        <div class="mb-5">
+          <div class="flex justify-between items-baseline">
+            <h3 class="font-bold text-lg">Softwareentwickler (Fullstack)</h3>
+            <span class="text-sm text-gray-600">04/2024 – Heute</span>
+          </div>
+          <p class="italic text-sm">
+            Meinders & Elstermann GmbH & Co. KG (Hybrid)
+          </p>
+          <ul class="list-disc ml-5 mt-1 text-sm space-y-1">
+            <li>
+              <strong>Ecommerce & PIM:</strong> Optimierung von Enterprise
+              <strong>Shopware</strong> und <strong>Pimcore</strong> Systemen
+              für 35+ Kunden; Implementierung von
+              <strong>Redis-Caching</strong> und Eloquent-Optimierungen, was die
+              DB-Abfragezeiten um <strong>40% reduzierte</strong>.
+            </li>
+            <li>
+              <strong>Fullstack Architektur:</strong> Konzeption skalierbarer
+              Lösungen mit <strong>Vue.js, Inertia.js und Laravel</strong>;
+              Eliminierung von N+1 Abfrageketten und Migration komplexer Reports
+              in <strong>Queues</strong>, wodurch die Ladezeit um
+              <strong>15 Sek. gesenkt</strong> wurde.
+            </li>
+            <li>
+              <strong>Clean Code & SOLID:</strong> Entwicklung modularer
+              <strong>PHP-Packages</strong> unter strikter Einhaltung von
+              <strong>SOLID/DRY</strong> Prinzipien; Steigerung der Wartbarkeit
+              und Reduzierung technischer Schulden um ca. 60%.
+            </li>
+            <li>
+              <strong>DevOps & CI/CD:</strong> Aufbau automatisierter
+              Deployment-Lösungen mit <strong>Docker</strong> und
+              <strong>GitHub Actions</strong> für fehlerfreie, containerisierte
+              Bereitstellungen.
+            </li>
+            <li>
+              <strong>Design-Kollaboration:</strong> Umsetzung von High-Fidelity
+              <strong>Figma</strong>-Prototypen in responsive
+              <strong>Tailwind CSS</strong> Komponenten unter Berücksichtigung
+              von Storybook-Workflows.
+            </li>
+          </ul>
+        </div>
+
+        <div class="mb-5">
+          <div class="flex justify-between items-baseline">
+            <h3 class="font-bold text-lg">Freelance Full Stack Developer</h3>
+            <span class="text-sm text-gray-600">05/2020 – Heute</span>
+          </div>
+          <ul class="list-disc ml-5 mt-1 text-sm space-y-1">
+            <li>
+              <strong>Ecommerce-Lösungen:</strong> Realisierung individueller
+              Dashboards mit <strong>FilamentPHP</strong> und
+              <strong>Lunar</strong>; Fokus auf agnostische, modulare
+              Architekturen für maximale Skalierbarkeit.
+            </li>
+            <li>
+              <strong>AI Integration:</strong> Entwicklung KI-gestützter
+              Funktionen zur Review-Generierung mittels lokaler Modelle
+              (<strong>Ollama</strong>) zur Steigerung der User Experience.
+            </li>
+            <li>
+              <strong>Infrastruktur:</strong> Management selbst gehosteter
+              Linux-Server (Uberspace) mit 99,9% Uptime für produktive Apps wie
+              Kimai und Uptime-Kuma.
+            </li>
+          </ul>
+        </div>
+
+        <div class="mb-5">
+          <div class="flex justify-between items-baseline">
+            <h3 class="font-bold text-lg">Full Stack Developer</h3>
+            <span class="text-sm text-gray-600">07/2022 – 09/2023</span>
+          </div>
+          <p class="italic text-sm">Brainkets (Hybrid)</p>
+          <ul class="list-disc ml-5 mt-1 text-sm space-y-1">
+            <li>
+              <strong>Frontend-Engineering:</strong> Entwicklung interaktiver
+              UIs für Enterprise-Apps mit <strong>React.js/Next.js</strong>;
+              Optimierung der Performance und Auffindbarkeit durch
+              <strong>SSR</strong>.
+            </li>
+            <li>
+              <strong>Backend & APIs:</strong> Erstellung robuster
+              <strong>REST APIs</strong> mit <strong>Yii2/PHP</strong>;
+              Anbindung verteilter Systeme und Validierung mittels Postman.
+            </li>
+            <li>
+              <strong>Agile Prozesse:</strong> Aktive Mitarbeit in
+              <strong>Scrum</strong>-Teams; Beschleunigung der Feature-Delivery
+              um 20% durch proaktive Design-Pattern-Anwendung.
+            </li>
+          </ul>
+        </div>
+      </section>
+
+      <section id="technical-skills" class="mb-4">
+        <h2 class="text-xl font-semibold mb-1">Technische Fähigkeiten</h2>
+        <div class="text-sm grid grid-cols-2 gap-x-8 gap-y-2">
+          <div>
+            <h4 class="font-semibold border-b">Backend</h4>
+            <p>
+              <strong>PHP (Laravel, Symfony, Yii2)</strong> · MySQL / MariaDB ·
+              Redis · <strong>Shopware & Pimcore</strong> · SOLID / DRY · Design
+              Patterns · Twig
+            </p>
+          </div>
+          <div>
+            <h4 class="font-semibold border-b">Frontend</h4>
+            <p>
+              <strong>Vue.js (Inertia.js)</strong> ·
+              <strong>Tailwind CSS</strong> · <strong>Storybook</strong> ·
+              TypeScript · HTML5 · CSS3 · SASS · BEM · HTMX
+            </p>
+          </div>
+          <div>
+            <h4 class="font-semibold border-b">DevOps & Tools</h4>
+            <p>
+              <strong>Docker</strong> · GitHub Actions · CI/CD · GitFlow · Linux
+              (Nginx) · Figma · Postman · Ollama
+            </p>
+          </div>
+          <div>
+            <h4 class="font-semibold border-b">Sprachen</h4>
+            <p>
+              <strong>Deutsch (Fließend/Verhandlungssicher)</strong> · Englisch
+              (Verhandlungssicher) · Arabisch (Muttersprache)
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section id="education" class="mb-4">
+        <h2 class="text-xl font-semibold mb-1">Bildungsweg</h2>
+        <p class="text-sm">
+          <strong>Bachelor of Science (B.Sc.) in Informatik</strong> — Note: 1,8
+          (GPA: 3.44 / 4.0)
+        </p>
+        <p class="text-xs text-gray-600 italic">
+          Schwerpunkte: Algorithmenentwurf, Datenstrukturen und Clean Code
+          Prinzipien.
+        </p>
+      </section>
+
+      <div class="grid grid-cols-2 gap-4">
+        <section id="academic-achievements">
+          <h2 class="text-xl font-semibold mb-1">Erfolge</h2>
+          <ul class="list-disc ml-5 text-xs space-y-1">
+            <li>Dean’s Honor List (Akademische Exzellenz)</li>
+            <li>
+              Zertifiziert: Advanced React, Laravel Architecture & GraphQL.
+            </li>
+          </ul>
+        </section>
+        <section id="other-info">
+          <h2 class="text-xl font-semibold mb-1">Eigenschaften</h2>
+          <ul class="list-disc ml-5 text-xs space-y-1">
+            <li>Lösungsorientiert & Zuverlässig.</li>
+            <li>
+              Leidenschaft für <strong>Clean Code</strong> und technische
+              Exzellenz.
+            </li>
+          </ul>
+        </section>
+      </div>
+    </div>
+
+    <footer
+      id="footer"
+      class="text-center text-xs text-gray-500 mt-6 fixed bottom-0 right-0 px-2 pt-2 z-[9999]"
+    >
+      <div class="print-signature">
+        <a
+          href="https://resume.masri.blog"
+          target="_blank"
+          rel="noopener noreferrer"
+          >https://resume.masri.blog</a
+        >
+      </div>
+    </footer>
+
+    <div class="fixed top-4 right-4 flex flex-col space-y-3 no-print">
+      <button
+        onClick="window.print()"
+        class="p-2 bg-gray-200 rounded-lg dark:bg-gray-700"
+        title="Drucken"
+      >
+        <i
+          data-lucide="Printer"
+          class="w-5 h-5 text-gray-700 dark:text-gray-300"
+        ></i>
+      </button>
+      <button
+        onclick="downloadPdfHandler()"
+        class="p-2 bg-gray-200 rounded-lg dark:bg-gray-700"
+        title="PDF Download"
+      >
+        <i
+          data-lucide="Download"
+          class="w-5 h-5 text-gray-700 dark:text-gray-300"
+        ></i>
+      </button>
+    </div>
+
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <script>
+      lucide.createIcons();
+    </script>
+    <script>
+      function downloadPdfHandler() {
+        const resumeElement = document.getElementById("resumeContent");
+        document.body.classList.add("pdf-export-active");
+        html2canvas(resumeElement, {
+          scale: 2,
+          useCORS: true,
+          backgroundColor: "#f5f5f4",
+        })
+          .then((canvas) => {
+            const imgData = canvas.toDataURL("image/png");
+            const { jsPDF } = window.jspdf;
+            const pdf = new jsPDF({
+              orientation: "portrait",
+              unit: "pt",
+              format: "a4",
+            });
+            const imgProps = pdf.getImageProperties(imgData);
+            const pdfWidth = pdf.internal.pageSize.getWidth();
+            const imgHeightInPdf =
+              (imgProps.height * pdfWidth) / imgProps.width;
+            pdf.addImage(imgData, "PNG", 0, 0, pdfWidth, imgHeightInPdf);
+            pdf.save("Mohamad-Masri-Resume-Fullstack-valantic.pdf");
+          })
+          .finally(() => {
+            document.body.classList.remove("pdf-export-active");
+          });
+      }
+    </script>
+  </body>
+</html>

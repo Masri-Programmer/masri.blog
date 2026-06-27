@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"pj30000000000001","type":"group","x":0,"y":1100,"width":1300,"height":1600,"color":"4","label":"3. Delivery & Results"},
+		{"id":"pj10000000000004","type":"group","x":1400,"y":0,"width":730,"height":1550,"color":"3","label":"Client WhatsApp Messages"},
+		{"id":"pj10000000000001","type":"group","x":0,"y":0,"width":1300,"height":450,"color":"1","label":"1. The Client's Request (Piepjack Clothing)"},
+		{"id":"pj20000000000001","type":"group","x":0,"y":550,"width":1300,"height":450,"color":"2","label":"2. Strategy & Architecture (Modern Monolith)"},
+		{"id":"pj10000000000002","type":"text","text":"### What Marvin Piepjack Asked For\n\n- **Aesthetics:** A pixel-perfect, modern digital flagship for an emerging German fashion brand.\n- **Performance:** Near-instant load times to reduce bounce rates.\n- **Data Sovereignty:** Strict adherence to GDPR (DSGVO) with no US CDNs or invasive third-party trackers.\n- **Custom Control:** Avoiding traditional SaaS constraints (like Shopify) to maintain 100% data ownership and avoid transaction fees.","x":40,"y":40,"width":780,"height":370},
+		{"id":"pj10000000000003","type":"text","text":"> [!quote] Client Vision\n> \"The web design process perfectly fulfilled all my wishes.\" — *Marvin Piepjack*","x":860,"y":40,"width":400,"height":370},
+		{"id":"pj20000000000002","type":"text","text":"### The VILT Stack Architecture\n\nTo provide an SPA feel without a detached frontend, the VILT stack was chosen:\n\n- **Frontend (Vue.js 3 + Tailwind CSS):** High interactivity, smooth transitions, and atomic utility classes for custom design.\n- **Backend (Laravel):** Enterprise-grade security and robust API handling.\n- **Bridge (Inertia.js):** Eliminates complex REST/GraphQL APIs for internal routing.\n- **Infrastructure:** Self-hosted on German VPS for GDPR compliance. Local font hosting and privacy-first analytics.","x":40,"y":590,"width":1220,"height":370},
+		{"id":"pj30000000000002","type":"text","text":"### What Piepjack Got\n\n- **Performance-First UX:** Vite asset bundling and CompressX image optimization guarantee lightning-fast load times.\n- **Data Sovereignty:** Complete GDPR compliance out-of-the-box.\n- **Custom Administration:** A tailored FilamentPHP dashboard allows the brand to manage inventory, orders, and lookbooks seamlessly.\n- **Scalable E-Commerce:** Secure Stripe checkout and zero SaaS transaction fees.","x":40,"y":1140,"width":780,"height":370},
+		{"id":"pj30000000000003","type":"file","file":"Projects/Piepjack.md","x":860,"y":1140,"width":400,"height":370},
+		{"id":"pj10000000000005","type":"file","file":"Assets/Img/Piepjack/WhatsApp Image 2026-06-26 at 1.56.23 PM.jpeg","x":1440,"y":40,"width":650,"height":1427},
+		{"id":"aba376c9b243a00b","type":"file","file":"Assets/Img/Piepjack/Pasted image 20260627115202.png","x":40,"y":1550,"width":1201,"height":1100}
+	],
+	"edges":[
+		{"id":"pjedge0000000001","fromNode":"pj10000000000001","fromSide":"bottom","toNode":"pj20000000000001","toSide":"top"},
+		{"id":"pjedge0000000002","fromNode":"pj20000000000001","fromSide":"bottom","toNode":"pj30000000000001","toSide":"top"}
+	]
+}

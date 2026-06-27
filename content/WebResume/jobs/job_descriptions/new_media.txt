@@ -1,0 +1,61 @@
+Dr. Meyer & Meyer-Peteaux New Media Company GmbH & Co. KG
+Königstraße 7, 26180 Rastede
+Hybrides Arbeiten
+Festanstellung, Vollzeit
+&nbsp;
+Stellenbeschreibung
+Gleichen Sie hier die Stellenbeschreibung mit Ihrem Profil ab.
+Anstellungsart
+
+Festanstellung
+
+Vollzeit
+&nbsp;
+Arbeitsort
+Geschätzter Arbeitsweg
+Job address
+Königstraße 7, 26180 Rastede
+&nbsp;
+Leistungen
+Aus der vollständigen Stellenbeschreibung
+Weiterbildungsprogramme
+Vermögenswirksame Leistungen
+Firmenfahrrad-Leasing
+Firmenevents
+&nbsp;
+Vollständige Stellenbeschreibung
+Werde Teil unseres Teams als Front-End-Entwickler (m/w/d)
+Du liebst es, nutzerfreundliche und moderne Webanwendungen zu gestalten? Du hast ein gutes Gespür für Design, Usability und Performance? Dann bist du bei uns genau richtig!
+Dein Aufgabenfeld:
+Konzeption, Entwicklung und Umsetzung anspruchsvoller Web-Anwendungen mit Fokus auf moderne Front-End-Technologien
+Entwerfen und Implementieren neuer Softwarekomponenten für unsere Praxissoftware Smarty® sowie weitere interne und externe Projekte
+Pflege und kontinuierliche Weiterentwicklung bestehender Anwendungen – stets mit Blick auf Performance, Nutzerfreundlichkeit und ein konsistentes UX/UI-Design
+Enge Zusammenarbeit mit dem Produktmanagement und der Qualitätssicherung zur Sicherstellung hoher Produktqualität und praxisnaher Lösungen
+Integration von Backend-Schnittstellen und APIs zur Realisierung funktionaler und stabiler Anwendungen
+Aktive Mitgestaltung unserer Softwarelandschaft durch Einbringen neuer Ideen, Technologien und Best Practices im Front-End-Bereich
+Was Du ins Unternehmen bringst:
+Ausbildung oder Studium: Abgeschlossene Ausbildung als Fachinformatiker*in für Anwendungsentwicklung oder ein Studium der (Wirtschafts-)Informatik bzw. eine vergleichbare Qualifikation – gerne mit Praxiserfahrung im Front-End-Umfeld
+Fundierte Praxis in TypeScript/JavaScript, HTML5 sowie SASS/CSS
+Sicher im Umgang mit React, Build-Tools wie Webpack/Vite und npm/yarn sowie Git für Versionsverwaltung; Kenntnisse in Node.js und Electron sind ein Plus
+Erfahrung mit responsivem Design, Design-Systemen und nutzerzentrierter Entwicklung; hohes Qualitäts- und Performance-Bewusstsein
+Affinität zu modernen Softwarearchitekturen, komponentenbasiertem Design und sauberer Code-Struktur
+Selbstorganisiert, strukturiert und lösungsorientiert; vertraut mit agilen Methoden (Scrum/Kanban) und offen für kontinuierliche Verbesserung
+Ausgeprägte Teamfähigkeit, Zuverlässigkeit, professionelle und einwandfreie Umgangsformen
+Sehr gute Deutschkenntnisse (C1) in Wort und Schrift; Englisch sicher genug für technische Dokumentation
+Was wir Dir bieten können:
+Modernes Arbeitsumfeld und eine abwechslungsreiche Tätigkeit in einem dynamischen Unternehmen mit flachen Hierarchien
+neues Bürogebäude, mit Work-Cafe, Klimaanlage, Küchenzeile und guten Parkmöglichkeiten
+Unbefristete Vollzeitstelle mit geregelten Arbeitszeiten
+30 Tage Urlaub
+Attraktive überdurchschnittliche Vergütung inkl. Weihnachtsgeld
+vermögenswirksame Leistungen
+Kostenfreie Kalt- und Warmgetränke
+Team-Events wie z.B. Sommerfest, Kohlfahrt und Weihnachtsfeier
+Persönlicher Pate für Deinen Onboarding-Prozess
+Firmenfitness Hansefit
+Aktive Förderung von berufsbezogenen Fort- und Weiterbildungen
+Firmen Fahrradleasing zu Top-Konditionen
+Du suchst ein Unternehmen, in dem du deine technischen Fähigkeiten und deine Leidenschaft für moderne Webtechnologien voll einbringen kannst?
+Dann bist du bei der New Media Company genau richtig! Bei uns gestaltest du aktiv die Weiterentwicklung unserer Praxissoftware Smarty – in einem agilen Team mit viel Raum für Eigenverantwortung, Innovation und Qualität.
+
+Bewerbung: (Lebenslauf und Zeugnisse) können direkt online eingereicht werden.
