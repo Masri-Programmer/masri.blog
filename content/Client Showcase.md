@@ -18,8 +18,4 @@ This section outlines the development of a high-performance, GDPR-compliant fash
 
 ![[Canvases/Piepjack Workflow.canvas]]
 
----
 
-## Next Project: [Client Name/Project Title]
-
-(Add similar sections for other projects)
