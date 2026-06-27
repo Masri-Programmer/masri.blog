@@ -21,7 +21,7 @@ const config: QuartzConfig = {
     // locale: "en-US",
     locale: "de-DE",
     baseUrl: "masri.blog",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "conductor", "docs"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
