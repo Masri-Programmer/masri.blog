@@ -24,7 +24,6 @@ publish: true
 
 ## 📅 Published & Active Articles
 
-```markdown
 ```dataview
 TABLE 
     status as Status, 
@@ -41,7 +40,6 @@ SORT date DESC
 
 ## 📝 Drafts & Brainstorming
 
-```markdown
 ```dataview
 TABLE 
     round(file.size / 5) as "~ Words",
