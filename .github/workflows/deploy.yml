@@ -39,9 +39,9 @@ jobs:
         uses: actions/cache@v5
         with:
           path: .quartz/plugins
-          key: ${{ runner.os }}-plugins-${{ hashFiles('quartz.lock.json') }}
+          key: ${{ runner.os }}-plugins-v2-${{ hashFiles('quartz.lock.json') }}
           restore-keys: |
-            ${{ runner.os }}-plugins-
+            ${{ runner.os }}-plugins-v2-
 
       - run: npm ci
 
