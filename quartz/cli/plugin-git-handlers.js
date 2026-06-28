@@ -247,7 +247,11 @@ async function regeneratePluginIndex() {
 
   const pluginDirs = fs.readdirSync(PLUGINS_DIR).filter((name) => {
     const pluginPath = path.join(PLUGINS_DIR, name)
-    return fs.statSync(pluginPath).isDirectory()
+    try {
+      return fs.statSync(pluginPath).isDirectory()
+    } catch {
+      return false
+    }
   })
 
   // Phase 1: Collect all exports per plugin, detect conflicts
