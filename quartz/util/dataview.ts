@@ -105,11 +105,13 @@ function executeDataview(
     .replace(/\bOR\b/g, "||")
     .replace(/(?<![=!])=(?![=])/g, "===") // replace single = with ===
     .replace(/!=/g, "!==")
+    .replace(/date\(today\)/g, "new Date()")
 
   const whereFn = new Function("doc", `
     try {
-      const { file, status, date, tags } = doc;
-      return (${jsWhere});
+      with(doc) {
+        return (${jsWhere});
+      }
     } catch {
       return false;
     }
@@ -125,14 +127,12 @@ function executeDataview(
     }
 
     const doc = {
+      ...(file.data.frontmatter || {}),
       file: {
         name: path.basename(file.data.relativePath!, ".md"),
         size: stats.size,
         mtime: file.data.dates?.modified ?? stats.mtime,
-      },
-      status: file.data.frontmatter?.status,
-      date: file.data.frontmatter?.date,
-      tags: file.data.frontmatter?.tags ?? [],
+      }
     }
 
     return whereFn(doc)
@@ -171,14 +171,12 @@ function executeDataview(
     try { stats = fs.statSync(fullPath) } catch { stats = { size: 0, mtime: new Date() } }
 
     const doc = {
+      ...(file.data.frontmatter || {}),
       file: {
         name: path.basename(file.data.relativePath!, ".md"),
         size: stats.size,
         mtime: file.data.dates?.modified ?? stats.mtime,
-      },
-      status: file.data.frontmatter?.status,
-      date: file.data.frontmatter?.date,
-      tags: file.data.frontmatter?.tags ?? [],
+      }
     }
 
     const fileLink = `[${doc.file.name}](/${encodeURI(file.data.slug ?? "")})`
@@ -187,8 +185,9 @@ function executeDataview(
       let expr = f.expr.replace(/\bround\(/g, "Math.round(")
       const evalFn = new Function("doc", `
         try {
-          const { file, status, date, tags } = doc;
-          return (${expr});
+          with(doc) {
+            return (${expr});
+          }
         } catch (e) {
           return "";
         }
