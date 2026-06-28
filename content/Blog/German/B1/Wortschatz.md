@@ -1,3 +1,0 @@
-**vermögender** :
-**geizig** : 
-**inständig** : 
