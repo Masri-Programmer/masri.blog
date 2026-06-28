@@ -13,7 +13,7 @@ export default (() => {
               <a href="/">Home</a>
             </li>
             <li>
-              <a href="/Blog">Blog</a>
+              <a href="/blog">Blog</a>
             </li>
             <li>
               <a href="/Portfolio">Portfolio</a>

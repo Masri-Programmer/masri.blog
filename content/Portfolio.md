@@ -26,6 +26,19 @@ banner_y: 0.5
 
 ---
 
+> [!success] [Download PDF Resume](http://resume.masri.blog/download)
+> [!tip] Looking for a template? Check out my 100% ATS-Friendly Digital Resume Template: [Demo](http://resume.masri.blog/) | [Source](https://github.com/Masri-Programmer/resume)
+
+---
+
+## 🏆 Professional Highlights
+*   **Enterprise Scalability:** Managed 35+ enterprise systems at M&E GmbH, improving data processing efficiency by **40%**.
+*   **Performance Engineering:** Automated workflows saving hundreds of development hours and reduced system load times by **15s+**.
+*   **Modern Architecture:** Expert in **Inertia.js** and **GraphQL** for creating seamless, single-page application experiences with PHP backends.
+*   **Full-Lifecycle Delivery:** From **Figma UI/UX** prototyping to **GitFlow** managed deployments and Linux server maintenance.
+
+---
+
 ## 🛠️ Technical Arsenal
 
 <div align="center">
@@ -35,6 +48,21 @@ banner_y: 0.5
   <br>
   <img src="https://skillicons.dev/icons?i=github,git,linux,windows,vscode,figma,postman,docker" />
 </div>
+
+### 🗂️ Detailed Technical Stack
+| Category | Stack |
+| :--- | :--- |
+| **Frontend** | **Vue.js**, **React.js**, Next.js, Inertia.js, TypeScript, Tailwind CSS |
+| **Backend** | **Laravel**, PHP (Yii2), Node.js (Express), REST & GraphQL APIs |
+| **Data** | MySQL, MongoDB, PostgreSQL, Database Optimization |
+| **DevOps** | Linux (LAMP/Nginx), GitFlow, GitLab CI, Docker, Uberspace |
+| **Design** | **Figma** (UI/UX Prototyping), Design Systems |
+
+> [!info] Explore my full background:
+> - 💼 [[Blog/Personal/work-experience|Professional Experience]]
+> - 🛠 [[Blog/Personal/technical-skills|Full Technical Stack]]
+> - 🎓 [[Blog/Personal/education|Education & Certifications]]
+> - 📞 [[Blog/Personal/contact|Contact Information]]
 
 ---
 
