@@ -10,4 +10,4 @@ tags: [soft-skills]
 - **Continuous Learning** – Consistently up-to-date with the newest technologies, packages, and stack updates.
 - **Problem Solving** – Strong problem-solving ability and solution-oriented mindset.
 
-[[technical-skills]] - [[education]] - [[Resume]]
+[[technical-skills]] - [[education]] - [[Portfolio]]

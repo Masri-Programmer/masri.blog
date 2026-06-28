@@ -89,4 +89,4 @@ This curriculum is designed to take a beginner to a job-ready junior full-stack 
 > [!tip] Final Milestone
 > **Capstone Project:** Build a real-world SaaS application from scratch—from database design to production deployment.
 
-==**Next Steps:**== [[Portfolio]] | [[Resume]] | [[Work Logs]]
+==**Next Steps:**== [[Portfolio]] | [[Work Logs]]

@@ -36,6 +36,6 @@ tags:
 - [AGT Computers - Laptop & E-commerce](https://masri-programmer.github.io/AGT/)
 - [Portfolio - Personal Portfolio](https://masri-programmer.github.io/mohamad-masri-portfolio/)
 
-[[technical-skills]] - [[education]] - [[Resume]]
+[[technical-skills]] - [[education]] - [[Portfolio]]
 
 ![[masri-programmer.github.io_mohamad-masri_ (1).png]]

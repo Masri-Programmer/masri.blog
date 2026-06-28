@@ -36,4 +36,4 @@ tags: [personal]
 </div>
 
 
-[[Resume]]
+[[Portfolio]]

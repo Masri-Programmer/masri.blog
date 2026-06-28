@@ -14,4 +14,4 @@ tags: [personal]
 - **Travel**
 - **Gaming**
 
-[[contact]] - [[Resume]]
+[[contact]] - [[Portfolio]]

@@ -70,4 +70,4 @@ In an industry that moves as fast as ours, output is often forgotten the moment 
 **Stop just writing code. Start writing your history.**
 
 ---
-==**Related Notes:**== [[Portfolio]] | [[Resume]] | [[Recent Articles]]
+==**Related Notes:**== [[Portfolio]] | [[Recent Articles]]

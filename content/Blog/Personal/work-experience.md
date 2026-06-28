@@ -2,7 +2,7 @@
 tags:
   - experience
   - employment
-description: "[[Blog/Personal/technical-skills|technical-skills]] - [[Blog/Personal/education|education]] - [[Resume]]"
+description: "[[Blog/Personal/technical-skills|technical-skills]] - [[Blog/Personal/education|education]] - [[Portfolio]]"
 ---
 # **Work Experience**
 
@@ -58,4 +58,4 @@ description: "[[Blog/Personal/technical-skills|technical-skills]] - [[Blog/Perso
 - **Professional Growth** – Accelerated skill acquisition through continuous high-volume development, effectively doubling practical experience.
 - **Tutoring** – Taught Python and programming fundamentals, including Clean Code concepts, to students.
 
-[[Blog/Personal/technical-skills|technical-skills]] - [[Blog/Personal/education|education]] - [[Resume]]
+[[Blog/Personal/technical-skills|technical-skills]] - [[Blog/Personal/education|education]] - [[Portfolio]]

@@ -29,4 +29,4 @@ tags:
 - **Software Architecture & Design Patterns** – Advanced application design.
 - **Figma UX/UI Design** – High-fidelity prototyping and design consistency.
 
-[[work-experience]] - [[Index]] - [[Resume]]
+[[work-experience]] - [[Index]] - [[Portfolio]]

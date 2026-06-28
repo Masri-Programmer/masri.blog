@@ -112,7 +112,7 @@ LIMIT 5
 > Whether you're here to collaborate, learn, or simply browse — welcome aboard! 
 > - 🔗 **[Social & Contact Links Hub](https://links.masri-programmer.de/)** (WhatsApp, LinkedIn, Email, etc.)
 > - 📂 [[Portfolio|View Project Portfolio]]
-> - 📄 [[Resume|Full Resume]]
+> - 📄 [[Portfolio|Full Portfolio]]
 > - 📅 [[Book a Meeting|Schedule a Call]]
 > - 📞 [[Blog/Personal/contact|Contact Details & Location]]
 
