@@ -209,23 +209,41 @@ function executeDataview(
   return { headers, rows }
 }
 
+function getTextContent(node: any): string {
+  if (!node) return ""
+  if (node.type === "text") return node.value
+  if (node.children) {
+    return node.children.map(getTextContent).join("")
+  }
+  return ""
+}
+
 export function renderDataviews(node: any, allFiles: ProcessedContent[], ctx: BuildCtx) {
   if (node.type === "element" && node.tagName === "pre") {
     const codeNode = node.children?.[0]
     if (
       codeNode &&
       codeNode.type === "element" &&
-      codeNode.tagName === "code" &&
-      codeNode.properties?.className?.includes("language-dataview")
+      codeNode.tagName === "code"
     ) {
-      const queryText = codeNode.children?.[0]?.value
-      if (queryText) {
-        const tableData = executeDataview(queryText, allFiles, ctx)
-        if (tableData) {
-          const tableNode = generateHastTable(tableData)
-          // Swap HAST pre node with the newly generated table node
-          Object.assign(node, tableNode)
-          return
+      const className = codeNode.properties?.className
+      const dataLanguage = codeNode.properties?.dataLanguage ?? codeNode.properties?.["data-language"]
+      const preDataLanguage = node.properties?.dataLanguage ?? node.properties?.["data-language"]
+      const isDataview = (Array.isArray(className) && className.includes("language-dataview"))
+        || (typeof className === "string" && className.includes("language-dataview"))
+        || dataLanguage === "dataview"
+        || preDataLanguage === "dataview"
+
+      if (isDataview) {
+        const queryText = getTextContent(codeNode)
+        if (queryText) {
+          const tableData = executeDataview(queryText, allFiles, ctx)
+          if (tableData) {
+            const tableNode = generateHastTable(tableData)
+            // Swap HAST pre node with the newly generated table node
+            Object.assign(node, tableNode)
+            return
+          }
         }
       }
     }
@@ -237,3 +255,4 @@ export function renderDataviews(node: any, allFiles: ProcessedContent[], ctx: Bu
     }
   }
 }
+
