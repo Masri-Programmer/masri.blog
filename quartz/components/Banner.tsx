@@ -1,17 +1,20 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
+import { resolveRelative, slugifyFilePath } from "../util/path"
+import { FilePath } from "../util/path"
 
 const Banner: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
   const banner = fileData.frontmatter?.banner
   if (banner) {
-    let src = banner
-    if (!src.startsWith("http") && !src.startsWith("/")) {
-      src = "/" + src
+    let src = banner as string
+    if (!src.startsWith("http")) {
+      const slugified = slugifyFilePath(src as FilePath, false)
+      src = resolveRelative(fileData.slug!, slugified)
     }
 
     // Parse banner alignment offsets (x and y) from frontmatter
-    const x = fileData.frontmatter.banner_x
-    const y = fileData.frontmatter.banner_y
+    const x = fileData.frontmatter?.banner_x
+    const y = fileData.frontmatter?.banner_y
     const posX = x !== undefined ? (typeof x === "number" ? `${x * 100}%` : x) : "center"
     const posY = y !== undefined ? (typeof y === "number" ? `${y * 100}%` : y) : "center"
     const objectPosition = `${posX} ${posY}`
