@@ -1,0 +1,571 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Primary Meta Tags -->
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="index, follow" />
+    <meta
+      name="description"
+      content="Mohamad Masri's Resume - Tailored for New Media Company"
+    />
+    <meta name="author" content="Mohamad Masri" />
+    <title>Mohamad Masri - Front-End Developer (New Media Company)</title>
+    <link rel="canonical" href="https://masri.blog/" />
+    <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+
+    <!-- Fonts -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lato&family=Playfair+Display+SC&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Tailwind CDN (for prototyping only) -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        darkMode: "class",
+        theme: { extend: {} },
+      };
+    </script>
+  </head>
+
+  <body
+    id="pdf-content"
+    class="text-stone-900 font-sans leading-relaxed bg-stone-100 dark:bg-stone-800 dark:text-neutral-300 overflow-x-hidden"
+  >
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Mohamad Masri",
+        "url": "https://masri.blog",
+        "description": "Mohamad Masri's professional resume tailored for the Front-End Developer position at New Media Company."
+      }
+    </script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+
+    <!-- Custom Styles -->
+    <link rel="stylesheet" href="./style.css" />
+
+    <div
+      id="resumeContent"
+      class="max-w-4xl mx-auto p-6 bg-stone-50 shadow-md dark:bg-stone-950 overflow-hidden"
+    >
+      <header id="header" class="border-b pb-6 mb-6">
+        <!-- Section: Header -->
+        <div
+          class="relative flex flex-col items-center gap-4 sm:flex-row sm:justify-start sm:gap-6 md:gap-10"
+        >
+          <img
+            class="h-16 w-16 rounded-full object-cover sm:h-16 sm:w-16"
+            src="https://resume.masri.blog/profile.jpg"
+            alt="Avatar"
+          />
+          <div class="grow w-full text-center sm:text-start">
+            <h3 class="text-2xl font-bold md:text-3xl">Mohamad Masri</h3>
+            <div
+              class="flex flex-col items-center sm:flex-row sm:items-baseline w-full text-center md:text-start mt-1"
+            >
+              <p>
+                Oldenburg, Germany |
+                <a target="_blank" href="mailto:hallo@masri-programmer.de"
+                  >hallo@masri-programmer.de</a
+                >
+                |
+                <a target="_blank" href="https://masri.blog">masri.blog</a> |
+                <a target="_blank" href="https://masri-programmer.de"
+                  >masri-programmer.de</a
+                >
+              </p>
+            </div>
+          </div>
+        </div>
+      </header>
+
+      <section id="work-experience" class="mb-4 md:mb-8">
+        <!-- Section: Work Experience -->
+        <h2
+          class="text-xl font-semibold mb-2 title-font"
+          data-lang-en="Work Experience"
+          data-lang-de="Berufserfahrung"
+        >
+          Work Experience
+        </h2>
+
+        <div class="mb-6">
+          <h3 class="font-bold">
+            <span
+              data-lang-en="Full Stack Developer (React & TypeScript Focus)"
+              data-lang-de="Full-Stack-Entwickler (Fokus React & TypeScript)"
+              >Full Stack Developer (React & TypeScript Focus)</span
+            >
+            – Brainkets (Hybrid)
+          </h3>
+          <p class="text-sm text-gray-600">Jul 2022 – Sep 2023</p>
+          <ul class="list-disc ml-5 mt-2 text-sm">
+            <li
+              data-lang-en="React & Frontend Development – Developed interactive UIs and scalable web components using React.js, Next.js, and Redux, ensuring optimal UX/UI consistency."
+              data-lang-de="React & Frontend-Entwicklung – Entwicklung interaktiver UIs und skalierbarer Web-Komponenten mit React.js, Next.js und Redux unter Sicherstellung konsistenter UX/UI."
+            >
+              React &amp; Frontend Development – Developed interactive UIs and
+              scalable web components using <strong>React.js</strong>,
+              <strong>Next.js</strong>, and <strong>Redux</strong>.
+            </li>
+            <li
+              data-lang-en="UI/UX Engineering – Translated complex Figma designs into responsive, pixel-perfect interfaces using SASS, Tailwind CSS, and Material UI."
+              data-lang-de="UI/UX Engineering – Umsetzung komplexer Figma-Designs in responsive, pixelgenaue Oberflächen mittels SASS, Tailwind CSS und Material UI."
+            >
+              UI/UX Engineering – Translated complex
+              <strong>Figma</strong> designs into responsive interfaces using
+              <strong>SASS</strong> and <strong>Tailwind CSS</strong>.
+            </li>
+            <li
+              data-lang-en="Performance & SEO – Optimized frontend rendering and load times through SSR (Server Side Rendering) and advanced meta-optimization, enhancing search visibility."
+              data-lang-de="Performance & SEO – Optimierung von Frontend-Rendering und Ladezeiten durch SSR und Meta-Optimierung zur Steigerung der Auffindbarkeit."
+            >
+              Performance &amp; SEO – Optimized frontend rendering and load
+              times through <strong>SSR</strong> and advanced meta-optimization.
+            </li>
+            <li
+              data-lang-en="Agile Collaboration – Contributed to software development within an Agile team environment (GitHub, Git, Scrum/Kanban)."
+              data-lang-de="Agile Zusammenarbeit – Beitrag zur Softwareentwicklung in einer agilen Teamumgebung (Scrum/Kanban)."
+            >
+              Agile Collaboration – Actively contributed to development within a
+              <strong>Scrum/Kanban</strong> environment.
+            </li>
+          </ul>
+        </div>
+
+        <div class="mb-6">
+          <h3 class="font-bold">
+            <span
+              data-lang-en="Software Developer (Design Systems & UX)"
+              data-lang-de="Softwareentwickler (Design-Systeme & UX)"
+              >Software Developer (Design Systems & UX)</span
+            >
+            – Meinders & Elstermann GmbH & Co. KG (Hybrid)
+          </h3>
+          <p class="text-sm text-gray-600">Apr 2024 – Present</p>
+          <ul class="list-disc ml-5 mt-2 text-sm">
+            <li
+              data-lang-en="Front-End Performance – Cut initial page load time by over 15 seconds by optimizing assets and migrating heavy frontend reports to background-queued processing."
+              data-lang-de="Front-End Performance – Reduzierung der Initialladezeit um über 15 Sek. durch Asset-Optimierung und Auslagerung schwerer Frontend-Reports."
+            >
+              Front-End Performance – Cut page load time by 15s through asset
+              optimization and <strong>Vite</strong>-based build improvements.
+            </li>
+            <li
+              data-lang-en="Design Systems – Created high-fidelity UI/UX prototypes in Figma and implemented reusable component libraries for 35+ enterprise systems."
+              data-lang-de="Design-Systeme – Erstellung von High-Fidelity UI/UX-Prototypen in Figma und Implementierung wiederverwendbarer Komponenten-Bibliotheken für 35+ Systeme."
+            >
+              Design Systems – Created <strong>Figma</strong> prototypes and
+              implemented reusable component libraries for 35+ enterprise
+              systems.
+            </li>
+            <li
+              data-lang-en="Modern Stack – Built scalable solutions using Vue.js, Inertia.js, and TypeScript, focusing on clean code and modular front-end architecture."
+              data-lang-de="Moderner Stack – Entwicklung skalierbarer Lösungen mit Vue.js, Inertia.js und TypeScript mit Fokus auf Clean Code und modularer Architektur."
+            >
+              Modern Stack – Built scalable solutions using
+              <strong>TypeScript</strong>, <strong>Vue.js</strong>, and
+              <strong>Inertia.js</strong>.
+            </li>
+            <li
+              data-lang-en="Workflow Automation – Set up CI/CD pipelines via GitHub Actions and Docker to ensure rapid, high-quality feature delivery."
+              data-lang-de="Workflow-Automatisierung – Einrichtung von CI/CD-Pipelines via GitHub Actions und Docker zur Sicherstellung schneller, hochwertiger Feature-Auslieferung."
+            >
+              Workflow Automation – Set up <strong>CI/CD</strong> pipelines via
+              <strong>GitHub Actions</strong> and <strong>Docker</strong>.
+            </li>
+          </ul>
+        </div>
+
+        <div class="mb-6">
+          <h3 class="font-bold">
+            <span
+              data-lang-en="Freelance Front-End & UI Developer (Side Projects)"
+              data-lang-de="Freelance Front-End & UI-Entwickler (Nebenprojekte)"
+              >Freelance Front-End & UI Developer (Side Projects)</span
+            >
+          </h3>
+          <p class="text-sm text-gray-600">May 2020 – Present</p>
+          <ul class="list-disc ml-5 mt-2 text-sm">
+            <li
+              data-lang-en="Component-Based Design – Developing modular UI kits with Tailwind CSS and SASS for custom e-commerce dashboards (FilamentPHP/Lunar)."
+              data-lang-de="Komponentenbasiertes Design – Entwicklung modularer UI-Kits mit Tailwind CSS und SASS für maßgeschneiderte Dashboards."
+            >
+              Component-Based Design – Developing modular UI kits with
+              <strong>Tailwind CSS</strong> and <strong>SASS</strong>.
+            </li>
+            <li
+              data-lang-en="Modern Tooling – Utilizing Vite, npm/yarn, and local AI (Ollama) to streamline front-end development workflows and code quality."
+              data-lang-de="Modernes Tooling – Nutzung von Vite, npm/yarn und lokaler KI (Ollama) zur Optimierung von Front-End-Workflows und Code-Qualität."
+            >
+              Modern Tooling – Utilizing <strong>Vite</strong>,
+              <strong>npm/yarn</strong>, and Git for rapid development cycles.
+            </li>
+          </ul>
+        </div>
+      </section>
+
+      <section id="technical-skills" class="mb-4 md:mb-8">
+        <!-- Section: Technical Skills -->
+        <h2
+          class="text-xl font-semibold mb-2"
+          data-lang-en="Technical Skills"
+          data-lang-de="Technische Fähigkeiten"
+        >
+          Technical Skills
+        </h2>
+        <div class="text-sm grid gap-1 space-y-2">
+          <div>
+            <h4
+              class="font-semibold"
+              data-lang-en="Front-End Focus"
+              data-lang-de="Front-End Fokus"
+            >
+              Front-End Focus
+            </h4>
+            <ul class="list-disc ml-5">
+              <li>
+                <strong>React.js</strong> (Next.js, Redux), Vue.js (Vite,
+                Inertia.js) · <strong>TypeScript</strong> / JavaScript (ES6+)
+              </li>
+              <li>
+                <strong>HTML5, CSS3, SASS</strong> · Tailwind CSS · Material UI
+                · Design Systems
+              </li>
+              <li>
+                Responsive Design · Web Performance · UX/UI Prototyping
+                (<strong>Figma</strong>)
+              </li>
+            </ul>
+          </div>
+
+          <div>
+            <h4
+              class="font-semibold"
+              data-lang-en="Ecosystem & Tools"
+              data-lang-de="Ökosystem & Werkzeuge"
+            >
+              Ecosystem &amp; Tools
+            </h4>
+            <ul class="list-disc ml-5">
+              <li>
+                <strong>Vite, Webpack</strong> · npm, yarn · Git (GitFlow) ·
+                Docker
+              </li>
+              <li>
+                <strong>Node.js</strong> (Plus) · Electron (Awareness) · REST
+                APIs · GraphQL
+              </li>
+              <li>GitHub Actions · GitLab CI · Linux / Nginx</li>
+            </ul>
+          </div>
+
+          <div>
+            <h4
+              class="font-semibold"
+              data-lang-en="Competences"
+              data-lang-de="Kompetenzen"
+            >
+              Kompetenzen
+            </h4>
+            <ul class="list-disc ml-5">
+              <li
+                data-lang-en="Clean Code & Software Architecture (SOLID, Component-based)"
+                data-lang-de="Clean Code & Software-Architektur (SOLID, Komponentenbasiert)"
+              >
+                Clean Code &amp; Software Architecture (SOLID, Component-based)
+              </li>
+              <li
+                data-lang-en="Self-organized, solution-oriented working in Agile teams (Scrum/Kanban)"
+                data-lang-de="Selbstorganisiertes, lösungsorientiertes Arbeiten in agilen Teams (Scrum/Kanban)"
+              >
+                Self-organized, solution-oriented working in Agile teams
+                (Scrum/Kanban)
+              </li>
+              <li
+                data-lang-en="High quality and performance awareness"
+                data-lang-de="Hohes Qualitäts- und Performance-Bewusstsein"
+              >
+                High quality and performance awareness
+              </li>
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <section id="education" class="mb-4 md:mb-8">
+        <!-- Section: Education -->
+        <h2
+          class="text-xl font-semibold mb-2"
+          data-lang-en="Education"
+          data-lang-de="Bildung"
+        >
+          Education
+        </h2>
+        <p>
+          <strong>
+            <span
+              >Bachelor of Science (B.Sc.) in Computer Science
+              (Informatik)</span
+            >
+          </strong>
+          <span
+            class="text-sm text-gray-600"
+            data-lang-en="- GPA: 3.44 / 4.0"
+            data-lang-de="- Noten: 1.8"
+          >
+            - Noten: 1.8
+          </span>
+        </p>
+      </section>
+
+      <div class="projects grid grid-cols-2 gap-5">
+        <!-- Section: Projects -->
+        <section id="projects" class="mb-4 md:mb-8">
+          <!-- Section: Projects -->
+          <h2
+            class="text-xl font-semibold mb-2"
+            data-lang-en="Projects"
+            data-lang-de="Projekte"
+          >
+            Projects
+          </h2>
+          <p class="text-sm">
+            <span
+              data-lang-en="View my frontend portfolio and design system implementations:"
+              data-lang-de="Besuchen Sie mein Frontend-Portfolio und Design-System-Implementierungen:"
+              >View my frontend portfolio and design system
+              implementations:</span
+            >
+            <a
+              target="_blank"
+              href="https://masri.blog/Projects/Main"
+              class="text-blue-200 underline hover:text-blue-300"
+            >
+              masri.blog/Projects/Main</a
+            >
+          </p>
+        </section>
+        <section id="languages" class="mb-4 md:mb-8">
+          <!-- Section: Languages -->
+          <h2
+            class="text-xl font-semibold mb-2 title-font"
+            data-lang-en="Languages"
+            data-lang-de="Sprachen"
+          >
+            Languages
+          </h2>
+          <ul class="ml-1 text-sm space-y-1">
+            <li
+              data-lang-en="German: Professional (B2/B2)"
+              data-lang-de="Deutsch: Verhandlungssicher / B2-Niveau"
+            >
+              <span>German</span>
+            </li>
+            <li
+              data-lang-en="English: Advanced (B2/C2)"
+              data-lang-de="Englisch: Verhandlungssicher"
+            >
+              <span>English</span>
+            </li>
+            <li
+              data-lang-en="Arabic: Native"
+              data-lang-de="Arabisch: Muttersprache"
+            >
+              <span>Arabic</span>
+            </li>
+          </ul>
+        </section>
+      </div>
+    </div>
+    <footer
+      id="footer"
+      class="text-center text-xs text-gray-500 mt-10 fixed bottom-0 right-0 px-2 pt-2 text-xs text-gray-600 z-[9999]"
+    >
+      <div class="print-signature">
+        <a
+          href="https://resume.masri.blog"
+          target="_blank"
+          rel="noopener noreferrer"
+          >https://resume.masri.blog</a
+        >
+      </div>
+    </footer>
+
+    <div class="fixed top-4 right-4 flex flex-col space-y-3 no-print">
+      <!-- Print and Download Buttons -->
+      <button
+        onClick="switchLanguage()"
+        class="flex items-center justify-center p-2 bg-gray-200 rounded-lg shadow-md hover:bg-gray-300 focus:outline-none focus:ring-2 focus:ring-gray-400 dark:bg-gray-700 dark:hover:bg-gray-600 dark:focus:ring-gray-500 transition-colors duration-200"
+        aria-label="Switch Language"
+      >
+        <i
+          data-lucide="languages"
+          class="w-5 h-5 text-gray-700 dark:text-gray-400"
+        ></i>
+      </button>
+
+      <button
+        id="theme-toggle"
+        class="flex items-center justify-center p-2 bg-gray-200 rounded-lg shadow-md hover:bg-gray-300 focus:outline-none focus:ring-2 focus:ring-gray-400 dark:bg-gray-700 dark:hover:bg-gray-600 dark:focus:ring-gray-500 transition-colors duration-200"
+        aria-label="Toggle Theme"
+      >
+        <i
+          data-lucide="sun-moon"
+          class="w-5 h-5 text-gray-700 dark:text-gray-400"
+        ></i>
+      </button>
+
+      <button
+        onClick="window.print()"
+        class="flex items-center justify-center p-2 bg-gray-200 rounded-lg shadow-md hover:bg-gray-300 focus:outline-none focus:ring-2 focus:ring-gray-400 dark:bg-gray-700 dark:hover:bg-gray-600 dark:focus:ring-gray-500 transition-colors duration-200"
+        aria-label="Print Page"
+      >
+        <i
+          data-lucide="Printer"
+          class="w-5 h-5 text-gray-700 dark:text-gray-400"
+        ></i>
+      </button>
+
+      <button
+        onclick="downloadPdfHandler()"
+        id="downloadPdf"
+        class="flex items-center justify-center p-2 bg-gray-200 rounded-lg shadow-md hover:bg-gray-300 focus:outline-none focus:ring-2 focus:ring-gray-400 dark:bg-gray-700 dark:hover:bg-gray-600 dark:focus:ring-gray-500 transition-colors duration-200"
+        aria-label="Download Page"
+      >
+        <i
+          data-lucide="Download"
+          class="w-5 h-5 text-gray-700 dark:text-gray-400"
+        ></i>
+      </button>
+    </div>
+  </body>
+</html>
+<!-- Production version -->
+<script src="https://unpkg.com/lucide@latest"></script>
+<script>
+  lucide.createIcons();
+</script>
+<!-- Toggle Theme -->
+<script>
+  const themeToggleBtn = document.getElementById("theme-toggle");
+  const htmlElement = document.documentElement;
+
+  function setTheme(theme) {
+    if (theme === "dark") {
+      htmlElement.classList.add("dark");
+      localStorage.setItem("theme", "dark");
+    } else {
+      htmlElement.classList.remove("dark");
+      localStorage.setItem("theme", "light");
+    }
+  }
+
+  const storedTheme = localStorage.getItem("theme");
+  if (storedTheme) {
+    setTheme(storedTheme);
+  } else if (window.matchMedia("(prefers-color-scheme: dark)").matches) {
+    setTheme("dark");
+  } else {
+    setTheme("light");
+  }
+
+  themeToggleBtn.addEventListener("click", () => {
+    if (htmlElement.classList.contains("dark")) {
+      setTheme("light");
+    } else {
+      setTheme("dark");
+    }
+  });
+</script>
+
+<!-- Toggle Language -->
+<script>
+  function switchLanguage() {
+    const languages = ["de", "en"];
+    let currentLang = localStorage.getItem("lang") || "en";
+
+    const newLang = currentLang === "en" ? "de" : "en";
+    localStorage.setItem("lang", newLang);
+
+    applyLanguage(newLang);
+  }
+
+  function applyLanguage(lang) {
+    document.documentElement.lang = lang;
+
+    const elements = document.querySelectorAll("[data-lang-en]");
+    elements.forEach((el) => {
+      const text = el.getAttribute(`data-lang-${lang}`);
+      if (text) el.textContent = text;
+    });
+  }
+
+  document.addEventListener("DOMContentLoaded", () => {
+    const savedLang = localStorage.getItem("lang") || "en";
+    applyLanguage(savedLang);
+  });
+</script>
+
+<!-- Download Function -->
+<script>
+  function downloadPdfHandler() {
+    const resumeElement = document.getElementById("resumeContent");
+
+    document.body.classList.add("pdf-export-active");
+
+    html2canvas(resumeElement, {
+      scale: 2,
+      useCORS: true,
+      backgroundColor: window
+        .getComputedStyle(document.body)
+        .getPropertyValue("background-color"),
+    })
+      .then((canvas) => {
+        const imgData = canvas.toDataURL("image/png");
+        const { jsPDF } = window.jspdf;
+        const pdf = new jsPDF({
+          orientation: "portrait",
+          unit: "pt",
+          format: "a4",
+        });
+
+        const imgProps = pdf.getImageProperties(imgData);
+        const pdfWidth = pdf.internal.pageSize.getWidth();
+        const pdfHeight = pdf.internal.pageSize.getHeight();
+
+        const bottomMargin = 10;
+
+        const usablePdfPageHeight = pdfHeight - bottomMargin;
+
+        const imgHeightInPdf = (imgProps.height * pdfWidth) / imgProps.width;
+
+        let heightLeft = imgHeightInPdf;
+        let position = 0;
+
+        // Add the first page
+        pdf.addImage(imgData, "PNG", 0, position, pdfWidth, imgHeightInPdf);
+        heightLeft -= usablePdfPageHeight;
+
+        while (heightLeft > 0) {
+          position = heightLeft - imgHeightInPdf;
+          pdf.addPage();
+          pdf.addImage(imgData, "PNG", 0, position, pdfWidth, imgHeightInPdf);
+          heightLeft -= usablePdfPageHeight;
+        }
+        pdf.save("01-CV-Mohamad-Masri-NewMedia.pdf");
+      })
+      .catch((err) => {
+        console.error("Error generating PDF:", err);
+      })
+      .finally(() => {
+        document.body.classList.remove("pdf-export-active");
+      });
+  }
+</script>

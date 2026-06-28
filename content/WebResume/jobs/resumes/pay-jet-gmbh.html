@@ -1,0 +1,263 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <!-- Primary Meta Tags -->
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="index, follow" />
+    <meta
+      name="description"
+      content="Mohamad Masri's Resume - Tailored for Pay-Jet GmbH"
+    />
+    <meta name="author" content="Mohamad Masri" />
+    <title>Mohamad Masri - Full Stack Developer - Pay-Jet GmbH</title>
+    <link rel="canonical" href="https://masri.blog/" />
+    <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+
+    <!-- Fonts -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lato&family=Playfair+Display+SC&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Tailwind CDN (for prototyping only) -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        darkMode: "class",
+        theme: { extend: {} },
+      };
+    </script>
+  </head>
+
+  <body
+    id="pdf-content"
+    class="text-stone-900 font-sans leading-relaxed bg-stone-100 dark:bg-stone-800 dark:text-neutral-300 overflow-x-hidden"
+  >
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+
+    <!-- Custom Styles -->
+    <link rel="stylesheet" href="./style.css" />
+
+    <div
+      id="resumeContent"
+      class="max-w-4xl mx-auto p-6 bg-stone-50 shadow-md dark:bg-stone-950 overflow-hidden"
+    >
+      <header id="header" class="border-b pb-6 mb-6">
+        <div
+          class="relative flex flex-col items-center gap-4 sm:flex-row sm:justify-start sm:gap-6 md:gap-10"
+        >
+          <img
+            class="h-16 w-16 rounded-full object-cover sm:h-16 sm:w-16"
+            src="https://resume.masri.blog/profile.jpg"
+            alt="Avatar"
+          />
+          <div class="grow w-full text-center sm:text-start">
+            <h3 class="text-2xl font-bold md:text-3xl">Mohamad Masri</h3>
+            <div
+              class="flex flex-col items-center sm:flex-row sm:items-baseline w-full text-center md:text-start mt-1"
+            >
+              <p>
+                Oldenburg, Deutschland |
+                <a target="_blank" href="mailto:hallo@masri-programmer.de"
+                  >hallo@masri-programmer.de</a
+                >
+                |
+                <a target="_blank" href="https://masri.blog">masri.blog</a> |
+                <a target="_blank" href="https://masri-programmer.de"
+                  >masri-programmer.de</a
+                >
+              </p>
+            </div>
+          </div>
+        </div>
+      </header>
+
+      <section id="work-experience" class="mb-4 md:mb-8">
+        <h2 class="text-xl font-semibold mb-2 title-font">Berufserfahrung</h2>
+
+        <div class="mb-6">
+          <h3 class="font-bold">
+            Softwareentwickler – Meinders & Elstermann GmbH & Co. KG (Hybrid)
+          </h3>
+          <p class="text-sm text-gray-600">Apr. 2024 – Heute</p>
+          <ul class="list-disc ml-5 mt-2 text-sm">
+            <li>
+              <strong>Systemmodernisierung:</strong> Betreuung und
+              Modernisierung von über 35 Enterprise-Systemen auf Basis von
+              <strong>Laravel</strong> und <strong>Vue.js</strong>. Optimierung
+              bestehender Codebasen zur Steigerung der Skalierbarkeit und
+              Wartbarkeit.
+            </li>
+            <li>
+              <strong>Performance-Optimierung:</strong> Reduzierung der
+              Initialladezeiten um 15s durch Beseitigung von N+1-Abfragen und
+              Implementierung von <strong>Redis</strong> Caching-Strategien.
+            </li>
+            <li>
+              <strong>Backend-Exzellenz:</strong> Entwicklung skalierbarer
+              Lösungen mit PHP 8+, Eloquent ORM und <strong>Inertia.js</strong>.
+              Integration komplexer Datenbankstrukturen (MariaDB, OpenSearch).
+            </li>
+            <li>
+              <strong>DevOps & CI/CD:</strong> Containerisierung von
+              Applikationen mit <strong>Docker</strong> und Automatisierung der
+              Deployments via <strong>GitHub Actions</strong> für fehlerfreie
+              Releases.
+            </li>
+            <li>
+              <strong>Architektur:</strong> Anwendung von Design Patterns zur
+              Strukturierung langlebiger Softwarelösungen im Enterprise-Umfeld.
+            </li>
+          </ul>
+        </div>
+
+        <div class="mb-6">
+          <h3 class="font-bold">Full Stack Developer – Brainkets (Hybrid)</h3>
+          <p class="text-sm text-gray-600">Juli 2022 – Sep. 2023</p>
+          <ul class="list-disc ml-5 mt-2 text-sm">
+            <li>
+              <strong>React & Frontend:</strong> Entwicklung interaktiver UIs
+              und skalierbarer Enterprise-Anwendungen mit
+              <strong>React.js</strong>, Next.js und Redux.
+            </li>
+            <li>
+              <strong>PHP Backend:</strong> Erstellung robuster
+              Backend-Komponenten und REST APIs mit <strong>PHP</strong> (Yii2)
+              unter strikter Einhaltung von Clean Code Prinzipien.
+            </li>
+            <li>
+              <strong>API-Integration:</strong> Anbindung von
+              Frontend-Komponenten an verteilte REST-Systeme und Integration
+              externer Schnittstellen.
+            </li>
+            <li>
+              <strong>UI/UX:</strong> Präzise Umsetzung von Figma-Designs in
+              responsive Oberflächen unter Verwendung von Tailwind CSS und
+              Material UI.
+            </li>
+          </ul>
+        </div>
+
+        <div class="mb-6">
+          <h3 class="font-bold">
+            Freelance Full Stack Developer & Systemadministrator (Remote)
+          </h3>
+          <p class="text-sm text-gray-600">Mai 2020 – Heute</p>
+          <ul class="list-disc ml-5 mt-2 text-sm">
+            <li>
+              <strong>VILT-Stack Entwicklung:</strong> Erstellung
+              maßgeschneiderter Dashboards und E-Commerce-Lösungen mit
+              <strong>FilamentPHP</strong>, Laravel und Vue.
+            </li>
+            <li>
+              <strong>KI-Integration:</strong> Entwicklung KI-gestützter
+              Features unter Nutzung lokaler LLMs (Ollama) zur
+              Prozessautomatisierung.
+            </li>
+            <li>
+              <strong>Infrastruktur:</strong> Eigenverantwortliche Verwaltung
+              von Linux-Serverumgebungen (Uberspace), Datenbankmanagement und
+              Backup-Strategien.
+            </li>
+          </ul>
+        </div>
+      </section>
+
+      <section id="technical-skills" class="mb-4 md:mb-8">
+        <h2 class="text-xl font-semibold mb-2">Technische Fähigkeiten</h2>
+        <div class="text-sm grid gap-1 space-y-2">
+          <div>
+            <h4 class="font-semibold">Backend & Core</h4>
+            <ul class="list-disc ml-5">
+              <li>
+                <strong>PHP 8+</strong> (Laravel, Yii2, Symfony-Kenntnisse,
+                Laminas-adaptiv) · PHPUnit
+              </li>
+              <li>
+                <strong>Datenbanken:</strong> MySQL, MariaDB, Redis, OpenSearch
+                · AWS S3
+              </li>
+              <li><strong>APIs:</strong> REST, GraphQL, SOAP Integrationen</li>
+            </ul>
+          </div>
+
+          <div>
+            <h4 class="font-semibold">Frontend</h4>
+            <ul class="list-disc ml-5">
+              <li>
+                <strong>React.js</strong> (Redux, Next.js) ·
+                <strong>Vue.js</strong> (Inertia.js, Vite) · Alpine.js
+              </li>
+              <li>
+                HTML5, CSS3, <strong>Tailwind CSS</strong>, SASS, JavaScript
+                (ES6+) / TypeScript
+              </li>
+            </ul>
+          </div>
+
+          <div>
+            <h4 class="font-semibold">DevOps & Tools</h4>
+            <ul class="list-disc ml-5">
+              <li>
+                Docker · GitHub Actions (CI/CD) · GitFlow · Linux (Nginx/Apache)
+              </li>
+              <li>
+                Zoho CRM (Grundlagen) · Google Analytics / Tag Manager · Figma
+              </li>
+            </ul>
+          </div>
+
+          <div>
+            <h4 class="font-semibold">Kompetenzen</h4>
+            <ul class="list-disc ml-5">
+              <li>
+                Selbstständige, strukturierte Arbeitsweise in agilen Teams
+              </li>
+              <li>
+                Erfahrung in der Modernisierung von Bestandssystemen (Legacy
+                Code)
+              </li>
+              <li>
+                Schnelle Einarbeitung in neue Frameworks und Schnittstellen
+              </li>
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <section id="education" class="mb-4 md:mb-8">
+        <h2 class="text-xl font-semibold mb-2">Bildung</h2>
+        <p>
+          <strong
+            >Bachelor of Science (B.Sc.) in Computer Science
+            (Informatik)</strong
+          >
+          <span class="text-sm text-gray-600"> - Note: 1.8</span>
+        </p>
+        <p class="text-sm mt-2">
+          Fokus auf OOP, Datenstrukturen, Algorithmenentwurf und Clean Code.
+        </p>
+      </section>
+
+      <div class="grid grid-cols-2 gap-5">
+        <section id="languages" class="mb-4 md:mb-8">
+          <h2 class="text-xl font-semibold mb-2 title-font">Sprachen</h2>
+          <ul class="ml-1 text-sm space-y-1">
+            <li>Deutsch: Verhandlungssicher (C1)</li>
+            <li>Englisch: Fließend / Zweisprachig (C2)</li>
+            <li>Arabisch: Muttersprache</li>
+          </ul>
+        </section>
+
+        <section id="hobbies" class="mb-4 md:mb-8">
+          <h2 class="text-xl font-semibold">Hobbys</h2>
+          <ul class="list-disc ml-5 text-sm">
+            <li>Fitness, Reisen, Gaming</li>
+          </ul>
+        </section>
+      </div>
+    </div>
+  </body>
+</html>

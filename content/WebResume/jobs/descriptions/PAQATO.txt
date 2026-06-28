@@ -1,0 +1,44 @@
+Senior Software Engineer Backend PHP/Laravel - 100 % remote (m/w/d)
+Remote (Deutschland)
+Angestellte/r
+Softwareentwicklung
+Bei PAQATO verfolgen wir seit 2016 das Ziel, das Kundenerlebnis im After Sales im E-Commerce auf ein neues Level zu heben. Als innovatives SaaS-Unternehmen entwickeln wir eine Plattform, die Händler und Kunden auch nach dem Kauf verbindet und begeistert. Mit über neun Jahren erfolgreicher Entwicklung sind wir auf dem besten Weg, die führende After-Sales-Plattform für den Mittelstand im europäischen
+E-Commerce zu werden – eine Mission, die wir mit Leidenschaft und Innovationskraft vorantreiben.
+
+Über 2.500 Onlineshops vertrauen uns täglich. Dahinter steckt ein System, das zuverlässig, performant und skalierbar sein muss.
+
+In dieser Rolle treibst du die Weiterentwicklung unserer PHP/Laravel Service-Landschaft voran. Du bist kein Fan von Mikromanagement, liebst sauberen Code und willst echte Verantwortung übernehmen? Dann wirst du dich bei uns sofort wohlfühlen.
+
+Arbeitsort: 100 % remote oder vor Ort in unserem Büro in Münster.
+
+Aufgaben
+Architektur & Weiterentwicklung einer skalierbaren Service-Architektur (PHP/Laravel), inklusive Service-Zuschnitt, Schnittstellen-Design und Stabilität
+Konzeption und Implementierung von APIs sowie Integration externer APIs und Drittsysteme
+Daten & Performance: Datenbankdesign, Query-Optimierung und Performance-Tuning in MySQL und Elasticsearch
+Qualitätssicherung: Unit- und Integrationstests, Code Review, Dokumentation, sauberes Debugging, nachhaltige Refactorings und Best Practices
+Cross-funktionale Zusammenarbeit mit PM, CSM, Data und Ops, inklusive Präsentation von Ergebnissen und technischer Roadmaps
+Tech Stack
+
+Backend: PHP, Laravel
+Infrastruktur: MySQL, Elasticsearch, Redis, RabbitMQ, Docker, Kubernetes, GitHub
+AI-Tools: Claude Code, Gemini Pro
+Was die Rolle besonders macht:
+
+Hohes Ownership: Du verantwortest zentrale Teile der Plattform und prägst Standards und technische Vision
+Sichtbarkeit im Unternehmen: Präsentation von Architektur- und Produktfortschritt auch vor größeren Stakeholder-Gruppen
+Qualifikation
+Mehrjährige Erfahrung in der Softwareentwicklung, starker Schwerpunkt Backend
+Sehr gute Praxis in PHP/Laravel und verteilten Architekturen (Microservices, APIs, Datenflüsse)
+Erfahrung mit MySQL, Elasticsearch, RabbitMQ, Redis
+Souverän im Engineering-Handwerk: Testing, Reviews, Refactoring, Performance, Security, Observability
+Starkes Verständnis für pragmatische Exzellenz: Balance zwischen Qualität, Geschwindigkeit und Wirtschaftlichkeit
+Wünschenswert: Erfahrung mit AI-Tools wie Claude Code, agentischen Workflows, LLM-Integrationen
+Benefits
+Hands-On Teamspirit: Unser Team besteht aus Allstars, die gemeinsam wachsen wollen - wir suchen Talente, die Themen eigenverantwortlich und selbstständig vorantreiben und dabei nie den Teamerfolg aus den Augen verlieren
+Flexible Arbeitszeiten & Arbeitsort: Ob 100 % Homeoffice oder Büro – wir sind flexibel
+Teamevents: Ob beim Tischtennis-Match, beim Feierabendbier oder anderen gemeinsamen Aktivitäten - der Spaß darf bei uns nicht fehlen
+Spannende Location: Am [whyit] Campus sind viele Unternehmen mit Tech-Schwerpunkt zuhause. Hier profitieren wir von Nachbarschafts-Kooperationen und vielen kreativen Köpfen
+Unsere Mission: Wir sorgen tagtäglich mit unserem Tool für eine ‘Customer Happiness’, was spürbar ist und uns noch mehr Power gibt.
+Wenn du Lust hast, in einem innovativen Umfeld mitzugestalten, dann freuen wir uns auf deine Bewerbung!
+
+Bewirb dich jetzt und werde Teil unseres erfolgreichen Teams bei PAQATO!

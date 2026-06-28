@@ -1,0 +1,1 @@
+A 3x4 grid of hairstyle variations for a single subject, based on the user's own photo. Ultra-realistic, consistent facial identity across all tiles, shallow depth of field, soft studio lighting. Reference and unisex; no gendered conversions. NEG: no logo/text, no plastic skin, no distortions, no extra fingers, no watermark, no text inside the image.

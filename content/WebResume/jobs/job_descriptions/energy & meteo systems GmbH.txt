@@ -1,0 +1,69 @@
+Full-Stack Softwareentwickler / Software Engineer für erneuerbare Energien, gern Fachinformatiker, Physiker oder Quereinsteiger (w/m/d)
+energy & meteo systems GmbH Oldenburg bei Bremen 29.03.2026
+
+Full-Stack Softwareentwickler:in / Software Engineer für erneuerbare Energien
+
+Gestalte mit uns die Energiewende!
+Wir von energy & meteo systems geben gemeinsam mit unseren Partnerfirmen emsys VPP und emsys grid services täglich unser Bestes, um die erneuerbaren Energien effizient in Stromnetze und -märkte zu integrieren und die Energiewende weiter voranzubringen. Dafür bieten wir unseren Kunden – Stromhändlern und Netzbetreibern weltweit – zukunftsweisende Softwareprodukte sowie Full-Service-Dienstleistungen. Hierzu gehören neben Wind- und Solarleistungsprognosen virtuelle Kraftwerke zur Steuerung dezentraler Energieanlagen sowie ein Plattformkonzept zur vorausschauenden Netzplanung.
+Unsere Mitarbeiter:innen hinterlassen einen wirklich grünen Fußabdruck. Werde auch du Teil unseres einzigartigen Teams und leiste deinen Beitrag zur Energiewende!
+
+Du löst gerne Probleme? Dann lass uns zusammen herausfinden, wo du deine Talente bei uns einbringen kannst und unterstütze unser Team in Oldenburg als Full-Stack Softwareentwickler:in / Software Engineer.
+Deine Aufgabe
+Wir sind technologisch breit aufgestellt. Als Programmiersprachen kommen Python, Java und TypeScript zum Einsatz. Du entwickelst Softwarekomponenten für unsere SaaS-Produkte. Deine möglichen Aufgabenbereiche könnten sein:
+Infrastructure Tooling
+REST APIs (Backend und Frontend – API-Clients und Web)
+GUI-Entwicklung für wissenschaftliche Anwendungen und Datenvisualisierung
+Datenbankentwicklung und -tuning
+Zeitreihenmanagement
+Message queues / brokers (Kafka, RabbitMQ)
+Data pipelines
+Container Platform (Docker, Kubernetes)
+Microservices
+Dein Profil
+Du willst mitdenken und hinterfragen, bist bereit mit anzupacken und Problemlösungen besser zu machen als sie sind. Diese Features machen dich aus:
+Du hast ein ingenieur- oder naturwissenschaftliches Studium im Bereich Informatik, Software Engineering, Physik oder Mathematik oder eine Ausbildung zum:zur Fachinformatiker:in für Anwendungsentwicklung abgeschlossen oder eine vergleichbare Qualifikation – auch ein Quereinstieg ist möglich.
+Als Berufseinsteiger:in oder mit Berufserfahrung in der Softwareentwicklung bist du uns gleichermaßen willkommen.
+Erfahrung in einer objektorientierten oder Multiparadigmen-Programmiersprache wie Java oder Python bringst du mit.
+Du hast den Drive, robuste und sichere Software zu bauen.
+Mit deinem überzeugenden Auftreten und deiner offenen, freundlichen und konstruktiven Art kannst du bei uns im Team punkten.
+Unser Angebot
+Work-Life-Support
+Dein Arbeitstag ist abwechslungs­reich, deine Tätigkeit anspruchsvoll und dein Team motiviert.
+Unbefristeter Arbeitsvertrag – wir rechnen längerfristig mit dir.
+Flexible Arbeitszeit und die Erfassung jeder Überstunde: Du musst nicht um 7 Uhr auf der Matte stehen. Wichtig ist uns, dass du vollen Einsatz zeigst, wenn du da bist.
+auch mobiles Arbeiten ist möglich
+Karriere
+Du erhältst die Chance, an sinnstiftenden Projekten im Bereich Erneuerbare Energien mitzuarbeiten und dein Potenzial sowie deine Ideen einzubringen.
+Flache Hierarchien und kurze Entscheidungswege – unsere Chefs haben offene Ohren und Türen.
+WIR-Gefühl
+Auch außerhalb unserer Büroräume ist die Stimmung gut
+
+jährlicher Betriebsausflug,
+Teambuildingmaßnahmen,
+Sommerfest und Weihnachtsfeier,
+monatliche Spieleabende etc.
+Fitness und Gesundheit
+Du bist uns wichtig. Deshalb bieten wir:
+
+betriebliches Fahrradleasing
+Sportzuschuss
+Laufgruppe, Beachvolleyballfeld, Tischtennisplatte, Schaukeln und Reckstangen
+Faire Vergütung
+und Vorsorge
+Zusätzlich zu den anderen Benefits haben wir noch was für deine Zukunftssicherung im Angebot:
+
+Betriebliche Altersvorsorge
+Berufsunfähigkeitsversicherung
+guud-Karte als Sachbezug: nachhaltig, regional einkaufen
+Essen und Getränke
+Für den kleinen Break zwischendurch gibt es Getränke, Bio-Obst und Snacks for free
+Wir haben eine hauseigene Kantine mit vegetarischen, veganen und fleischhaltigen Gerichten aus regionalen Produkten
+
+
+Schon allein, um die Rutschen zwischen unseren Büroetagen auszuprobieren, solltest du dich bewerben. Keine Sorge: Eine Treppe und einen Fahrstuhl haben wir auch. Hier kannst du dir selbst ein Bild machen: www.emsys-renewables.com/de/ueber_uns/arbeitsplatz.php
+
+
+Du fühlst dich angesprochen?
+
+Dann bewirb dich mit deinen aussagekräftigen Bewerbungsunterlagen per E-Mail: jobs@energymeteo.de
+Deine Ansprechpartnerin ist Alexandra Jobst.
